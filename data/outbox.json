@@ -1,25 +1,7 @@
 {
   "pending": {
-    "discord": [
-      "oracle:hdjq.fa.us2.oraclecloud.com:26010738",
-      "workday:cox:/job/Atlanta-GA/Infrastructure-Operations-Intern---Summer-2027_R202682357",
-      "workday:cox:/job/Atlanta-GA/AI-Automation-Intern---Summer-2027_R202682342",
-      "workday:cox:/job/Atlanta-GA/Infrastructure-Automation-Intern---Summer-2027_R202682338",
-      "workday:cox:/job/Atlanta-GA/Cybersecurity-Intern---Summer-2027_R202682288"
-    ],
-    "telegram": [
-      "oracle:hdjq.fa.us2.oraclecloud.com:26010738",
-      "workday:cox:/job/Atlanta-GA/Infrastructure-Operations-Intern---Summer-2027_R202682357",
-      "workday:cox:/job/Atlanta-GA/AI-Automation-Intern---Summer-2027_R202682342",
-      "workday:cox:/job/Atlanta-GA/Infrastructure-Automation-Intern---Summer-2027_R202682338",
-      "workday:cox:/job/Atlanta-GA/Cybersecurity-Intern---Summer-2027_R202682288"
-    ],
-    "personal_email": [
-      "oracle:hdjq.fa.us2.oraclecloud.com:26010738",
-      "workday:cox:/job/Atlanta-GA/Infrastructure-Operations-Intern---Summer-2027_R202682357",
-      "workday:cox:/job/Atlanta-GA/AI-Automation-Intern---Summer-2027_R202682342",
-      "workday:cox:/job/Atlanta-GA/Infrastructure-Automation-Intern---Summer-2027_R202682338",
-      "workday:cox:/job/Atlanta-GA/Cybersecurity-Intern---Summer-2027_R202682288"
-    ]
+    "discord": [],
+    "telegram": [],
+    "personal_email": []
   }
 }
