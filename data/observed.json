@@ -435,6 +435,19 @@
     }
    }
   },
+  "bedrock robotics": {
+   "name": "Bedrock Robotics",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-10",
+     "role_ids": [
+      "ashby:bedrock-robotics:0331551e-c18e-428a-8e91-e6cb25c9c2e8",
+      "ashby:bedrock-robotics:c51d682e-58ee-44de-886f-4cfacb56d2e1"
+     ],
+     "count": 2
+    }
+   }
+  },
   "belvedere trading": {
    "name": "Belvedere Trading",
    "cycles": {
@@ -600,12 +613,15 @@
      "role_ids": [
       "workday:caci:/job/Danbury-CT-US/Software-Engineering-Co-op---Spring---Summer-2027_331356-1",
       "workday:caci:/job/Danbury-CT-US/Software-Engineering-Co-op---Summer---Fall-2027_331354",
+      "workday:caci:/job/Denver-CO-US/DevOps-Software-Engineering-Intern---Summer-2027_331798",
+      "workday:caci:/job/Denver-CO-US/Software-Engineering-Intern---Summer-2027_331543-1",
+      "workday:caci:/job/Lisle-IL-US/Software-Engineering-Intern---Summer-2027_331742",
       "workday:caci:/job/Sarasota-FL-US/AWS-Cloud-Engineering-Intern---Summer-2027_331437",
       "workday:caci:/job/Sarasota-FL-US/Software-Engineering-Intern---Summer-2027_331359",
       "workday:caci:/job/Sterling-VA-US/DevOps-Software-Engineering-Intern---Summer-2027_331466",
       "workday:caci:/job/Ypsilanti-MI-US/Software-Engineer-Intern---Summer-2027_331648"
      ],
-     "count": 6
+     "count": 9
     }
    }
   },
@@ -1371,6 +1387,18 @@
     }
    }
   },
+  "hmh": {
+   "name": "HMH",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-09",
+     "role_ids": [
+      "workday:hmhw:/job/Houston-TX/Software-Engineering-Intern_JR102384"
+     ],
+     "count": 1
+    }
+   }
+  },
   "honeywell": {
    "name": "Honeywell",
    "cycles": {
@@ -1457,6 +1485,18 @@
     }
    }
   },
+  "hypertherm": {
+   "name": "Hypertherm",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-09",
+     "role_ids": [
+      "workday:hypertherm:/job/West-Lebanon-NH/Summer-Intern---Software-Engineering_R4005"
+     ],
+     "count": 1
+    }
+   }
+  },
   "iat insurance group": {
    "name": "IAT Insurance Group",
    "cycles": {
@@ -1505,6 +1545,19 @@
       "greenhouse:imc:4907399101",
       "greenhouse:imc:4907430101"
      ]
+    }
+   }
+  },
+  "immuta": {
+   "name": "Immuta",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-09",
+     "role_ids": [
+      "lever:immuta:3c4cb235-6138-4a50-add2-666a5216427e",
+      "lever:immuta:b9b21075-74a4-4b64-8f1b-f0be1fb0b24d"
+     ],
+     "count": 2
     }
    }
   },
@@ -1851,9 +1904,10 @@
     "Summer 2027": {
      "first_posted": "2026-09-10",
      "role_ids": [
-      "greenhouse:testnisc:8191898"
+      "greenhouse:testnisc:8191898",
+      "greenhouse:testnisc:8191987"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -2084,6 +2138,18 @@
     }
    }
   },
+  "pacific fusion": {
+   "name": "Pacific Fusion",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-09",
+     "role_ids": [
+      "greenhouse:pacificfusion:4398373009"
+     ],
+     "count": 1
+    }
+   }
+  },
   "pdt partners": {
    "name": "PDT Partners",
    "cycles": {
@@ -2147,6 +2213,18 @@
      "first_posted": "2026-08-20",
      "role_ids": [
       "ashby:phoebe-work:1ffe3e63-2163-447e-a8b0-1fff8b87e0ca"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "pilot": {
+   "name": "Pilot Company",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-09",
+     "role_ids": [
+      "smartrecruiters:PilotCompany:744000148577368"
      ],
      "count": 1
     }
@@ -2279,9 +2357,10 @@
     "Summer 2027": {
      "first_posted": "2026-09-08",
      "role_ids": [
+      "greenhouse:rfsmart:5407206008",
       "greenhouse:rfsmart:5409034008"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -2339,6 +2418,7 @@
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/Software-Engineering-Intern-Summer-2027-_01870349-1",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-107--400-Collins-Rd-NE--BLDG-107/Software-Engineering-Intern--Summer-2027-_01868241",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-107--400-Collins-Rd-NE--BLDG-107/Software-Engineering-Intern--Summer-2027-_01871019",
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-124--400-Collins-Rd-NE--BLDG-124/Software-Engineering-Co-op--Summer--Fall-2027-_01873293",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineer-Intern---Summer-2027-_01870613",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Summer-Fall-2027---Onsite-_01869518",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Intern--Summer-2027-_01866136",
@@ -2352,7 +2432,7 @@
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-179--855-35Th-St-NE--BLDG-179/Software-Engineering-Intern--Summer-Fall-2027-_01873006",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-192--1205-Continental-Place-NE--BLDG-192/Software-Engineering-Intern--Summer-2027-_01867324"
      ],
-     "count": 17
+     "count": 18
     }
    }
   },
@@ -2700,6 +2780,18 @@
     }
    }
   },
+  "target": {
+   "name": "Target",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-10",
+     "role_ids": [
+      "workday:target:/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Software-Engineering-Summer-Internship-Minneapolis--MN--Starting-June-2027-_R0000451082"
+     ],
+     "count": 1
+    }
+   }
+  },
   "tarrant regional water district": {
    "name": "Tarrant Regional Water District",
    "cycles": {
@@ -2988,6 +3080,18 @@
     }
    }
   },
+  "viam": {
+   "name": "Viam",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-08",
+     "role_ids": [
+      "greenhouse:viamrobotics:6185046004"
+     ],
+     "count": 1
+    }
+   }
+  },
   "virtu financial": {
    "name": "Virtu Financial",
    "cycles": {
@@ -3179,5 +3283,5 @@
    }
   }
  },
- "updated_at": "2026-09-10T19:22:17Z"
+ "updated_at": "2026-09-10T21:53:24Z"
 }
