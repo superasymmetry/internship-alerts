@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-10T21:53:24Z",
- "data_as_of": "2026-09-10T21:53:24Z",
- "rendered_at": "2026-09-10T21:53:25Z",
+ "generated_at": "2026-09-10T23:41:30Z",
+ "data_as_of": "2026-09-10T23:41:30Z",
+ "rendered_at": "2026-09-10T23:41:30Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/superasymmetry/internship-alerts",
  "companies": [
@@ -2562,7 +2562,7 @@
    "expected": "2026-09-08",
    "days_until": -2,
    "status": "open",
-   "url": "https://job-boards.greenhouse.io/rfsmart/jobs/5409034008",
+   "url": "https://job-boards.greenhouse.io/rfsmart/jobs/5407206008",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -2695,7 +2695,7 @@
    "expected": "2026-09-09",
    "days_until": -1,
    "status": "open",
-   "url": "https://jobs.lever.co/immuta/b9b21075-74a4-4b64-8f1b-f0be1fb0b24d",
+   "url": "https://jobs.lever.co/immuta/3c4cb235-6138-4a50-add2-666a5216427e",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -2856,6 +2856,25 @@
    }
   },
   {
+   "company": "Emerson Electric",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-10",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-10",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010738",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-10"
+   }
+  },
+  {
    "company": "Hudl",
    "last_cycle_posted": "",
    "posted_on": "2026-09-10",
@@ -2942,11 +2961,11 @@
    "expected": "",
    "days_until": null,
    "status": "open",
-   "url": "https://ats.rippling.com/collieraerospace/jobs/b666dbfe-34e5-422f-8879-4d53c0ae1f51",
+   "url": "https://ats.rippling.com/collieraerospace/jobs/4981b0ba-5b6f-4ebe-95c0-9d1cda036b77",
    "note": "",
    "provenance": {
     "type": "live-role",
-    "url": "https://ats.rippling.com/collieraerospace/jobs/b666dbfe-34e5-422f-8879-4d53c0ae1f51"
+    "url": "https://ats.rippling.com/collieraerospace/jobs/4981b0ba-5b6f-4ebe-95c0-9d1cda036b77"
    }
   },
   {
@@ -5762,5 +5781,5 @@
    }
   }
  ],
- "count": 303
+ "count": 304
 }

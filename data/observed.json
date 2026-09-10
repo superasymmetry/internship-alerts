@@ -804,6 +804,10 @@
     "Summer 2027": {
      "first_posted": "2026-09-04",
      "role_ids": [
+      "workday:cox:/job/Atlanta-GA/AI-Automation-Intern---Summer-2027_R202682342",
+      "workday:cox:/job/Atlanta-GA/Cybersecurity-Intern---Summer-2027_R202682288",
+      "workday:cox:/job/Atlanta-GA/Infrastructure-Automation-Intern---Summer-2027_R202682338",
+      "workday:cox:/job/Atlanta-GA/Infrastructure-Operations-Intern---Summer-2027_R202682357",
       "workday:cox:/job/Atlanta-GA/Software-Engineering-Intern---Summer-2027--Atlanta--GA-_R202682166",
       "workday:cox:/job/Austin-TX/Software-Engineering-Intern---Summer-2027--Austin--TX-_R202682168",
       "workday:cox:/job/Burlington-VT/Software-Engineering-Intern---Summer-2027--Burlington--VT-_R202682172-1",
@@ -811,7 +815,7 @@
       "workday:cox:/job/Irvine-CA/Software-Engineering-Intern---Summer-2027--Irvine--CA-_R202682173",
       "workday:cox:/job/Long-Island-NY/Software-Engineering-Intern---Summer-2027--North-Hills--NY-_R202682171-1"
      ],
-     "count": 6
+     "count": 10
     }
    }
   },
@@ -1008,6 +1012,18 @@
      "role_ids": [
       "ashby:ellipsislabs:02136b22-35b1-4b3d-8bef-567c3380a849"
      ]
+    }
+   }
+  },
+  "emerson electric": {
+   "name": "Emerson Electric",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-10",
+     "role_ids": [
+      "oracle:hdjq.fa.us2.oraclecloud.com:26010738"
+     ],
+     "count": 1
     }
    }
   },
@@ -3283,5 +3299,5 @@
    }
   }
  },
- "updated_at": "2026-09-10T21:53:24Z"
+ "updated_at": "2026-09-10T23:41:30Z"
 }
