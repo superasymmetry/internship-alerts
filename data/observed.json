@@ -225,6 +225,18 @@
     }
    }
   },
+  "ameriprise financial": {
+   "name": "Ameriprise Financial",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-09-10",
+     "role_ids": [
+      "workday:ameriprise:/job/Minneapolis-Minnesota/Data-Analytics---AI-Intern---RiverSource_R26_3595"
+     ],
+     "count": 1
+    }
+   }
+  },
   "anavation": {
    "name": "AnaVation",
    "cycles": {
@@ -355,9 +367,12 @@
      "first_posted": "2026-08-26",
      "role_ids": [
       "workday:aoins:/job/Lansing-MI/Business-Intelligence-Developer-Internship---Summer-2027_R_14417",
+      "workday:aoins:/job/Lansing-MI/IT-Document-Automation-Developer-Internship---Summer-2027_R_14471",
+      "workday:aoins:/job/Lansing-MI/IT-Security-Engineer-Internship---Summer-2027_R_14477",
+      "workday:aoins:/job/Lansing-MI/Intelligent-Automation-Developer-Internship---Summer-2027_R_14474",
       "workday:aoins:/job/Lansing-MI/Software-Developer-Internship_R_2121"
      ],
-     "count": 2
+     "count": 5
     }
    }
   },
@@ -516,6 +531,18 @@
       "smartrecruiters:BoschGroup:744000146547599"
      ],
      "count": 3
+    }
+   }
+  },
+  "brevan howard": {
+   "name": "Brevan Howard",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-10",
+     "role_ids": [
+      "workday:brevanhoward:/job/New-York/XMLNAME-2027-Summer-Internship-Program---Systematic-Trading-Technology-Software-Engineer--New-York_JR101597"
+     ],
+     "count": 1
     }
    }
   },
@@ -1010,9 +1037,10 @@
     "Fall 2026": {
      "first_posted": "2026-09-03",
      "role_ids": [
-      "smartrecruiters:Eurofins:744000147214369"
+      "smartrecruiters:Eurofins:744000147214369",
+      "smartrecruiters:Eurofins:744000148712379"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -1391,6 +1419,18 @@
     }
    }
   },
+  "hudl": {
+   "name": "Hudl",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-10",
+     "role_ids": [
+      "greenhouse:hudl:8114314"
+     ],
+     "count": 1
+    }
+   }
+  },
   "hudson river trading": {
    "name": "Hudson River Trading",
    "cycles": {
@@ -1759,6 +1799,13 @@
       "workday:moog:/job/Buffalo-NY/Intern--IT-Computer-Science---Data-Analytics_R-26-17145",
       "workday:moog:/job/Buffalo-NY/Intern--IT-Computer-Science_R-26-19378"
      ]
+    },
+    "Summer 2027": {
+     "first_posted": "2026-09-09",
+     "role_ids": [
+      "workday:moog:/job/Mineral-Wells-TX/Intern--Software-Engineering_R-26-19888-1"
+     ],
+     "count": 1
     }
    }
   },
@@ -1798,6 +1845,18 @@
     }
    }
   },
+  "national information solutions cooperative nisc": {
+   "name": "National Information Solutions Cooperative (NISC)",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-10",
+     "role_ids": [
+      "greenhouse:testnisc:8191898"
+     ],
+     "count": 1
+    }
+   }
+  },
   "neighbor": {
    "name": "Neighbor",
    "cycles": {
@@ -1805,6 +1864,18 @@
      "first_posted": "2026-09-03",
      "role_ids": [
       "lever:neighbor:7d66629f-3f4b-41ee-a324-fe0154e13c46"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "nelnet": {
+   "name": "Nelnet",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-10",
+     "role_ids": [
+      "workday:nelnet:/job/Lincoln-NE/Intern---Software-Engineer---New-Ventures---Starting-Summer-2026_R23098"
      ],
      "count": 1
     }
@@ -2037,6 +2108,18 @@
     }
    }
   },
+  "perpay": {
+   "name": "Perpay",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2023-09-12",
+     "role_ids": [
+      "greenhouse:perpay:4076988007"
+     ],
+     "count": 1
+    }
+   }
+  },
   "philips": {
    "name": "Philips",
    "cycles": {
@@ -2235,6 +2318,13 @@
      "role_ids": [
       "greenhouse:rocketlab:7736776003"
      ]
+    },
+    "Summer 2027": {
+     "first_posted": "2026-09-09",
+     "role_ids": [
+      "greenhouse:rocketlab:7989722003"
+     ],
+     "count": 1
     }
    }
   },
@@ -2258,10 +2348,11 @@
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Cyber-Engineering-Intern--Summer-2027-_01871442",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Cyber-Engineering-Intern--Summer-2027-_01871444",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Software-Engineering-Intern--Summer-2027-_01867487",
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Software-Engineering-Intern--Summer-2027-_01872878",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-179--855-35Th-St-NE--BLDG-179/Software-Engineering-Intern--Summer-Fall-2027-_01873006",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-192--1205-Continental-Place-NE--BLDG-192/Software-Engineering-Intern--Summer-2027-_01867324"
      ],
-     "count": 16
+     "count": 17
     }
    }
   },
@@ -2326,6 +2417,13 @@
       "ashby:saronic:1c74957f-0895-415b-9324-08b0994747d7",
       "ashby:saronic:c95c2e3a-4c67-47b0-a03d-0e0317ac11a3"
      ]
+    },
+    "Summer 2027": {
+     "first_posted": "2026-09-09",
+     "role_ids": [
+      "ashby:saronic:60afb634-5515-4347-824a-3816735541c2"
+     ],
+     "count": 1
     }
    }
   },
@@ -2348,9 +2446,10 @@
      "first_posted": "2026-09-04",
      "role_ids": [
       "greenhouse:schonfeld:8171696",
+      "greenhouse:schonfeld:8171699",
       "greenhouse:schonfeld:8180089"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -2388,6 +2487,30 @@
      "role_ids": [
       "greenhouse:sharkninjaoperatingllc:4669676006"
      ]
+    }
+   }
+  },
+  "shield ai": {
+   "name": "Shield AI",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-08",
+     "role_ids": [
+      "lever:shieldai:8c850c75-081d-4d09-bebf-096379a93010"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "sierra": {
+   "name": "Sierra",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-31",
+     "role_ids": [
+      "ashby:sierra:34b31b67-268c-4270-b48f-72e59064c96e"
+     ],
+     "count": 1
     }
    }
   },
@@ -2805,6 +2928,18 @@
     }
    }
   },
+  "verizon communications": {
+   "name": "Verizon Communications",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-09",
+     "role_ids": [
+      "workday:verizon:/job/Basking-Ridge-New-Jersey/Verizon-Consumer-Group--AI-ML-Engineering-Summer-2027-Internship_R-1100605"
+     ],
+     "count": 1
+    }
+   }
+  },
   "verkada": {
    "name": "Verkada",
    "cycles": {
@@ -3044,5 +3179,5 @@
    }
   }
  },
- "updated_at": "2026-09-09T01:29:11Z"
+ "updated_at": "2026-09-10T19:22:17Z"
 }
