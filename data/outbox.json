@@ -1,7 +1,64 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": [],
-    "personal_email": []
+    "discord": [
+      "oracle:hcgn.fa.us2.oraclecloud.com:49284",
+      "oracle:hcgn.fa.us2.oraclecloud.com:49286",
+      "oracle:hcgn.fa.us2.oraclecloud.com:49285",
+      "workday:abglobal:/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771",
+      "workday:abglobal:/job/Nashville-Tennessee/Infrastructure-Engineering-Summer-Intern_R0019749",
+      "workday:amgen:/job/United-States---Remote/Undergrad-Intern---Data-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255708",
+      "workday:amgen:/job/United-States---Remote/Undergrad-Intern---Machine-Learning-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255709",
+      "workday:bah:/job/Fayetteville-NC/University---Summer-2027--Software-Engineer-Intern_R0249225",
+      "greenhouse:dvtrading:4733133005",
+      "greenhouse:dvtrading:4702083005",
+      "greenhouse:dvtrading:4733138005",
+      "greenhouse:hudl:8155102",
+      "workday:motorolasolutions:/job/Plantation-FL/XMLNAME-2027-Software-Engineering-Summer-Internship_R68125",
+      "workday:motorolasolutions:/job/Plantation-FL/DSP--Digital-Signal-Processing--Software-Engineering-Intern---Summer-2027_R68734",
+      "workday:oshkoshcorporation:/job/Oshkosh-Wisconsin-United-States/Cyber-Security-Intern_R50267",
+      "greenhouse:tanium:8181017",
+      "workday:ttc:/job/Bloomington-MN/Embedded-Software-Engineering-Intern---The-Toro-Company_JR17125",
+      "workday:ttc:/job/Bloomington-MN/Embedded-Software-Engineering-Intern---The-Toro-Company_JR17114"
+    ],
+    "telegram": [
+      "oracle:hcgn.fa.us2.oraclecloud.com:49284",
+      "oracle:hcgn.fa.us2.oraclecloud.com:49286",
+      "oracle:hcgn.fa.us2.oraclecloud.com:49285",
+      "workday:abglobal:/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771",
+      "workday:abglobal:/job/Nashville-Tennessee/Infrastructure-Engineering-Summer-Intern_R0019749",
+      "workday:amgen:/job/United-States---Remote/Undergrad-Intern---Data-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255708",
+      "workday:amgen:/job/United-States---Remote/Undergrad-Intern---Machine-Learning-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255709",
+      "workday:bah:/job/Fayetteville-NC/University---Summer-2027--Software-Engineer-Intern_R0249225",
+      "greenhouse:dvtrading:4733133005",
+      "greenhouse:dvtrading:4702083005",
+      "greenhouse:dvtrading:4733138005",
+      "greenhouse:hudl:8155102",
+      "workday:motorolasolutions:/job/Plantation-FL/XMLNAME-2027-Software-Engineering-Summer-Internship_R68125",
+      "workday:motorolasolutions:/job/Plantation-FL/DSP--Digital-Signal-Processing--Software-Engineering-Intern---Summer-2027_R68734",
+      "workday:oshkoshcorporation:/job/Oshkosh-Wisconsin-United-States/Cyber-Security-Intern_R50267",
+      "greenhouse:tanium:8181017",
+      "workday:ttc:/job/Bloomington-MN/Embedded-Software-Engineering-Intern---The-Toro-Company_JR17125",
+      "workday:ttc:/job/Bloomington-MN/Embedded-Software-Engineering-Intern---The-Toro-Company_JR17114"
+    ],
+    "personal_email": [
+      "oracle:hcgn.fa.us2.oraclecloud.com:49284",
+      "oracle:hcgn.fa.us2.oraclecloud.com:49286",
+      "oracle:hcgn.fa.us2.oraclecloud.com:49285",
+      "workday:abglobal:/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771",
+      "workday:abglobal:/job/Nashville-Tennessee/Infrastructure-Engineering-Summer-Intern_R0019749",
+      "workday:amgen:/job/United-States---Remote/Undergrad-Intern---Data-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255708",
+      "workday:amgen:/job/United-States---Remote/Undergrad-Intern---Machine-Learning-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255709",
+      "workday:bah:/job/Fayetteville-NC/University---Summer-2027--Software-Engineer-Intern_R0249225",
+      "greenhouse:dvtrading:4733133005",
+      "greenhouse:dvtrading:4702083005",
+      "greenhouse:dvtrading:4733138005",
+      "greenhouse:hudl:8155102",
+      "workday:motorolasolutions:/job/Plantation-FL/XMLNAME-2027-Software-Engineering-Summer-Internship_R68125",
+      "workday:motorolasolutions:/job/Plantation-FL/DSP--Digital-Signal-Processing--Software-Engineering-Intern---Summer-2027_R68734",
+      "workday:oshkoshcorporation:/job/Oshkosh-Wisconsin-United-States/Cyber-Security-Intern_R50267",
+      "greenhouse:tanium:8181017",
+      "workday:ttc:/job/Bloomington-MN/Embedded-Software-Engineering-Intern---The-Toro-Company_JR17125",
+      "workday:ttc:/job/Bloomington-MN/Embedded-Software-Engineering-Intern---The-Toro-Company_JR17114"
+    ]
   }
 }

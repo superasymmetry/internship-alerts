@@ -5,15 +5,151 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://superasymmetry.github.io/internship-alerts/feed.xml" rel="self"/>
   <link href="https://github.com/superasymmetry/internship-alerts"/>
-  <updated>2026-09-11T12:05:58Z</updated>
+  <updated>2026-09-11T16:40:06Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/superasymmetry/internship-alerts</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:bah:/job/McLean-VA/Enterprise-Cybersecurity-Education-and-Execution-Intern_R0249071</id>
-    <title>Booz Allen: Enterprise Cybersecurity Education and Execution Intern 🇺🇸</title>
-    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Enterprise-Cybersecurity-Education-and-Execution-Intern_R0249071"/>
-    <updated>2026-09-11T12:05:58Z</updated>
+    <id>urn:intern-engine:workday:oshkoshcorporation:/job/Oshkosh-Wisconsin-United-States/Data-Engineer-Intern_R49868</id>
+    <title>Oshkosh: Data Engineer Intern</title>
+    <link href="https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Data-Engineer-Intern_R49868"/>
+    <updated>2026-09-11T16:40:06Z</updated>
+    <category term="Summer 2026"/>
+    <summary>Summer 2026 · Data &amp; ML/AI · Oshkosh, Wisconsin, United States · Python, SQL, Azure, Databricks · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:hcgn.fa.us2.oraclecloud.com:49284</id>
+    <title>Citizens Financial Group: Cloud Engineer Summer 2027 Intern | Enterprise Technology &amp; Security Summer Internship Program</title>
+    <link href="https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49284"/>
+    <updated>2026-09-11T16:40:06Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security · United States · Python, Java, JavaScript, SQL, AWS · H-1B track record: ~290 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:hcgn.fa.us2.oraclecloud.com:49286</id>
+    <title>Citizens Financial Group: Software Engineer Summer 2027 Intern | Enterprise Technology &amp; Security Summer Internship Program</title>
+    <link href="https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49286"/>
+    <updated>2026-09-11T16:40:06Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security · United States · Python, Java, C++, JavaScript, Swift · H-1B track record: ~290 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:hcgn.fa.us2.oraclecloud.com:49285</id>
+    <title>Citizens Financial Group: Data Engineer Summer 2027 Intern | Enterprise Technology &amp; Security Summer Internship Program</title>
+    <link href="https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49285"/>
+    <updated>2026-09-11T16:40:06Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · United States · Python, Java, SQL, LLMs, Django · H-1B track record: ~290 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:abglobal:/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771</id>
+    <title>AllianceBernstein: Software Development Summer Intern 🇺🇸</title>
+    <link href="https://abglobal.wd1.myworkdayjobs.com/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771"/>
+    <updated>2026-09-11T16:40:06Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Security · McLean, VA · $108k/yr · sponsorship: citizens-only</summary>
+    <summary>Not stated · Software · Nashville, Tennessee · Java, C++ · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:abglobal:/job/Nashville-Tennessee/Infrastructure-Engineering-Summer-Intern_R0019749</id>
+    <title>AllianceBernstein: Infrastructure Engineering Summer Intern 🇺🇸</title>
+    <link href="https://abglobal.wd1.myworkdayjobs.com/abcampuscareers/job/Nashville-Tennessee/Infrastructure-Engineering-Summer-Intern_R0019749"/>
+    <updated>2026-09-11T16:40:06Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Nashville, Tennessee · SQL, Linux · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:amgen:/job/United-States---Remote/Undergrad-Intern---Data-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255708</id>
+    <title>Amgen: Undergrad Intern – Data Engineer – Amgen’s Technology &amp; Medical Organizations (Summer 2027)</title>
+    <link href="https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Data-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255708"/>
+    <updated>2026-09-11T16:40:06Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · United States - Remote · $28.87/hr · Python, Java, SQL, Scala, AWS · H-1B track record: ~768 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:amgen:/job/United-States---Remote/Undergrad-Intern---Machine-Learning-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255709</id>
+    <title>Amgen: Undergrad Intern – Machine Learning Engineer – Amgen’s Technology &amp; Medical Organizations (Summer 2027)</title>
+    <link href="https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Machine-Learning-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255709"/>
+    <updated>2026-09-11T16:40:06Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · United States - Remote · $28.87/hr · Python, SQL, scikit-learn, Pandas, AWS · H-1B track record: ~768 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:bah:/job/Fayetteville-NC/University---Summer-2027--Software-Engineer-Intern_R0249225</id>
+    <title>Booz Allen: University - Summer 2027, Software Engineer Intern 🇺🇸</title>
+    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fayetteville-NC/University---Summer-2027--Software-Engineer-Intern_R0249225"/>
+    <updated>2026-09-11T16:40:06Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Fayetteville, NC · $108k/yr · Java, C++, Git · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:dvtrading:4733133005</id>
+    <title>DV Trading: Quantitative Research Intern - Summer 2027 (DV Equities)</title>
+    <link href="https://job-boards.greenhouse.io/dvtrading/jobs/4733133005"/>
+    <updated>2026-09-11T16:40:06Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Quant · New York · Python, Pandas</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:dvtrading:4702083005</id>
+    <title>DV Trading: Quantitative Trading Intern - Summer 2027 (DV Equities)</title>
+    <link href="https://job-boards.greenhouse.io/dvtrading/jobs/4702083005"/>
+    <updated>2026-09-11T16:40:06Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Quant · New York · Python, C++</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:dvtrading:4733138005</id>
+    <title>DV Trading: Software Developer Intern - Summer 2027 (DV Equities)</title>
+    <link href="https://job-boards.greenhouse.io/dvtrading/jobs/4733138005"/>
+    <updated>2026-09-11T16:40:06Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · New York · Python, C++, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:hudl:8155102</id>
+    <title>Hudl: Software Quality Assurance Engineering Intern</title>
+    <link href="https://job-boards.greenhouse.io/hudl/jobs/8155102"/>
+    <updated>2026-09-11T16:40:06Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Lincoln, NE, United States · Python, JavaScript, Selenium</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:motorolasolutions:/job/Plantation-FL/XMLNAME-2027-Software-Engineering-Summer-Internship_R68125</id>
+    <title>Motorola: 2027 Software Engineering Summer Internship 🇺🇸</title>
+    <link href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/XMLNAME-2027-Software-Engineering-Summer-Internship_R68125"/>
+    <updated>2026-09-11T16:40:06Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Plantation, FL · C++, Linux, Git · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:motorolasolutions:/job/Plantation-FL/DSP--Digital-Signal-Processing--Software-Engineering-Intern---Summer-2027_R68734</id>
+    <title>Motorola: DSP (Digital Signal Processing) Software Engineering Intern - Summer 2027</title>
+    <link href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/DSP--Digital-Signal-Processing--Software-Engineering-Intern---Summer-2027_R68734"/>
+    <updated>2026-09-11T16:40:06Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Plantation, FL · Python, C++, MATLAB, Linux, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:oshkoshcorporation:/job/Oshkosh-Wisconsin-United-States/Cyber-Security-Intern_R50267</id>
+    <title>Oshkosh: Cyber Security Intern</title>
+    <link href="https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Cyber-Security-Intern_R50267"/>
+    <updated>2026-09-11T16:40:06Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · Oshkosh, Wisconsin, United States</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:tanium:8181017</id>
+    <title>Tanium: Software Engineering Intern – Summer 2027</title>
+    <link href="https://job-boards.greenhouse.io/tanium/jobs/8181017"/>
+    <updated>2026-09-11T16:40:06Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Durham, NC (Hybrid); Emeryville, CA (Hybrid) · Node.js · H-1B track record: ~11 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ttc:/job/Bloomington-MN/Embedded-Software-Engineering-Intern---The-Toro-Company_JR17114</id>
+    <title>The Toro Company: Embedded Software Engineering Intern - The Toro Company 🛂</title>
+    <link href="https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Embedded-Software-Engineering-Intern---The-Toro-Company_JR17114"/>
+    <updated>2026-09-11T16:40:06Z</updated>
+    <category term="Summer 2027"/>
+    <summary>2 openings · Summer 2027 · Software · Bloomington, MN · C++, C# · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:bah:/job/McLean-VA/Enterprise-Cybersecurity-Data-Loss-Prevention-Intern_R0249131-1</id>
@@ -24,17 +160,9 @@
     <summary>Not stated · Data &amp; ML/AI · McLean, VA · $108k/yr · AWS, GCP, Azure · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:bah:/job/McLean-VA/University---Summer-27--Enterprise-Cybersecurity-Vulnerability-Intern_R0249085</id>
-    <title>Booz Allen: University – Summer 27, Enterprise Cybersecurity Vulnerability Intern 🇺🇸</title>
-    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University---Summer-27--Enterprise-Cybersecurity-Vulnerability-Intern_R0249085"/>
-    <updated>2026-09-11T12:05:58Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security · McLean, VA · $126k/yr · Python, SQL, AWS, GCP, Azure · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:bah:/job/McLean-VA/University---Summer-27--Enterprise-Cybersecurity-IT-Policy-Intern_R0249077</id>
-    <title>Booz Allen: University – Summer 27, Enterprise Cybersecurity IT Policy Intern 🇺🇸</title>
-    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University---Summer-27--Enterprise-Cybersecurity-IT-Policy-Intern_R0249077"/>
+    <id>urn:intern-engine:workday:bah:/job/McLean-VA/Enterprise-Cybersecurity-Education-and-Execution-Intern_R0249071</id>
+    <title>Booz Allen: Enterprise Cybersecurity Education and Execution Intern 🇺🇸</title>
+    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Enterprise-Cybersecurity-Education-and-Execution-Intern_R0249071"/>
     <updated>2026-09-11T12:05:58Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Security · McLean, VA · $108k/yr · sponsorship: citizens-only</summary>
@@ -46,6 +174,22 @@
     <updated>2026-09-11T12:05:58Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · McLean, VA · $108k/yr · AWS, GCP, Azure · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:bah:/job/McLean-VA/University---Summer-27--Enterprise-Cybersecurity-IT-Policy-Intern_R0249077</id>
+    <title>Booz Allen: University – Summer 27, Enterprise Cybersecurity IT Policy Intern 🇺🇸</title>
+    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University---Summer-27--Enterprise-Cybersecurity-IT-Policy-Intern_R0249077"/>
+    <updated>2026-09-11T12:05:58Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · McLean, VA · $108k/yr · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:bah:/job/McLean-VA/University---Summer-27--Enterprise-Cybersecurity-Vulnerability-Intern_R0249085</id>
+    <title>Booz Allen: University – Summer 27, Enterprise Cybersecurity Vulnerability Intern 🇺🇸</title>
+    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University---Summer-27--Enterprise-Cybersecurity-Vulnerability-Intern_R0249085"/>
+    <updated>2026-09-11T12:05:58Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · McLean, VA · $126k/yr · Python, SQL, AWS, GCP, Azure · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:WellmarkInc:744000148915793</id>
@@ -662,149 +806,5 @@
     <updated>2026-09-08T20:26:59Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Palo Alto, CA · LLMs</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:rfsmart:5409034008</id>
-    <title>RF-SMART: Software Support Engineer Internship (NetSuite) - Summer 2027 🛂</title>
-    <link href="https://job-boards.greenhouse.io/rfsmart/jobs/5409034008"/>
-    <updated>2026-09-08T20:26:59Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Highlands Ranch, Colorado, United States · $25/hr · JavaScript · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:bah:/job/McLean-VA/University--Applied-AI-Software-Development-Intern_R0248854</id>
-    <title>Booz Allen: University, Applied AI Software Development Intern 🇺🇸</title>
-    <link href="https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University--Applied-AI-Software-Development-Intern_R0248854"/>
-    <updated>2026-09-08T20:26:59Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · McLean, VA · $126k/yr · Python, Java, C++, JavaScript, SQL · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:bah:/job/Washington-DC/University--Applied-AI-Intern_R0248853</id>
-    <title>Booz Allen: University, Applied AI Intern 🇺🇸</title>
-    <link href="https://bah.wd1.myworkdayjobs.com/Confidential/job/Washington-DC/University--Applied-AI-Intern_R0248853"/>
-    <updated>2026-09-08T20:26:59Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Washington, DC · $158k/yr · Python, Java, C++, JavaScript, SQL · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineer-Intern---Summer-2027-_01870613</id>
-    <title>RTX: Software Engineer Intern ( Summer 2027) 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineer-Intern---Summer-2027-_01870613"/>
-    <updated>2026-09-08T20:26:59Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · US-IA-CEDAR RAPIDS-130 ~ 5350 C Ave NE ~ BLDG 130 · Python, Java, C++, Rust, React · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:meijer:/job/Grand-Rapids-MI/Information-Security-Intern--Summer-2027_R000698302</id>
-    <title>Meijer: Information Security Intern- Summer 2027</title>
-    <link href="https://meijer.wd5.myworkdayjobs.com/Meijer/job/Grand-Rapids-MI/Information-Security-Intern--Summer-2027_R000698302"/>
-    <updated>2026-09-08T20:26:59Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security · Grand Rapids, MI</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10249842</id>
-    <title>Northrop Grumman: 2027 Software Engineering Intern - Roy UT 🇺🇸</title>
-    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10249842"/>
-    <updated>2026-09-11T06:36:21Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · United States-Utah-Roy · $23–$29/hr · sponsorship: citizens-only · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:talos-trading:2c833180-484f-4657-80e3-f822cf1a0285</id>
-    <title>Talos: Software Engineer Intern, RFQ</title>
-    <link href="https://jobs.ashbyhq.com/talos-trading/2c833180-484f-4657-80e3-f822cf1a0285"/>
-    <updated>2026-09-08T17:40:34Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · New York · $50 per hour · Java, C++, Git, PostgreSQL</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:talos-trading:91fd5274-3b6b-43cf-b366-9f6dc2ae5977</id>
-    <title>Talos: Software Engineer Intern, Dealer</title>
-    <link href="https://jobs.ashbyhq.com/talos-trading/91fd5274-3b6b-43cf-b366-9f6dc2ae5977"/>
-    <updated>2026-09-08T17:40:34Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · New York · $50 per hour · Java, C++, Git, PostgreSQL</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:datadog:8052118</id>
-    <title>Datadog: Software Engineering Intern (Summer)</title>
-    <link href="https://careers.datadoghq.com/detail/8052118/?gh_jid=8052118"/>
-    <updated>2026-09-08T17:40:34Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Boston, Massachusetts, USA; New York, New York, USA · Kubernetes · H-1B track record: ~62 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:syskahennessy:8177938</id>
-    <title>Syska Hennessy Group: Software Developer (Innovation) Summer Intern</title>
-    <link href="https://job-boards.greenhouse.io/syskahennessy/jobs/8177938"/>
-    <updated>2026-09-08T17:40:34Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · New York, NY · Python, Java, JavaScript, Swift, Kotlin</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:M3USA:744000148244649</id>
-    <title>M3USA: AI Engineering Intern (Remote)</title>
-    <link href="https://jobs.smartrecruiters.com/M3USA/744000148244649"/>
-    <updated>2026-09-08T17:40:34Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Fort Washington, PA, United States (Remote) · Python, TypeScript, JavaScript, LLMs, HTML/CSS</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:chrobinson:/job/Eden-Prairie-MN-United-States-of-America/Software-Engineering-Internship-2027_R49323</id>
-    <title>C.H. Robinson: Software Engineering Internship 2027</title>
-    <link href="https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Eden-Prairie-MN-United-States-of-America/Software-Engineering-Internship-2027_R49323"/>
-    <updated>2026-09-08T17:40:34Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Eden Prairie, MN United States of America · $15–$30/hr · C#, JavaScript, SQL, React, HTML/CSS</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:deluxe:/job/Minneapolis-MN-USA/Software-Engineer---Intern_261115WD</id>
-    <title>Deluxe: Software Engineer - Intern</title>
-    <link href="https://deluxe.wd5.myworkdayjobs.com/USA_CAN/job/Minneapolis-MN-USA/Software-Engineer---Intern_261115WD"/>
-    <updated>2026-09-08T17:40:34Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Minneapolis, MN, USA · H-1B track record: ~15 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-179--855-35Th-St-NE--BLDG-179/Software-Engineering-Intern--Summer-Fall-2027-_01873006</id>
-    <title>RTX: Software Engineering Intern (Summer/Fall 2027) 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-179--855-35Th-St-NE--BLDG-179/Software-Engineering-Intern--Summer-Fall-2027-_01873006"/>
-    <updated>2026-09-08T17:40:34Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · US-IA-CEDAR RAPIDS-179 ~ 855 35Th St NE ~ BLDG 179 · Python, C++, Docker, Git · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:motorolasolutions:/job/Chicago-IL/Software-Engineering-Intern---Summer-2027_R68388</id>
-    <title>Motorola: Software Engineering Intern - Summer 2027</title>
-    <link href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Software-Engineering-Intern---Summer-2027_R68388"/>
-    <updated>2026-09-08T17:40:34Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Chicago, IL · Angular</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:usbank:/job/Cincinnati-OH/XMLNAME-2027-Information-Security-Summer-Intern_2026-0025770</id>
-    <title>U.S. Bank: 2027 Information Security Summer Intern</title>
-    <link href="https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Cincinnati-OH/XMLNAME-2027-Information-Security-Summer-Intern_2026-0025770"/>
-    <updated>2026-09-08T17:40:34Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security · Cincinnati, OH · Python</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:xcelenergy:/job/Amarillo-TX-79101/Data-Analyst-Intern--TX_JR115565-1</id>
-    <title>Xcel Energy: Data Analyst Intern- TX</title>
-    <link href="https://xcelenergy.wd1.myworkdayjobs.com/External/job/Amarillo-TX-79101/Data-Analyst-Intern--TX_JR115565-1"/>
-    <updated>2026-09-08T17:40:34Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Amarillo, TX, 79101 · $20.9–$24.6/hr · Databricks</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:slihrms:/job/USGAAtlanta2018-Powers-Ferry-Rd/Water-Infrastructure-Engineering-Intern---Summer-2027_R-163480-1</id>
-    <title>AtkinsRéalis: Water Infrastructure Engineering Intern - Summer 2027</title>
-    <link href="https://slihrms.wd3.myworkdayjobs.com/careers/job/USGAAtlanta2018-Powers-Ferry-Rd/Water-Infrastructure-Engineering-Intern---Summer-2027_R-163480-1"/>
-    <updated>2026-09-08T13:47:25Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · US.GA.Atlanta.2018 Powers Ferry Rd</summary>
   </entry>
 </feed>
