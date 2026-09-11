@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-11T16:40:06Z",
- "data_as_of": "2026-09-11T16:40:06Z",
- "rendered_at": "2026-09-11T16:40:06Z",
+ "generated_at": "2026-09-11T19:32:11Z",
+ "data_as_of": "2026-09-11T19:32:11Z",
+ "rendered_at": "2026-09-11T19:32:11Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/superasymmetry/internship-alerts",
  "companies": [
@@ -136,6 +136,25 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-06-01"
+   }
+  },
+  {
+   "company": "Anduril",
+   "last_cycle_posted": "",
+   "posted_on": "2026-06-10",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-06-10",
+   "days_until": -93,
+   "status": "open",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-06-10"
    }
   },
   {
@@ -605,7 +624,7 @@
    "expected": "2026-08-10",
    "days_until": -32,
    "status": "open",
-   "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4719119005",
+   "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4702083005",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -2970,6 +2989,44 @@
    }
   },
   {
+   "company": "Commure",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-11",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-11",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://jobs.ashbyhq.com/commure/62841aa1-3ee5-4547-8380-637b737b2cb3",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-11"
+   }
+  },
+  {
+   "company": "Lyft",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-11",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-11",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8802198002?gh_jid=8802198002",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-11"
+   }
+  },
+  {
    "company": "The Toro Company",
    "last_cycle_posted": "",
    "posted_on": "2026-09-11",
@@ -2980,7 +3037,7 @@
    "expected": "2026-09-11",
    "days_until": 0,
    "status": "open",
-   "url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Embedded-Software-Engineering-Intern---The-Toro-Company_JR17125",
+   "url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Embedded-Software-Engineering-Intern---The-Toro-Company_JR17114",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -5363,25 +5420,6 @@
    }
   },
   {
-   "company": "Anduril",
-   "last_cycle_posted": "",
-   "posted_on": "2026-06-10",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-06-10",
-   "days_until": -93,
-   "status": "dropped",
-   "url": "",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-06-10"
-   }
-  },
-  {
    "company": "Flow Traders",
    "last_cycle_posted": "",
    "posted_on": "2026-07-08",
@@ -5857,5 +5895,5 @@
    }
   }
  ],
- "count": 308
+ "count": 310
 }
