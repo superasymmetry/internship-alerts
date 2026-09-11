@@ -5,15 +5,47 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://superasymmetry.github.io/internship-alerts/feed.xml" rel="self"/>
   <link href="https://github.com/superasymmetry/internship-alerts"/>
-  <updated>2026-09-11T06:52:45Z</updated>
+  <updated>2026-09-11T12:05:58Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/superasymmetry/internship-alerts</uri></author>
   <entry>
-    <id>urn:intern-engine:smartrecruiters:WellmarkInc:744000148918178</id>
-    <title>Wellmark: Cyber Security Internship</title>
-    <link href="https://jobs.smartrecruiters.com/WellmarkInc/744000148918178"/>
-    <updated>2026-09-11T06:52:45Z</updated>
+    <id>urn:intern-engine:workday:bah:/job/McLean-VA/Enterprise-Cybersecurity-Education-and-Execution-Intern_R0249071</id>
+    <title>Booz Allen: Enterprise Cybersecurity Education and Execution Intern 🇺🇸</title>
+    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Enterprise-Cybersecurity-Education-and-Execution-Intern_R0249071"/>
+    <updated>2026-09-11T12:05:58Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Security · Des Moines, IA, United States (Hybrid) · Python, Bash · H-1B track record: ~15 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Security · McLean, VA · $108k/yr · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:bah:/job/McLean-VA/Enterprise-Cybersecurity-Data-Loss-Prevention-Intern_R0249131-1</id>
+    <title>Booz Allen: Enterprise Cybersecurity Data Loss Prevention Intern 🇺🇸</title>
+    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Enterprise-Cybersecurity-Data-Loss-Prevention-Intern_R0249131-1"/>
+    <updated>2026-09-11T12:05:58Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · McLean, VA · $108k/yr · AWS, GCP, Azure · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:bah:/job/McLean-VA/University---Summer-27--Enterprise-Cybersecurity-Vulnerability-Intern_R0249085</id>
+    <title>Booz Allen: University – Summer 27, Enterprise Cybersecurity Vulnerability Intern 🇺🇸</title>
+    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University---Summer-27--Enterprise-Cybersecurity-Vulnerability-Intern_R0249085"/>
+    <updated>2026-09-11T12:05:58Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · McLean, VA · $126k/yr · Python, SQL, AWS, GCP, Azure · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:bah:/job/McLean-VA/University---Summer-27--Enterprise-Cybersecurity-IT-Policy-Intern_R0249077</id>
+    <title>Booz Allen: University – Summer 27, Enterprise Cybersecurity IT Policy Intern 🇺🇸</title>
+    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University---Summer-27--Enterprise-Cybersecurity-IT-Policy-Intern_R0249077"/>
+    <updated>2026-09-11T12:05:58Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · McLean, VA · $108k/yr · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:bah:/job/McLean-VA/University---Summer-27--Enterprise-Cybersecurity-Data-Loss-Prevention-Intern_R0249083</id>
+    <title>Booz Allen: University – Summer 27, Enterprise Cybersecurity Data Loss Prevention Intern 🇺🇸</title>
+    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University---Summer-27--Enterprise-Cybersecurity-Data-Loss-Prevention-Intern_R0249083"/>
+    <updated>2026-09-11T12:05:58Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · McLean, VA · $108k/yr · AWS, GCP, Azure · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:WellmarkInc:744000148915793</id>
@@ -22,6 +54,14 @@
     <updated>2026-09-11T06:52:45Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Des Moines, IA, United States (Hybrid) · Java, C++, TypeScript, SQL, Node.js · H-1B track record: ~15 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:WellmarkInc:744000148918178</id>
+    <title>Wellmark: Cyber Security Internship</title>
+    <link href="https://jobs.smartrecruiters.com/WellmarkInc/744000148918178"/>
+    <updated>2026-09-11T06:52:45Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · Des Moines, IA, United States (Hybrid) · Python, Bash · H-1B track record: ~15 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:hdjq.fa.us2.oraclecloud.com:26010738</id>
@@ -766,45 +806,5 @@
     <updated>2026-09-08T13:47:25Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · US.GA.Atlanta.2018 Powers Ferry Rd</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:cox:/job/Atlanta-GA/Software-Engineering-Intern---Summer-2027--Atlanta--GA-_R202682166</id>
-    <title>Cox: Software Engineering Intern - Summer 2027 (Atlanta, GA)</title>
-    <link href="https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineering-Intern---Summer-2027--Atlanta--GA-_R202682166"/>
-    <updated>2026-09-08T09:20:32Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Atlanta GA · $24.23–$36.35/hr · AWS, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:cox:/job/Austin-TX/Software-Engineering-Intern---Summer-2027--Austin--TX-_R202682168</id>
-    <title>Cox: Software Engineering Intern - Summer 2027 (Austin, TX)</title>
-    <link href="https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Austin-TX/Software-Engineering-Intern---Summer-2027--Austin--TX-_R202682168"/>
-    <updated>2026-09-08T09:20:32Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Austin TX · $26.63–$40/hr · AWS, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:cox:/job/Burlington-VT/Software-Engineering-Intern---Summer-2027--Burlington--VT-_R202682172-1</id>
-    <title>Cox: Software Engineering Intern - Summer 2027 (Burlington, VT)</title>
-    <link href="https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Burlington-VT/Software-Engineering-Intern---Summer-2027--Burlington--VT-_R202682172-1"/>
-    <updated>2026-09-08T09:20:32Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Burlington VT · $24.23–$36.35/hr · AWS, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:cox:/job/Draper-UT/Software-Engineering-Intern---Summer-2027--Draper-UT-_R202682169</id>
-    <title>Cox: Software Engineering Intern - Summer 2027 (Draper UT)</title>
-    <link href="https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Draper-UT/Software-Engineering-Intern---Summer-2027--Draper-UT-_R202682169"/>
-    <updated>2026-09-08T09:20:32Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Draper UT · $24.23–$36.35/hr · AWS, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:cox:/job/Irvine-CA/Software-Engineering-Intern---Summer-2027--Irvine--CA-_R202682173</id>
-    <title>Cox: Software Engineering Intern - Summer 2027 (Irvine, CA)</title>
-    <link href="https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Irvine-CA/Software-Engineering-Intern---Summer-2027--Irvine--CA-_R202682173"/>
-    <updated>2026-09-08T09:20:32Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Irvine CA · $29.09–$43.61/hr · AWS, Linux</summary>
   </entry>
 </feed>
