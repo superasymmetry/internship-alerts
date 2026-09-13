@@ -1,7 +1,13 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": [],
-    "personal_email": []
+    "discord": [
+      "workable:syntiant:113F994B7B"
+    ],
+    "telegram": [
+      "workable:syntiant:113F994B7B"
+    ],
+    "personal_email": [
+      "workable:syntiant:113F994B7B"
+    ]
   }
 }

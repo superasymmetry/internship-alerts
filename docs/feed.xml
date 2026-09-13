@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://superasymmetry.github.io/internship-alerts/feed.xml" rel="self"/>
   <link href="https://github.com/superasymmetry/internship-alerts"/>
-  <updated>2026-09-12T23:34:17Z</updated>
+  <updated>2026-09-13T01:35:33Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/superasymmetry/internship-alerts</uri></author>
+  <entry>
+    <id>urn:intern-engine:workable:syntiant:113F994B7B</id>
+    <title>Syntiant: Machine Learning Intern - KWS/AED</title>
+    <link href="https://apply.workable.com/syntiant/j/113F994B7B/"/>
+    <updated>2026-09-13T01:35:33Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Redwood City, California, United States · Python, PyTorch, TensorFlow</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:lever:anavationllc:4a82ae00-30f0-410c-bf3c-f1cdd18739e7</id>
     <title>AnaVation: Computer Science Internship Summer 2027 🇺🇸</title>
@@ -798,13 +806,5 @@
     <updated>2026-09-10T19:22:17Z</updated>
     <category term="Fall 2026"/>
     <summary>Fall 2026 · Data &amp; ML/AI · Minneapolis, Minnesota · $27.5/hr · H-1B track record: ~116 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:aoins:/job/Lansing-MI/IT-Document-Automation-Developer-Internship---Summer-2027_R_14471</id>
-    <title>Auto-Owners Insurance: IT Document Automation Developer Internship - Summer 2027</title>
-    <link href="https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/IT-Document-Automation-Developer-Internship---Summer-2027_R_14471"/>
-    <updated>2026-09-10T19:22:17Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Lansing, MI · Java, JavaScript</summary>
   </entry>
 </feed>
