@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://superasymmetry.github.io/internship-alerts/feed.xml" rel="self"/>
   <link href="https://github.com/superasymmetry/internship-alerts"/>
-  <updated>2026-09-13T13:00:07Z</updated>
+  <updated>2026-09-13T17:13:44Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/superasymmetry/internship-alerts</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:autostore:/job/Atlanta-GA-USA/Co-Op---Software-Engineering_JR102692</id>
+    <title>Autostore: Co-Op - Software Engineering</title>
+    <link href="https://autostore.wd3.myworkdayjobs.com/autostore/job/Atlanta-GA-USA/Co-Op---Software-Engineering_JR102692"/>
+    <updated>2026-09-13T17:13:44Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Atlanta, GA, USA · Python, Java, C++, C#, TypeScript</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workable:syntiant:113F994B7B</id>
     <title>Syntiant: Machine Learning Intern - KWS/AED</title>
@@ -798,13 +806,5 @@
     <updated>2026-09-10T19:22:17Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Herndon Area, VA · $24–$39.75/hr</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ameriprise:/job/Minneapolis-Minnesota/Data-Analytics---AI-Intern---RiverSource_R26_3595</id>
-    <title>Ameriprise Financial: Data Analytics &amp; AI Intern - RiverSource</title>
-    <link href="https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Minneapolis-Minnesota/Data-Analytics---AI-Intern---RiverSource_R26_3595"/>
-    <updated>2026-09-10T19:22:17Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Data &amp; ML/AI · Minneapolis, Minnesota · $27.5/hr · H-1B track record: ~116 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
