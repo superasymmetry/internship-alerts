@@ -312,9 +312,10 @@
     "Summer 2027": {
      "first_posted": "2026-09-04",
      "role_ids": [
-      "workday:amat:/job/AlbanyNY/Summer-2027-Global-Technical-Learning-Center-Data-Analyst-Intern--Bachelor-s-Master-s--Albany--NY-_R2627551"
+      "workday:amat:/job/AlbanyNY/Summer-2027-Global-Technical-Learning-Center-Data-Analyst-Intern--Bachelor-s-Master-s--Albany--NY-_R2627551",
+      "workday:amat:/job/Santa-ClaraCA/XMLNAME-2027-Software-Engineering-Intern--Masters---Santa-Clara--CA-_R2628265"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -3469,5 +3470,5 @@
    }
   }
  },
- "updated_at": "2026-09-13T17:13:44Z"
+ "updated_at": "2026-09-13T19:40:44Z"
 }

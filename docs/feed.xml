@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://superasymmetry.github.io/internship-alerts/feed.xml" rel="self"/>
   <link href="https://github.com/superasymmetry/internship-alerts"/>
-  <updated>2026-09-13T17:13:44Z</updated>
+  <updated>2026-09-13T19:40:44Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/superasymmetry/internship-alerts</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:amat:/job/Santa-ClaraCA/XMLNAME-2027-Software-Engineering-Intern--Masters---Santa-Clara--CA-_R2628265</id>
+    <title>Applied Materials: 2027 Software Engineering Intern (Masters - Santa Clara, CA)</title>
+    <link href="https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2027-Software-Engineering-Intern--Masters---Santa-Clara--CA-_R2628265"/>
+    <updated>2026-09-13T19:40:44Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Santa Clara,CA · C++ · H-1B track record: ~650 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:autostore:/job/Atlanta-GA-USA/Co-Op---Software-Engineering_JR102692</id>
     <title>Autostore: Co-Op - Software Engineering</title>
@@ -798,13 +806,5 @@
     <updated>2026-09-10T19:22:17Z</updated>
     <category term="Fall 2026"/>
     <summary>Fall 2026 · Data &amp; ML/AI · Barcelona, CT, International (ES) · Python, SQL</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ag:/job/Herndon-Area-VA/Summer-Internship---Digital-AI-Transformation_JR10437881</id>
-    <title>Airbus: Summer Internship - Digital/AI Transformation</title>
-    <link href="https://ag.wd3.myworkdayjobs.com/Airbus/job/Herndon-Area-VA/Summer-Internship---Digital-AI-Transformation_JR10437881"/>
-    <updated>2026-09-10T19:22:17Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Herndon Area, VA · $24–$39.75/hr</summary>
   </entry>
 </feed>
