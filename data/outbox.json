@@ -1,13 +1,7 @@
 {
   "pending": {
-    "discord": [
-      "workday:amat:/job/Santa-ClaraCA/XMLNAME-2027-Software-Engineering-Intern--Masters---Santa-Clara--CA-_R2628265"
-    ],
-    "telegram": [
-      "workday:amat:/job/Santa-ClaraCA/XMLNAME-2027-Software-Engineering-Intern--Masters---Santa-Clara--CA-_R2628265"
-    ],
-    "personal_email": [
-      "workday:amat:/job/Santa-ClaraCA/XMLNAME-2027-Software-Engineering-Intern--Masters---Santa-Clara--CA-_R2628265"
-    ]
+    "discord": [],
+    "telegram": [],
+    "personal_email": []
   }
 }
