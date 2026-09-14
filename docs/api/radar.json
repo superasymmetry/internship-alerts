@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-14T10:51:56Z",
- "data_as_of": "2026-09-14T10:51:56Z",
- "rendered_at": "2026-09-14T10:51:56Z",
+ "generated_at": "2026-09-14T16:49:36Z",
+ "data_as_of": "2026-09-14T16:49:36Z",
+ "rendered_at": "2026-09-14T16:49:37Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/superasymmetry/internship-alerts",
  "companies": [
@@ -2932,6 +2932,25 @@
    }
   },
   {
+   "company": "SEP",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-10",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-10",
+   "days_until": -4,
+   "status": "open",
+   "url": "https://jobs.lever.co/sep/4efbdbce-a753-41b5-8ed7-0661cd193178",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-10"
+   }
+  },
+  {
    "company": "Tanium",
    "last_cycle_posted": "",
    "posted_on": "2026-09-10",
@@ -3157,6 +3176,63 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-09-13"
+   }
+  },
+  {
+   "company": "CoStar Group",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-14",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-14",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-VA-Arlington/Security-Engineer-Intern---Arlington--VA_R39727",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-14"
+   }
+  },
+  {
+   "company": "Genworth Financial",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-14",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-14",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://gnw.wd1.myworkdayjobs.com/GNW/job/Raleigh-North-Carolina/Software-Engineering-Intern_REQ-260367-1",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-14"
+   }
+  },
+  {
+   "company": "Robinhood",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-14",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-14",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8142961?t=gh_src=&gh_jid=8142961",
+   "note": "opens fall",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-14"
    }
   },
   {
@@ -5002,25 +5078,6 @@
    }
   },
   {
-   "company": "Robinhood",
-   "last_cycle_posted": "",
-   "posted_on": "",
-   "precision": "month",
-   "rolling": false,
-   "confidence": "window",
-   "source": "known",
-   "expected": "2026-09-01",
-   "days_until": -13,
-   "status": "waiting",
-   "url": "",
-   "note": "opens fall",
-   "provenance": {
-    "type": "verified-window",
-    "url": "robinhood.com/careers",
-    "verified_at": "2026-07-21"
-   }
-  },
-  {
    "company": "Rockwell Automation",
    "last_cycle_posted": "",
    "posted_on": "",
@@ -6026,7 +6083,26 @@
     "cycle": "Summer 2027",
     "observed_on": "2026-09-11"
    }
+  },
+  {
+   "company": "Flagship Pioneering",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-14",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-14",
+   "days_until": 0,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-14"
+   }
   }
  ],
- "count": 317
+ "count": 321
 }
