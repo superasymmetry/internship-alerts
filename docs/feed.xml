@@ -5,31 +5,31 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://superasymmetry.github.io/internship-alerts/feed.xml" rel="self"/>
   <link href="https://github.com/superasymmetry/internship-alerts"/>
-  <updated>2026-09-14T00:26:23Z</updated>
+  <updated>2026-09-14T05:08:00Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/superasymmetry/internship-alerts</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:entegris:/job/Decatur-TX/AI-Continuous-Improvement-Co-Op_REQ-14509</id>
-    <title>Entegris: AI Continuous Improvement Co-Op</title>
-    <link href="https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Decatur-TX/AI-Continuous-Improvement-Co-Op_REQ-14509"/>
-    <updated>2026-09-14T00:26:23Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Data &amp; ML/AI · Decatur, TX · $20–$30/hr · Python, SQL · status: closed · H-1B track record: ~60 approvals (FY2022–2023)</summary>
+    <id>urn:intern-engine:lever:acronaviation:34cf5ad0-840a-4c1b-8231-02a433d0479e</id>
+    <title>Acron Aviation: Software Engineer Intern - Phoenix Site</title>
+    <link href="https://jobs.lever.co/acronaviation/34cf5ad0-840a-4c1b-8231-02a433d0479e"/>
+    <updated>2026-09-14T05:08:00Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Phoenix, AZ · Python, C++, C#, SQL, Linux</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:entegris:/job/Chaska-MN/Cybersecurity-Engineer-Co-Op_REQ-14472-1</id>
-    <title>Entegris: Cybersecurity Engineer Co-Op</title>
-    <link href="https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Chaska-MN/Cybersecurity-Engineer-Co-Op_REQ-14472-1"/>
-    <updated>2026-09-14T00:26:23Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Security · Chaska, MN · $20–$30/hr · Python, GCP, Azure, Terraform, Git · status: closed · H-1B track record: ~60 approvals (FY2022–2023)</summary>
+    <id>urn:intern-engine:workday:td:/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Data-Analyst_R_1510800</id>
+    <title>TD Bank: 2027 Summer Internship Program - Global Technology &amp; Solutions - Data Analyst</title>
+    <link href="https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Data-Analyst_R_1510800"/>
+    <updated>2026-09-14T05:08:00Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Mount Laurel, New Jersey</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:entegris:/job/Chaska-MN/Cyber-Threat-Analyst-Co-Op_REQ-14505</id>
-    <title>Entegris: Cyber Threat Analyst Co-Op</title>
-    <link href="https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Chaska-MN/Cyber-Threat-Analyst-Co-Op_REQ-14505"/>
-    <updated>2026-09-14T00:26:23Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Security · Chaska, MN · $20–$30/hr · status: closed · H-1B track record: ~60 approvals (FY2022–2023)</summary>
+    <id>urn:intern-engine:workday:philips:/job/Plymouth-Minnesota-United-States/Intern---Software-Engineering---Plymouth--MN---Summer-2027_590403</id>
+    <title>Philips: Intern – Software Engineering – Plymouth, MN – Summer 2027</title>
+    <link href="https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Plymouth-Minnesota-United-States/Intern---Software-Engineering---Plymouth--MN---Summer-2027_590403"/>
+    <updated>2026-09-14T05:08:00Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Plymouth, Minnesota, United States · Python, Java, C++, C#, Git</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:entegris:/job/Billerica-MA/Lab-Automation---AI-Engineering-Co-Op_REQ-14498-1</id>
@@ -40,20 +40,44 @@
     <summary>Spring 2027 · Data &amp; ML/AI · Billerica, MA · $20–$30/hr · Python, LLMs · status: closed · H-1B track record: ~60 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:workday:entegris:/job/Chaska-MN/Cyber-Threat-Analyst-Co-Op_REQ-14505</id>
+    <title>Entegris: Cyber Threat Analyst Co-Op</title>
+    <link href="https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Chaska-MN/Cyber-Threat-Analyst-Co-Op_REQ-14505"/>
+    <updated>2026-09-14T00:26:23Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Security · Chaska, MN · $20–$30/hr · status: closed · H-1B track record: ~60 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:entegris:/job/Chaska-MN/Cybersecurity-Engineer-Co-Op_REQ-14472-1</id>
+    <title>Entegris: Cybersecurity Engineer Co-Op</title>
+    <link href="https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Chaska-MN/Cybersecurity-Engineer-Co-Op_REQ-14472-1"/>
+    <updated>2026-09-14T00:26:23Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Security · Chaska, MN · $20–$30/hr · Python, GCP, Azure, Terraform, Git · status: closed · H-1B track record: ~60 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:entegris:/job/Decatur-TX/AI-Continuous-Improvement-Co-Op_REQ-14509</id>
+    <title>Entegris: AI Continuous Improvement Co-Op</title>
+    <link href="https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Decatur-TX/AI-Continuous-Improvement-Co-Op_REQ-14509"/>
+    <updated>2026-09-14T00:26:23Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Data &amp; ML/AI · Decatur, TX · $20–$30/hr · Python, SQL · status: closed · H-1B track record: ~60 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:td:/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Cloud-DevOps_R_1510799</id>
+    <title>TD Bank: 2027 Summer Internship Program - Global Technology &amp; Solutions - Cloud/DevOps</title>
+    <link href="https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Cloud-DevOps_R_1510799"/>
+    <updated>2026-09-14T00:26:23Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Mount Laurel, New Jersey · Terraform</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:workday:td:/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Cyber-Security_R_1510795</id>
     <title>TD Bank: 2027 Summer Internship Program - Global Technology &amp; Solutions - Cyber Security</title>
     <link href="https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Cyber-Security_R_1510795"/>
     <updated>2026-09-14T00:26:23Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Security · Mount Laurel, New Jersey</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:td:/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Software-Engineer--SWE-_R_1510796-1</id>
-    <title>TD Bank: 2027 Summer Internship Program - Global Technology &amp; Solutions - Software Engineer (SWE)</title>
-    <link href="https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Software-Engineer--SWE-_R_1510796-1"/>
-    <updated>2026-09-14T00:26:23Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Mount Laurel, New Jersey · Java, JavaScript</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:td:/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Data-Engineer_R_1510797</id>
@@ -64,12 +88,12 @@
     <summary>Summer 2027 · Data &amp; ML/AI · Mount Laurel, New Jersey · Hadoop</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:td:/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Cloud-DevOps_R_1510799</id>
-    <title>TD Bank: 2027 Summer Internship Program - Global Technology &amp; Solutions - Cloud/DevOps</title>
-    <link href="https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Cloud-DevOps_R_1510799"/>
+    <id>urn:intern-engine:workday:td:/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Software-Engineer--SWE-_R_1510796-1</id>
+    <title>TD Bank: 2027 Summer Internship Program - Global Technology &amp; Solutions - Software Engineer (SWE)</title>
+    <link href="https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Software-Engineer--SWE-_R_1510796-1"/>
     <updated>2026-09-14T00:26:23Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Mount Laurel, New Jersey · Terraform</summary>
+    <summary>Summer 2027 · Software · Mount Laurel, New Jersey · Java, JavaScript</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:amat:/job/Santa-ClaraCA/XMLNAME-2027-Software-Engineering-Intern--Masters---Santa-Clara--CA-_R2628265</id>
@@ -782,29 +806,5 @@
     <updated>2026-09-10T19:22:17Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Lincoln, NE, United States · C#, JavaScript, React</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:perpay:4076988007</id>
-    <title>Perpay: Software Engineering Internship, Summer 2027</title>
-    <link href="https://job-boards.greenhouse.io/perpay/jobs/4076988007"/>
-    <updated>2026-09-10T19:22:17Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Philadelphia, Pennsylvania, United States · Python, JavaScript, React, Django, Flask</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:rocketlab:7989722003</id>
-    <title>Rocket Lab: Flight Software Intern Summer 2027 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/rocketlab/jobs/7989722003"/>
-    <updated>2026-09-10T19:22:17Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Littleton, CO · Python, C++, Rust, Git · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:schonfeld:8171699</id>
-    <title>Schonfeld: 2027 Platform Engineering Intern</title>
-    <link href="https://job-boards.greenhouse.io/schonfeld/jobs/8171699"/>
-    <updated>2026-09-10T19:22:17Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · New York, New York, United States · Python, Bash, AWS, Kubernetes, Terraform</summary>
   </entry>
 </feed>
