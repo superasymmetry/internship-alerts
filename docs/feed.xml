@@ -5,8 +5,64 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://superasymmetry.github.io/internship-alerts/feed.xml" rel="self"/>
   <link href="https://github.com/superasymmetry/internship-alerts"/>
-  <updated>2026-09-14T20:47:58Z</updated>
+  <updated>2026-09-14T23:45:37Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/superasymmetry/internship-alerts</uri></author>
+  <entry>
+    <id>urn:intern-engine:greenhouse:doordashusa:8171041</id>
+    <title>DoorDash: Software Engineer, Intern (Summer 2027) - US</title>
+    <link href="https://job-boards.greenhouse.io/doordashusa/jobs/8171041"/>
+    <updated>2026-09-14T23:45:37Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · New York, NY; San Francisco, CA; Sunnyvale, CA; Los Angeles, CA; Seattle, WA · Python, Java, SQL, Kotlin, AWS · H-1B track record: ~685 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:labcorp:/job/Durham-NC/Intern---Software-Developer_2632330</id>
+    <title>LabCorp: Intern - Software Developer 🛂</title>
+    <link href="https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Intern---Software-Developer_2632330"/>
+    <updated>2026-09-14T23:45:37Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Durham NC · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:waymo:8198218</id>
+    <title>Waymo: 2027 Summer Intern, BS/MS, Software Engineering, Commercialization</title>
+    <link href="https://careers.withwaymo.com/jobs?gh_jid=8198218"/>
+    <updated>2026-09-14T23:45:37Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Mountain View, California, United States; San Francisco, California, United States · C++ · H-1B track record: ~284 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:wexinc:/job/US---Remote/Data---AI-Intern--Graduate-Master-s-_R22551</id>
+    <title>Wex: Data &amp; AI Intern (Graduate/Master’s)</title>
+    <link href="https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Data---AI-Intern--Graduate-Master-s-_R22551"/>
+    <updated>2026-09-14T23:45:37Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · US - Remote · Python, Java, C++, C#, JavaScript · H-1B track record: ~22 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:wexinc:/job/US---Remote/DevOps---AI-Engineering-Intern--Undergraduate-_R23056</id>
+    <title>Wex: DevOps &amp; AI Engineering Intern (Undergraduate)</title>
+    <link href="https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/DevOps---AI-Engineering-Intern--Undergraduate-_R23056"/>
+    <updated>2026-09-14T23:45:37Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · US - Remote · Python, Java, TypeScript, JavaScript, Bash · H-1B track record: ~22 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:wexinc:/job/US---Remote/SRE---Application-Services-Intern--Graduate-Master-s-_R22494</id>
+    <title>Wex: SRE &amp; Application Services Intern (Graduate/Master's)</title>
+    <link href="https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/SRE---Application-Services-Intern--Graduate-Master-s-_R22494"/>
+    <updated>2026-09-14T23:45:37Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · US - Remote · Python, Bash, AWS, GCP, Azure · H-1B track record: ~22 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:wexinc:/job/US---Remote/AI---Data-Platform-Engineering-Intern--Undergraduate-_R23055</id>
+    <title>Wex: AI &amp; Data Platform Engineering Intern (Undergraduate)</title>
+    <link href="https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/AI---Data-Platform-Engineering-Intern--Undergraduate-_R23055"/>
+    <updated>2026-09-14T23:45:37Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · US - Remote · Python, Java, SQL, LLMs, AWS · H-1B track record: ~22 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:ashby:base-power:b6b2332e-1226-4575-b2c9-9e5258f2540e</id>
     <title>Base Power: Quantitative Developer Intern</title>
@@ -32,20 +88,28 @@
     <summary>Summer 2027 · Software · US | Georgia | Atlanta · $25 per hour · TypeScript, JavaScript, React, Angular, Git · H-1B track record: ~14 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:greenhouse:figma:6143238004</id>
+    <title>Figma: Software Engineer Intern (Summer 2027)</title>
+    <link href="https://boards.greenhouse.io/figma/jobs/6143238004?gh_jid=6143238004"/>
+    <updated>2026-09-14T20:47:57Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · San Francisco, CA • New York, NY · Python, Java, C++, JavaScript · H-1B track record: ~39 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:singlestore:8154399</id>
+    <title>SingleStore: Software Engineer Intern</title>
+    <link href="https://job-boards.greenhouse.io/singlestore/jobs/8154399"/>
+    <updated>2026-09-14T20:47:57Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · United States · Go, TypeScript, JavaScript, SQL · sponsorship: offers · H-1B track record: ~16 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:oracle:ekbq.fa.em2.oraclecloud.com:2061</id>
     <title>Schroders: 2027 Schroders Capital Internship Program - Infrastructure</title>
     <link href="https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2061"/>
     <updated>2026-09-14T20:47:57Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · NEW YORK, NY, United States</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:slihrms:/job/USNVHenderson/Water-Infrastructure-Engineering-Intern---Summer-2027_R-160500-2</id>
-    <title>AtkinsRéalis: Water Infrastructure Engineering Intern - Summer 2027</title>
-    <link href="https://slihrms.wd3.myworkdayjobs.com/careers/job/USNVHenderson/Water-Infrastructure-Engineering-Intern---Summer-2027_R-160500-2"/>
-    <updated>2026-09-14T20:47:57Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · US.NV.Henderson</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:brevanhoward:/job/New-York/XMLNAME-2027-Summer-Internship-Program---AI---Quantitative-Analyst--New-York_JR101602</id>
@@ -64,14 +128,6 @@
     <summary>Summer 2027 · Data &amp; ML/AI · United States, Wisconsin, Milwaukee · Python, SQL, Snowflake · sponsorship: no-sponsorship · H-1B track record: ~18 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:figma:6143238004</id>
-    <title>Figma: Software Engineer Intern (Summer 2027)</title>
-    <link href="https://boards.greenhouse.io/figma/jobs/6143238004?gh_jid=6143238004"/>
-    <updated>2026-09-14T20:47:57Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · San Francisco, CA • New York, NY · Python, Java, C++, JavaScript · H-1B track record: ~39 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:oshkoshcorporation:/job/McConnellsburg-Pennsylvania-United-States/Robotic-Programming-Welding-Intern--Summer-2027-_R49598</id>
     <title>Oshkosh: Robotic Programming/Welding Intern (Summer 2027)</title>
     <link href="https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/McConnellsburg-Pennsylvania-United-States/Robotic-Programming-Welding-Intern--Summer-2027-_R49598"/>
@@ -88,12 +144,12 @@
     <summary>Summer 2027 · Software · East Syracuse, NY (Collamer) · $20.27–$22.3/hr · Java, C++, Linux · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:singlestore:8154399</id>
-    <title>SingleStore: Software Engineer Intern</title>
-    <link href="https://job-boards.greenhouse.io/singlestore/jobs/8154399"/>
+    <id>urn:intern-engine:workday:slihrms:/job/USNVHenderson/Water-Infrastructure-Engineering-Intern---Summer-2027_R-160500-2</id>
+    <title>AtkinsRéalis: Water Infrastructure Engineering Intern - Summer 2027</title>
+    <link href="https://slihrms.wd3.myworkdayjobs.com/careers/job/USNVHenderson/Water-Infrastructure-Engineering-Intern---Summer-2027_R-160500-2"/>
     <updated>2026-09-14T20:47:57Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · United States · Go, TypeScript, JavaScript, SQL · sponsorship: offers · H-1B track record: ~16 approvals (FY2022–2023)</summary>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · US.NV.Henderson</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:tencent:/job/US-California-Palo-Alto/Cyber-Security-Engineer-Intern_R108141-2</id>
@@ -102,6 +158,30 @@
     <updated>2026-09-14T20:47:57Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Security · US-California-Palo Alto · $27.12–$51.93/hr · Python, Java, C++, Bash, AWS</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:wexinc:/job/US---Remote/Backend-Software-Engineer-Intern---C---Cloud-Security---AI--Undergraduate-_R22589</id>
+    <title>Wex: Backend Software Engineer Intern - C#, Cloud Security &amp; AI (Undergraduate)</title>
+    <link href="https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern---C---Cloud-Security---AI--Undergraduate-_R22589"/>
+    <updated>2026-09-14T20:47:57Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · US - Remote · C#, Python, AWS, Docker, Git · H-1B track record: ~22 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:wexinc:/job/US---Remote/Backend-Software-Engineer-Intern---C--Java---AI-Workflows--Undergraduate-_R22586</id>
+    <title>Wex: Backend Software Engineer Intern - C#/Java &amp; AI Workflows (Undergraduate)</title>
+    <link href="https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern---C--Java---AI-Workflows--Undergraduate-_R22586"/>
+    <updated>2026-09-14T20:47:57Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · US - Remote · Java, C#, SQL, Azure, Kafka · H-1B track record: ~22 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:wexinc:/job/US---Remote/Backend-Software-Engineer-Intern---Java---AI--Master-s-_R22547</id>
+    <title>Wex: Backend Software Engineer Intern - Java &amp; AI (Master’s)</title>
+    <link href="https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern---Java---AI--Master-s-_R22547"/>
+    <updated>2026-09-14T20:47:57Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · US - Remote · Java, Spring, AWS, PostgreSQL · H-1B track record: ~22 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:wexinc:/job/US---Remote/Backend-Software-Engineer-Intern--Undergraduate-_R22593</id>
@@ -126,30 +206,6 @@
     <updated>2026-09-14T20:47:57Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · US - Remote · Java, C#, LLMs · H-1B track record: ~22 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:wexinc:/job/US---Remote/Backend-Software-Engineer-Intern---Java---AI--Master-s-_R22547</id>
-    <title>Wex: Backend Software Engineer Intern - Java &amp; AI (Master’s)</title>
-    <link href="https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern---Java---AI--Master-s-_R22547"/>
-    <updated>2026-09-14T20:47:57Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · US - Remote · Java, Spring, AWS, PostgreSQL · H-1B track record: ~22 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:wexinc:/job/US---Remote/Backend-Software-Engineer-Intern---C--Java---AI-Workflows--Undergraduate-_R22586</id>
-    <title>Wex: Backend Software Engineer Intern - C#/Java &amp; AI Workflows (Undergraduate)</title>
-    <link href="https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern---C--Java---AI-Workflows--Undergraduate-_R22586"/>
-    <updated>2026-09-14T20:47:57Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · US - Remote · Java, C#, SQL, Azure, Kafka · H-1B track record: ~22 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:wexinc:/job/US---Remote/Backend-Software-Engineer-Intern---C---Cloud-Security---AI--Undergraduate-_R22589</id>
-    <title>Wex: Backend Software Engineer Intern - C#, Cloud Security &amp; AI (Undergraduate)</title>
-    <link href="https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern---C---Cloud-Security---AI--Undergraduate-_R22589"/>
-    <updated>2026-09-14T20:47:57Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · US - Remote · C#, Python, AWS, Docker, Git · H-1B track record: ~22 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:base-power:5353ea33-57d4-46fa-9a96-e392a3f841bc</id>
@@ -451,9 +507,17 @@
     <id>urn:intern-engine:oracle:etyy.fa.ap2.oraclecloud.com:11648</id>
     <title>Kulicke &amp; Soffa: Intern, Software Engineering</title>
     <link href="https://etyy.fa.ap2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11648"/>
+    <updated>2026-09-14T23:45:37Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Fort Washington, PA, United States · Python, C++, MATLAB · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:etyy.fa.ap2.oraclecloud.com:11649</id>
+    <title>Kulicke &amp; Soffa: Intern, Software Engineering</title>
+    <link href="https://etyy.fa.ap2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11649"/>
     <updated>2026-09-12T05:16:03Z</updated>
     <category term="Not stated"/>
-    <summary>2 openings · Not stated · Software · Fort Washington, PA, United States · Python, C++, MATLAB</summary>
+    <summary>Not stated · Software · Fort Washington, PA, United States · C++</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:newsbreak:4712896006</id>
@@ -742,69 +806,5 @@
     <updated>2026-09-11T16:40:06Z</updated>
     <category term="Summer 2026"/>
     <summary>Summer 2026 · Data &amp; ML/AI · Oshkosh, Wisconsin, United States · Python, SQL, Azure, Databricks · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ttc:/job/Bloomington-MN/Embedded-Software-Engineering-Intern---The-Toro-Company_JR17114</id>
-    <title>The Toro Company: Embedded Software Engineering Intern - The Toro Company 🛂</title>
-    <link href="https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Embedded-Software-Engineering-Intern---The-Toro-Company_JR17114"/>
-    <updated>2026-09-11T16:40:06Z</updated>
-    <category term="Summer 2027"/>
-    <summary>2 openings · Summer 2027 · Software · Bloomington, MN · C++, C# · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:bah:/job/McLean-VA/Enterprise-Cybersecurity-Data-Loss-Prevention-Intern_R0249131-1</id>
-    <title>Booz Allen: Enterprise Cybersecurity Data Loss Prevention Intern 🇺🇸</title>
-    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Enterprise-Cybersecurity-Data-Loss-Prevention-Intern_R0249131-1"/>
-    <updated>2026-09-11T12:05:58Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · McLean, VA · $108k/yr · AWS, GCP, Azure · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:bah:/job/McLean-VA/Enterprise-Cybersecurity-Education-and-Execution-Intern_R0249071</id>
-    <title>Booz Allen: Enterprise Cybersecurity Education and Execution Intern 🇺🇸</title>
-    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Enterprise-Cybersecurity-Education-and-Execution-Intern_R0249071"/>
-    <updated>2026-09-11T12:05:58Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security · McLean, VA · $108k/yr · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:bah:/job/McLean-VA/University---Summer-27--Enterprise-Cybersecurity-Data-Loss-Prevention-Intern_R0249083</id>
-    <title>Booz Allen: University – Summer 27, Enterprise Cybersecurity Data Loss Prevention Intern 🇺🇸</title>
-    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University---Summer-27--Enterprise-Cybersecurity-Data-Loss-Prevention-Intern_R0249083"/>
-    <updated>2026-09-11T12:05:58Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · McLean, VA · $108k/yr · AWS, GCP, Azure · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:bah:/job/McLean-VA/University---Summer-27--Enterprise-Cybersecurity-IT-Policy-Intern_R0249077</id>
-    <title>Booz Allen: University – Summer 27, Enterprise Cybersecurity IT Policy Intern 🇺🇸</title>
-    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University---Summer-27--Enterprise-Cybersecurity-IT-Policy-Intern_R0249077"/>
-    <updated>2026-09-11T12:05:58Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security · McLean, VA · $108k/yr · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:bah:/job/McLean-VA/University---Summer-27--Enterprise-Cybersecurity-Vulnerability-Intern_R0249085</id>
-    <title>Booz Allen: University – Summer 27, Enterprise Cybersecurity Vulnerability Intern 🇺🇸</title>
-    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University---Summer-27--Enterprise-Cybersecurity-Vulnerability-Intern_R0249085"/>
-    <updated>2026-09-11T12:05:58Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security · McLean, VA · $126k/yr · Python, SQL, AWS, GCP, Azure · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:WellmarkInc:744000148915793</id>
-    <title>Wellmark: Software Engineer Internship – User Experience Team</title>
-    <link href="https://jobs.smartrecruiters.com/WellmarkInc/744000148915793"/>
-    <updated>2026-09-11T06:52:45Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Des Moines, IA, United States (Hybrid) · Java, C++, TypeScript, SQL, Node.js · H-1B track record: ~15 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:WellmarkInc:744000148918178</id>
-    <title>Wellmark: Cyber Security Internship</title>
-    <link href="https://jobs.smartrecruiters.com/WellmarkInc/744000148918178"/>
-    <updated>2026-09-11T06:52:45Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security · Des Moines, IA, United States (Hybrid) · Python, Bash · H-1B track record: ~15 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
