@@ -1,22 +1,7 @@
 {
   "pending": {
-    "discord": [
-      "workday:cai:/job/California/Cybersecurity-Analyst-Intern_R8488",
-      "smartrecruiters:Interco:744000149591449",
-      "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Cyber-Systems-Engineer-Intern---Roy-UT_R10249471",
-      "workday:oshkoshcorporation:/job/San-Francisco-California-United-States/Software-Engineering-Intern_R49493"
-    ],
-    "telegram": [
-      "workday:cai:/job/California/Cybersecurity-Analyst-Intern_R8488",
-      "smartrecruiters:Interco:744000149591449",
-      "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Cyber-Systems-Engineer-Intern---Roy-UT_R10249471",
-      "workday:oshkoshcorporation:/job/San-Francisco-California-United-States/Software-Engineering-Intern_R49493"
-    ],
-    "personal_email": [
-      "workday:cai:/job/California/Cybersecurity-Analyst-Intern_R8488",
-      "smartrecruiters:Interco:744000149591449",
-      "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Cyber-Systems-Engineer-Intern---Roy-UT_R10249471",
-      "workday:oshkoshcorporation:/job/San-Francisco-California-United-States/Software-Engineering-Intern_R49493"
-    ]
+    "discord": [],
+    "telegram": [],
+    "personal_email": []
   }
 }
