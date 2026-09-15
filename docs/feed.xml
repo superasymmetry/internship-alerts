@@ -5,8 +5,32 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://superasymmetry.github.io/internship-alerts/feed.xml" rel="self"/>
   <link href="https://github.com/superasymmetry/internship-alerts"/>
-  <updated>2026-09-15T07:57:11Z</updated>
+  <updated>2026-09-15T13:48:40Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/superasymmetry/internship-alerts</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:cai:/job/California/Cybersecurity-Analyst-Intern_R8488</id>
+    <title>CAI: Cybersecurity Analyst Intern</title>
+    <link href="https://cai.wd5.myworkdayjobs.com/computer_aid/job/California/Cybersecurity-Analyst-Intern_R8488"/>
+    <updated>2026-09-15T13:48:40Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security · California · Python, AWS, Azure, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Cyber-Systems-Engineer-Intern---Roy-UT_R10249471</id>
+    <title>Northrop Grumman: 2027 Cyber Systems Engineer Intern - Roy UT 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Cyber-Systems-Engineer-Intern---Roy-UT_R10249471"/>
+    <updated>2026-09-15T13:48:40Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security · United States-Utah-Roy · $18.5–$33.5/hr · Python, Java, C++, C#, MATLAB · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:oshkoshcorporation:/job/San-Francisco-California-United-States/Software-Engineering-Intern_R49493</id>
+    <title>Oshkosh: Software Engineering Intern</title>
+    <link href="https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/San-Francisco-California-United-States/Software-Engineering-Intern_R49493"/>
+    <updated>2026-09-15T13:48:40Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · San Francisco, California, United States · Python, C++</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:tencent:/job/US-California-Palo-Alto/Machine-Learning-Intern_R108140-1</id>
     <title>Tencent: Machine Learning Intern</title>
@@ -443,9 +467,9 @@
     <id>urn:intern-engine:workday:amat:/job/Santa-ClaraCA/XMLNAME-2027-Software-Engineering-Intern--Masters---Santa-Clara--CA-_R2628265</id>
     <title>Applied Materials: 2027 Software Engineering Intern (Masters - Santa Clara, CA)</title>
     <link href="https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2027-Software-Engineering-Intern--Masters---Santa-Clara--CA-_R2628265"/>
-    <updated>2026-09-14T00:06:39Z</updated>
+    <updated>2026-09-13T19:40:44Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Santa Clara,CA · C++ · status: closed · H-1B track record: ~650 approvals (FY2022–2023)</summary>
+    <summary>Summer 2027 · Software · Santa Clara,CA · C++ · H-1B track record: ~650 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:autostore:/job/Atlanta-GA-USA/Co-Op---Software-Engineering_JR102692</id>
@@ -782,29 +806,5 @@
     <updated>2026-09-11T16:40:06Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · United States - Remote · $28.87/hr · Python, SQL, scikit-learn, Pandas, AWS · H-1B track record: ~768 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:bah:/job/Fayetteville-NC/University---Summer-2027--Software-Engineer-Intern_R0249225</id>
-    <title>Booz Allen: University - Summer 2027, Software Engineer Intern 🇺🇸</title>
-    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fayetteville-NC/University---Summer-2027--Software-Engineer-Intern_R0249225"/>
-    <updated>2026-09-11T16:40:06Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Fayetteville, NC · $108k/yr · Java, C++, Git · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:motorolasolutions:/job/Plantation-FL/DSP--Digital-Signal-Processing--Software-Engineering-Intern---Summer-2027_R68734</id>
-    <title>Motorola: DSP (Digital Signal Processing) Software Engineering Intern - Summer 2027</title>
-    <link href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/DSP--Digital-Signal-Processing--Software-Engineering-Intern---Summer-2027_R68734"/>
-    <updated>2026-09-11T16:40:06Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Plantation, FL · Python, C++, MATLAB, Linux, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:motorolasolutions:/job/Plantation-FL/XMLNAME-2027-Software-Engineering-Summer-Internship_R68125</id>
-    <title>Motorola: 2027 Software Engineering Summer Internship 🇺🇸</title>
-    <link href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/XMLNAME-2027-Software-Engineering-Summer-Internship_R68125"/>
-    <updated>2026-09-11T16:40:06Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Plantation, FL · C++, Linux, Git · sponsorship: citizens-only</summary>
   </entry>
 </feed>
