@@ -3058,9 +3058,12 @@
      "first_posted": "2026-08-28",
      "role_ids": [
       "oracle:hdhl.fa.us6.oraclecloud.com:1007361",
-      "oracle:hdhl.fa.us6.oraclecloud.com:1007589"
+      "oracle:hdhl.fa.us6.oraclecloud.com:1007589",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1007774",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1007776",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1007777"
      ],
-     "count": 2
+     "count": 5
     },
     "Fall 2026": {
      "first_posted": "2026-09-02",
@@ -3690,5 +3693,5 @@
    }
   }
  },
- "updated_at": "2026-09-15T21:31:11Z"
+ "updated_at": "2026-09-15T23:57:21Z"
 }
