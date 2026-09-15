@@ -1,7 +1,22 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": [],
-    "personal_email": []
+    "discord": [
+      "oracle:hdjq.fa.us2.oraclecloud.com:26008230",
+      "greenhouse:andurilindustries:5239083007",
+      "workday:dairynet:/job/La-Crosse-Wisconsin/Intern--Energy-Data-Analyst_JR101052",
+      "workday:philips:/job/Nashville-Tennessee-United-States/Intern--AI-Business-Operations-Nashville--TN-Summer-2027_590986"
+    ],
+    "telegram": [
+      "oracle:hdjq.fa.us2.oraclecloud.com:26008230",
+      "greenhouse:andurilindustries:5239083007",
+      "workday:dairynet:/job/La-Crosse-Wisconsin/Intern--Energy-Data-Analyst_JR101052",
+      "workday:philips:/job/Nashville-Tennessee-United-States/Intern--AI-Business-Operations-Nashville--TN-Summer-2027_590986"
+    ],
+    "personal_email": [
+      "oracle:hdjq.fa.us2.oraclecloud.com:26008230",
+      "greenhouse:andurilindustries:5239083007",
+      "workday:dairynet:/job/La-Crosse-Wisconsin/Intern--Energy-Data-Analyst_JR101052",
+      "workday:philips:/job/Nashville-Tennessee-United-States/Intern--AI-Business-Operations-Nashville--TN-Summer-2027_590986"
+    ]
   }
 }

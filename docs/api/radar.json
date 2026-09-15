@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-15T18:03:13Z",
- "data_as_of": "2026-09-15T18:03:13Z",
- "rendered_at": "2026-09-15T18:03:14Z",
+ "generated_at": "2026-09-15T21:31:11Z",
+ "data_as_of": "2026-09-15T21:31:11Z",
+ "rendered_at": "2026-09-15T21:31:12Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/superasymmetry/internship-alerts",
  "companies": [
@@ -244,7 +244,7 @@
    "expected": "2026-07-08",
    "days_until": -69,
    "status": "open",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Cyber-Systems-Engineer-Intern---Roy-UT_R10249471",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Cincinnati/XMLNAME-2027-Cyber-Software-Engineer-Intern---Cincinnati-OH_R10249186",
    "note": "fall opening, many roles need clearance",
    "provenance": {
     "type": "engine-observed",
@@ -3198,6 +3198,25 @@
    }
   },
   {
+   "company": "AI Intern to the CEO",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-14",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-14",
+   "days_until": -1,
+   "status": "open",
+   "url": "https://jobs.ashbyhq.com/cyvl/8bfc4116-b0bb-47f8-bca1-7069a37db328",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-14"
+   }
+  },
+  {
    "company": "CoStar Group",
    "last_cycle_posted": "",
    "posted_on": "2026-09-14",
@@ -3436,7 +3455,7 @@
    "expected": "2026-09-15",
    "days_until": 0,
    "status": "open",
-   "url": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-Texas/XMLNAME-2027-Summer-Internship---Software-Engineer_REQ-12794",
+   "url": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-Texas/XMLNAME-2027-Summer-Internship---Machine-Learning-Engineer_REQ-12797",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -6255,5 +6274,5 @@
    }
   }
  ],
- "count": 329
+ "count": 330
 }
