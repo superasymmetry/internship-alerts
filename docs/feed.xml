@@ -5,8 +5,96 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://superasymmetry.github.io/internship-alerts/feed.xml" rel="self"/>
   <link href="https://github.com/superasymmetry/internship-alerts"/>
-  <updated>2026-09-16T10:05:03Z</updated>
+  <updated>2026-09-16T15:10:55Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/superasymmetry/internship-alerts</uri></author>
+  <entry>
+    <id>urn:intern-engine:ashby:bedrock-robotics:8927dd7e-a48d-49a2-92eb-09ec059432f4</id>
+    <title>Bedrock Robotics: Internship 2027 Software Engineer, Fleet Platform</title>
+    <link href="https://jobs.ashbyhq.com/bedrock-robotics/8927dd7e-a48d-49a2-92eb-09ec059432f4"/>
+    <updated>2026-09-16T15:10:55Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · New York, NY · Python, C++, Rust, TypeScript</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:gecko-robotics:c097505b-0a28-4a33-a917-268f463641e8</id>
+    <title>Gecko Robotics: AI/Machine Learning Engineering Intern</title>
+    <link href="https://jobs.ashbyhq.com/gecko-robotics/c097505b-0a28-4a33-a917-268f463641e8"/>
+    <updated>2026-09-16T15:10:55Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · New York City · $50 – $90 per hour · Python, SQL, PyTorch, Pandas, LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:gecko-robotics:01138338-ff3c-4982-8ba3-5401386bf082</id>
+    <title>Gecko Robotics: Full Stack Software Engineering Intern</title>
+    <link href="https://jobs.ashbyhq.com/gecko-robotics/01138338-ff3c-4982-8ba3-5401386bf082"/>
+    <updated>2026-09-16T15:10:55Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · New York City · $40 – $80 per hour · Python, TypeScript, JavaScript, LLMs, React</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:ejia.fa.us6.oraclecloud.com:107256</id>
+    <title>S&amp;C Electric Company: Cyber Security Analyst- Intern</title>
+    <link href="https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107256"/>
+    <updated>2026-09-16T15:10:55Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Security · Chicago, IL, United States · $22–$30/hr · H-1B track record: ~10 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:cartesiansystems:4408204009</id>
+    <title>Cartesian: IAP Software Engineering Intern 2027</title>
+    <link href="https://job-boards.greenhouse.io/cartesiansystems/jobs/4408204009"/>
+    <updated>2026-09-16T15:10:55Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Cambridge, MA · $20–$25/hr · Python, TypeScript, Kotlin, PyTorch, Next.js</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:nasdaq:/job/GA---Glenridge-Point/Software-Developer--Engineer-Intern---2027-Summer-Internship_R0026972</id>
+    <title>Nasdaq: Software Developer/ Engineer Intern - 2027 Summer Internship</title>
+    <link href="https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/GA---Glenridge-Point/Software-Developer--Engineer-Intern---2027-Summer-Internship_R0026972"/>
+    <updated>2026-09-16T15:10:55Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · GA - Glenridge Point · C#, SQL, Vue, .NET, AWS · H-1B track record: ~16 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:plastipak:/job/Plastipak-GBTC---Plymouth-MI/Software-Engineering-Intern---Summer-2027_REQ24512</id>
+    <title>Plastipak: Software Engineering Intern - Summer 2027</title>
+    <link href="https://plastipak.wd1.myworkdayjobs.com/Plastipak/job/Plastipak-GBTC---Plymouth-MI/Software-Engineering-Intern---Summer-2027_REQ24512"/>
+    <updated>2026-09-16T15:10:55Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Plastipak GBTC - Plymouth, MI</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:quantiq:4287936009</id>
+    <title>Quantiq: Software Developer Internship (Summer 2027)</title>
+    <link href="https://job-boards.greenhouse.io/quantiq/jobs/4287936009"/>
+    <updated>2026-09-16T15:10:55Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Austin, TX · Python, C++</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:relaypro:8176774</id>
+    <title>Relay: Relay Launchpad Intern - Software Engineer (AI/ML)</title>
+    <link href="https://job-boards.greenhouse.io/relaypro/jobs/8176774"/>
+    <updated>2026-09-16T15:10:55Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Raleigh, NC · Python, Rust, JavaScript, PyTorch, LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:relaypro:8180836</id>
+    <title>Relay: Relay Launchpad Intern - Software Engineer (Device Team)</title>
+    <link href="https://job-boards.greenhouse.io/relaypro/jobs/8180836"/>
+    <updated>2026-09-16T15:10:55Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Raleigh, NC · Python, Java, C++, Rust, Kotlin</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:tihinsurance:/job/Dallas-TX---12377-Merit-Dr/Internship---Software-Engineering_R0000003172</id>
+    <title>Tihinsurance: Internship - Software Engineering</title>
+    <link href="https://tihinsurance.wd1.myworkdayjobs.com/crc_careers/job/Dallas-TX---12377-Merit-Dr/Internship---Software-Engineering_R0000003172"/>
+    <updated>2026-09-16T15:10:55Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Dallas TX - 12377 Merit Dr. · Python, Java, C#, JavaScript</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Aerospace-Software-Engineer-Undergraduate-Intern_R016605</id>
     <title>The Aerospace Corporation: 2027 Aerospace Software Engineer Undergraduate Intern 🇺🇸</title>
@@ -106,15 +194,15 @@
   <entry>
     <id>urn:intern-engine:greenhouse:duolingo:8805925002</id>
     <title>Duolingo: Software Engineer, Intern</title>
-    <link href="https://careers.duolingo.com/jobs/8805925002?gh_jid=8805925002"/>
+    <link href="https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8806878002"/>
     <updated>2026-09-15T18:03:13Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · New York, NY; New York, NY; Pittsburgh, PA; Pittsburgh, PA; Seattle, WA; Seattle, WA · Python, Java, Swift, Kotlin · H-1B track record: ~22 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Software · Pittsburgh, PA; New York, NY; Seattle, WA · Python, Java, Swift, Kotlin · H-1B track record: ~22 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:duolingo:8806114002</id>
     <title>Duolingo: Software Engineer, Thrive Intern</title>
-    <link href="https://careers.duolingo.com/jobs/8806114002?gh_jid=8806114002"/>
+    <link href="https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8806115002"/>
     <updated>2026-09-15T18:03:13Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Pittsburgh, PA · Python, Java, Swift, Kotlin · H-1B track record: ~22 approvals (FY2022–2023)</summary>
@@ -707,9 +795,9 @@
     <id>urn:intern-engine:workday:amat:/job/Santa-ClaraCA/XMLNAME-2027-Software-Engineering-Intern--Masters---Santa-Clara--CA-_R2628265</id>
     <title>Applied Materials: 2027 Software Engineering Intern (Masters - Santa Clara, CA)</title>
     <link href="https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2027-Software-Engineering-Intern--Masters---Santa-Clara--CA-_R2628265"/>
-    <updated>2026-09-13T19:40:44Z</updated>
+    <updated>2026-09-16T14:53:07Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Santa Clara,CA · C++ · H-1B track record: ~650 approvals (FY2022–2023)</summary>
+    <summary>Summer 2027 · Software · Santa Clara,CA · C++ · status: closed · H-1B track record: ~650 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:autostore:/job/Atlanta-GA-USA/Co-Op---Software-Engineering_JR102692</id>
@@ -718,93 +806,5 @@
     <updated>2026-09-13T17:13:44Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Atlanta, GA, USA · Python, Java, C++, C#, TypeScript</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workable:syntiant:113F994B7B</id>
-    <title>Syntiant: Machine Learning Intern - KWS/AED</title>
-    <link href="https://apply.workable.com/syntiant/j/113F994B7B/"/>
-    <updated>2026-09-13T01:35:33Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Redwood City, California, United States · Python, PyTorch, TensorFlow</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:anavationllc:4a82ae00-30f0-410c-bf3c-f1cdd18739e7</id>
-    <title>AnaVation: Computer Science Internship Summer 2027 🇺🇸</title>
-    <link href="https://jobs.lever.co/anavationllc/4a82ae00-30f0-410c-bf3c-f1cdd18739e7"/>
-    <updated>2026-09-12T18:59:45Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Chantilly, VA · Python, Java, Node.js, AWS, GCP · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:megazone:e2889469-cf20-4227-bf24-2a6e885f8dca</id>
-    <title>MegazoneCloud: Software Engineer Co-op 2027 🛂</title>
-    <link href="https://jobs.ashbyhq.com/megazone/e2889469-cf20-4227-bf24-2a6e885f8dca"/>
-    <updated>2026-09-12T13:23:34Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Rochester, NY · $27 – $28 per hour · Python, Java, JavaScript, LLMs, AWS · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:megazone:fde09888-986f-4207-88fe-3ff5b921a1fa</id>
-    <title>MegazoneCloud: Data Engineer Co-op 2027 🛂</title>
-    <link href="https://jobs.ashbyhq.com/megazone/fde09888-986f-4207-88fe-3ff5b921a1fa"/>
-    <updated>2026-09-12T13:23:34Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Rochester, NY · $27 – $29 per hour · Python, SQL, LLMs, AWS, Git · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:klaviyocampus:7989364003</id>
-    <title>Klaviyo: Software Engineer Intern (Summer 2027) 🛂</title>
-    <link href="https://job-boards.greenhouse.io/klaviyocampus/jobs/7989364003"/>
-    <updated>2026-09-12T13:23:34Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Boston, MA · Python, TypeScript, React, Django, AWS · sponsorship: no-sponsorship · H-1B track record: ~28 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:xcimer:fee9965c-8040-4614-8fd1-10bddfe3b911</id>
-    <title>Xcimer Energy: Summer 2027 Internship - Computational and Software Engineering 🇺🇸</title>
-    <link href="https://jobs.lever.co/xcimer/fee9965c-8040-4614-8fd1-10bddfe3b911"/>
-    <updated>2026-09-12T13:23:34Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Denver, CO · 25–35 USD/hr · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:bracco:/job/USA-Eden-Prairie-Minnesota-55344/Software-Engineering-Intern--Co-op--R-D-Sustaining-_JR100327</id>
-    <title>Bracco: Software Engineering Intern/ Co-op (R&amp;D Sustaining)</title>
-    <link href="https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Eden-Prairie-Minnesota-55344/Software-Engineering-Intern--Co-op--R-D-Sustaining-_JR100327"/>
-    <updated>2026-09-12T13:23:34Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · USA, Eden Prairie, Minnesota, 55344 · $23–$25/hr · C++, C#</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:bracco:/job/USA-Eden-Prairie-Minnesota-55344/Software-Engineering-Intern_JR100328</id>
-    <title>Bracco: Software Engineering Intern</title>
-    <link href="https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Eden-Prairie-Minnesota-55344/Software-Engineering-Intern_JR100328"/>
-    <updated>2026-09-12T13:23:34Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · USA, Eden Prairie, Minnesota, 55344 · $23–$25/hr · Python, Java, C++, C#, TypeScript</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:etyy.fa.ap2.oraclecloud.com:11648</id>
-    <title>Kulicke &amp; Soffa: Intern, Software Engineering</title>
-    <link href="https://etyy.fa.ap2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11648"/>
-    <updated>2026-09-14T23:45:37Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Fort Washington, PA, United States · Python, C++, MATLAB · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:etyy.fa.ap2.oraclecloud.com:11649</id>
-    <title>Kulicke &amp; Soffa: Intern, Software Engineering</title>
-    <link href="https://etyy.fa.ap2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11649"/>
-    <updated>2026-09-12T05:16:03Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Fort Washington, PA, United States · C++</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:newsbreak:4712896006</id>
-    <title>NewsBreak: Nearby AI Internship Program - Engineering Track</title>
-    <link href="https://job-boards.greenhouse.io/newsbreak/jobs/4712896006"/>
-    <updated>2026-09-16T10:05:02Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Mountain View, California, United States · Python, Java, LLMs, Git, PostgreSQL · status: closed</summary>
   </entry>
 </feed>
