@@ -206,6 +206,18 @@
     }
    }
   },
+  "american century investments": {
+   "name": "American Century Investments",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-09-16",
+     "role_ids": [
+      "workday:americancentury:/job/Kansas-City-Missouri/Cybersecurity-Intern_R0005729"
+     ],
+     "count": 1
+    }
+   }
+  },
   "american express": {
    "name": "American Express",
    "cycles": {
@@ -684,6 +696,7 @@
     "Summer 2027": {
      "first_posted": "2026-08-31",
      "role_ids": [
+      "workday:caci:/job/Colorado-Springs-CO-US/Software-Test-Engineer-Intern---Summer-2027_332003",
       "workday:caci:/job/Danbury-CT-US/Software-Engineering-Co-op---Spring---Summer-2027_331356-1",
       "workday:caci:/job/Danbury-CT-US/Software-Engineering-Co-op---Summer---Fall-2027_331354",
       "workday:caci:/job/Denver-CO-US/DevOps-Software-Engineering-Intern---Summer-2027_331798",
@@ -694,7 +707,7 @@
       "workday:caci:/job/Sterling-VA-US/DevOps-Software-Engineering-Intern---Summer-2027_331466",
       "workday:caci:/job/Ypsilanti-MI-US/Software-Engineer-Intern---Summer-2027_331648"
      ],
-     "count": 9
+     "count": 10
     }
    }
   },
@@ -3824,5 +3837,5 @@
    }
   }
  },
- "updated_at": "2026-09-16T19:08:42Z"
+ "updated_at": "2026-09-16T22:24:09Z"
 }
