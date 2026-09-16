@@ -1,37 +1,7 @@
 {
   "pending": {
-    "discord": [
-      "rippling:collieraerospace:5a8bf9a3-c4f5-4c5a-ba9a-188979106827",
-      "lever:kitware:ff25a349-a362-45d2-b1e4-2487c1df4f75",
-      "workday:aspentech:/job/Medina-Minnesota/Software-Development-Intern---Digital-Grid-Management---Summer-2027_R9456",
-      "greenhouse:clockworksystems:6174230004",
-      "workday:gfs:/job/Atlanta-Georgia/Cloud-DevOps-Internship_R-57259",
-      "workday:gfs:/job/Atlanta-Georgia/IT-Infrastructure-Project-Support-Internship_R-56286",
-      "greenhouse:rendezvousrobotics:4408590009",
-      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Intern--Summer-2027-_01873099",
-      "workday:vermeer:/job/Pella-Iowa-USA---Corporate-Office/IT-Data-Engineer-Intern_REQ-22171"
-    ],
-    "telegram": [
-      "rippling:collieraerospace:5a8bf9a3-c4f5-4c5a-ba9a-188979106827",
-      "lever:kitware:ff25a349-a362-45d2-b1e4-2487c1df4f75",
-      "workday:aspentech:/job/Medina-Minnesota/Software-Development-Intern---Digital-Grid-Management---Summer-2027_R9456",
-      "greenhouse:clockworksystems:6174230004",
-      "workday:gfs:/job/Atlanta-Georgia/Cloud-DevOps-Internship_R-57259",
-      "workday:gfs:/job/Atlanta-Georgia/IT-Infrastructure-Project-Support-Internship_R-56286",
-      "greenhouse:rendezvousrobotics:4408590009",
-      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Intern--Summer-2027-_01873099",
-      "workday:vermeer:/job/Pella-Iowa-USA---Corporate-Office/IT-Data-Engineer-Intern_REQ-22171"
-    ],
-    "personal_email": [
-      "rippling:collieraerospace:5a8bf9a3-c4f5-4c5a-ba9a-188979106827",
-      "lever:kitware:ff25a349-a362-45d2-b1e4-2487c1df4f75",
-      "workday:aspentech:/job/Medina-Minnesota/Software-Development-Intern---Digital-Grid-Management---Summer-2027_R9456",
-      "greenhouse:clockworksystems:6174230004",
-      "workday:gfs:/job/Atlanta-Georgia/Cloud-DevOps-Internship_R-57259",
-      "workday:gfs:/job/Atlanta-Georgia/IT-Infrastructure-Project-Support-Internship_R-56286",
-      "greenhouse:rendezvousrobotics:4408590009",
-      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Intern--Summer-2027-_01873099",
-      "workday:vermeer:/job/Pella-Iowa-USA---Corporate-Office/IT-Data-Engineer-Intern_REQ-22171"
-    ]
+    "discord": [],
+    "telegram": [],
+    "personal_email": []
   }
 }
