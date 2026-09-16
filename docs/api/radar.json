@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-16T15:10:55Z",
- "data_as_of": "2026-09-16T15:10:55Z",
- "rendered_at": "2026-09-16T15:10:56Z",
+ "generated_at": "2026-09-16T19:08:42Z",
+ "data_as_of": "2026-09-16T19:08:42Z",
+ "rendered_at": "2026-09-16T19:08:43Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/superasymmetry/internship-alerts",
  "companies": [
@@ -3312,25 +3312,6 @@
    }
   },
   {
-   "company": "OpenGov",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-14",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-14",
-   "days_until": -2,
-   "status": "open",
-   "url": "https://jobs.ashbyhq.com/opengov/c31622c1-be01-4d4a-b7cf-d116be84cc08",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-09-14"
-   }
-  },
-  {
    "company": "Robinhood",
    "last_cycle_posted": "",
    "posted_on": "2026-09-14",
@@ -3343,25 +3324,6 @@
    "status": "open",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8123225?t=gh_src=&gh_jid=8123225",
    "note": "opens fall",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-09-14"
-   }
-  },
-  {
-   "company": "Schroders",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-14",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-14",
-   "days_until": -2,
-   "status": "open",
-   "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2061",
-   "note": "",
    "provenance": {
     "type": "engine-observed",
     "cycle": "Summer 2027",
@@ -3502,6 +3464,25 @@
    }
   },
   {
+   "company": "AspenTech",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-16",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-16",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Medina-Minnesota/Software-Development-Intern---Digital-Grid-Management---Summer-2027_R9456",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-16"
+   }
+  },
+  {
    "company": "Cartesian",
    "last_cycle_posted": "",
    "posted_on": "2026-09-16",
@@ -3531,7 +3512,7 @@
    "expected": "2026-09-16",
    "days_until": 0,
    "status": "open",
-   "url": "https://jobs.ashbyhq.com/gecko-robotics/c097505b-0a28-4a33-a917-268f463641e8",
+   "url": "https://jobs.ashbyhq.com/gecko-robotics/01138338-ff3c-4982-8ba3-5401386bf082",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -3589,6 +3570,25 @@
    "days_until": 0,
    "status": "open",
    "url": "https://job-boards.greenhouse.io/relaypro/jobs/8176774",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-16"
+   }
+  },
+  {
+   "company": "Rendezvous Robotics",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-16",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-16",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4408590009",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -6424,7 +6424,45 @@
     "cycle": "Summer 2027",
     "observed_on": "2026-09-14"
    }
+  },
+  {
+   "company": "OpenGov",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-14",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-14",
+   "days_until": -2,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-14"
+   }
+  },
+  {
+   "company": "Schroders",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-14",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-14",
+   "days_until": -2,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-14"
+   }
   }
  ],
- "count": 338
+ "count": 340
 }
