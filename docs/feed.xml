@@ -5,15 +5,31 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://superasymmetry.github.io/internship-alerts/feed.xml" rel="self"/>
   <link href="https://github.com/superasymmetry/internship-alerts"/>
-  <updated>2026-09-15T23:57:21Z</updated>
+  <updated>2026-09-16T04:56:59Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/superasymmetry/internship-alerts</uri></author>
   <entry>
-    <id>urn:intern-engine:oracle:hdjq.fa.us2.oraclecloud.com:26010928</id>
-    <title>Emerson Electric: Software Engineering Intern 🛂</title>
-    <link href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010928"/>
+    <id>urn:intern-engine:workday:liveoakbancshares:/job/Wilmington-NC/Summer-2027-Intern--AI-Enablement---Forward-Deployed-Engineering_R-002624</id>
+    <title>Live Oak Bank: Summer 2027 Intern: AI Enablement &amp; Forward-Deployed Engineering</title>
+    <link href="https://liveoakbancshares.wd1.myworkdayjobs.com/Live_Oak/job/Wilmington-NC/Summer-2027-Intern--AI-Enablement---Forward-Deployed-Engineering_R-002624"/>
+    <updated>2026-09-16T04:56:59Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Wilmington, NC · $19.77–$32.12/hr · Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Aerospace-Software-Engineer-Undergraduate-Intern_R016605</id>
+    <title>The Aerospace Corporation: 2027 Aerospace Software Engineer Undergraduate Intern 🇺🇸</title>
+    <link href="https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Aerospace-Software-Engineer-Undergraduate-Intern_R016605"/>
+    <updated>2026-09-16T04:56:59Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · El Segundo, CA · Python, Java, C++ · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:brevium:4713683006</id>
+    <title>Brevium: Software Engineer Intern</title>
+    <link href="https://job-boards.greenhouse.io/brevium/jobs/4713683006"/>
     <updated>2026-09-15T23:57:21Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Austin, TX, United States · Python, C++, C#, Linux · sponsorship: no-sponsorship</summary>
+    <summary>Not stated · Software · American Fork, UT · C#, SQL</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:40172</id>
@@ -48,12 +64,12 @@
     <summary>Summer 2027 · Software · Austin, TX, United States</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:brevium:4713683006</id>
-    <title>Brevium: Software Engineer Intern</title>
-    <link href="https://job-boards.greenhouse.io/brevium/jobs/4713683006"/>
+    <id>urn:intern-engine:oracle:hdjq.fa.us2.oraclecloud.com:26010928</id>
+    <title>Emerson Electric: Software Engineering Intern 🛂</title>
+    <link href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010928"/>
     <updated>2026-09-15T23:57:21Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · American Fork, UT · C#, SQL</summary>
+    <summary>Not stated · Software · Austin, TX, United States · Python, C++, C#, Linux · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:ambrook:29ffbcea-17c3-4488-9d57-a9f7249b49a5</id>
@@ -187,9 +203,9 @@
     <id>urn:intern-engine:workday:ngc:/job/United-States-Ohio-Cincinnati/XMLNAME-2027-Cyber-Software-Engineer-Intern---Cincinnati-OH_R10249186</id>
     <title>Northrop Grumman: 2027 Cyber Software Engineer Intern - Cincinnati OH 🇺🇸</title>
     <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Cincinnati/XMLNAME-2027-Cyber-Software-Engineer-Intern---Cincinnati-OH_R10249186"/>
-    <updated>2026-09-15T18:03:13Z</updated>
+    <updated>2026-09-16T04:42:39Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security · United States-Ohio-Cincinnati · $19.5–$35.5/hr · Git · sponsorship: citizens-only</summary>
+    <summary>Summer 2027 · Security · United States-Ohio-Cincinnati · $19.5–$35.5/hr · Git · sponsorship: citizens-only · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:nvidia:/job/US-CA-Santa-Clara/Research-Intern--Fundamental-Generative-AI---2027_JR2025406</id>
@@ -243,9 +259,9 @@
     <id>urn:intern-engine:workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Cyber-Systems-Engineer-Intern---Roy-UT_R10249471</id>
     <title>Northrop Grumman: 2027 Cyber Systems Engineer Intern - Roy UT 🇺🇸</title>
     <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Cyber-Systems-Engineer-Intern---Roy-UT_R10249471"/>
-    <updated>2026-09-15T13:48:40Z</updated>
+    <updated>2026-09-16T04:42:39Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security · United States-Utah-Roy · $18.5–$33.5/hr · Python, Java, C++, C#, MATLAB · sponsorship: citizens-only</summary>
+    <summary>Summer 2027 · Security · United States-Utah-Roy · $18.5–$33.5/hr · Python, Java, C++, C#, MATLAB · sponsorship: citizens-only · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:oshkoshcorporation:/job/San-Francisco-California-United-States/Software-Engineering-Intern_R49493</id>
@@ -691,9 +707,9 @@
     <id>urn:intern-engine:workday:amat:/job/Santa-ClaraCA/XMLNAME-2027-Software-Engineering-Intern--Masters---Santa-Clara--CA-_R2628265</id>
     <title>Applied Materials: 2027 Software Engineering Intern (Masters - Santa Clara, CA)</title>
     <link href="https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2027-Software-Engineering-Intern--Masters---Santa-Clara--CA-_R2628265"/>
-    <updated>2026-09-15T23:40:12Z</updated>
+    <updated>2026-09-13T19:40:44Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Santa Clara,CA · C++ · status: closed · H-1B track record: ~650 approvals (FY2022–2023)</summary>
+    <summary>Summer 2027 · Software · Santa Clara,CA · C++ · H-1B track record: ~650 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:autostore:/job/Atlanta-GA-USA/Co-Op---Software-Engineering_JR102692</id>
@@ -790,21 +806,5 @@
     <updated>2026-09-12T00:29:30Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Mountain View, California, United States · Python, Java, LLMs, Git, PostgreSQL</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:ibotta:3130669e-16aa-4f63-834d-b83571c8d269</id>
-    <title>ibotta: Software Engineer Intern</title>
-    <link href="https://jobs.ashbyhq.com/ibotta/3130669e-16aa-4f63-834d-b83571c8d269"/>
-    <updated>2026-09-11T22:09:34Z</updated>
-    <category term="Summer 2026"/>
-    <summary>Summer 2026 · Software · Denver, CO · $33.85/hr · Python, Java, TypeScript, JavaScript, Ruby · status: closed · H-1B track record: ~10 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:amgen:/job/United-States---Remote/Grad-Intern---Data-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255725</id>
-    <title>Amgen: Grad Intern – Data Engineer – Amgen’s Technology &amp; Medical Organizations (Summer 2027)</title>
-    <link href="https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Data-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255725"/>
-    <updated>2026-09-11T22:09:34Z</updated>
-    <category term="Summer 2027"/>
-    <summary>2 openings · Summer 2027 · Data &amp; ML/AI · United States - Remote · $35.34–$41.2/hr · Python, Java, SQL, Scala, AWS · H-1B track record: ~768 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
