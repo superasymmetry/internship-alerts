@@ -5,16 +5,8 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://superasymmetry.github.io/internship-alerts/feed.xml" rel="self"/>
   <link href="https://github.com/superasymmetry/internship-alerts"/>
-  <updated>2026-09-16T04:56:59Z</updated>
+  <updated>2026-09-16T10:05:03Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/superasymmetry/internship-alerts</uri></author>
-  <entry>
-    <id>urn:intern-engine:workday:liveoakbancshares:/job/Wilmington-NC/Summer-2027-Intern--AI-Enablement---Forward-Deployed-Engineering_R-002624</id>
-    <title>Live Oak Bank: Summer 2027 Intern: AI Enablement &amp; Forward-Deployed Engineering</title>
-    <link href="https://liveoakbancshares.wd1.myworkdayjobs.com/Live_Oak/job/Wilmington-NC/Summer-2027-Intern--AI-Enablement---Forward-Deployed-Engineering_R-002624"/>
-    <updated>2026-09-16T04:56:59Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Wilmington, NC · $19.77–$32.12/hr · Git</summary>
-  </entry>
   <entry>
     <id>urn:intern-engine:workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Aerospace-Software-Engineer-Undergraduate-Intern_R016605</id>
     <title>The Aerospace Corporation: 2027 Aerospace Software Engineer Undergraduate Intern 🇺🇸</title>
@@ -22,6 +14,14 @@
     <updated>2026-09-16T04:56:59Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · El Segundo, CA · Python, Java, C++ · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:liveoakbancshares:/job/Wilmington-NC/Summer-2027-Intern--AI-Enablement---Forward-Deployed-Engineering_R-002624</id>
+    <title>Live Oak Bank: Summer 2027 Intern: AI Enablement &amp; Forward-Deployed Engineering</title>
+    <link href="https://liveoakbancshares.wd1.myworkdayjobs.com/Live_Oak/job/Wilmington-NC/Summer-2027-Intern--AI-Enablement---Forward-Deployed-Engineering_R-002624"/>
+    <updated>2026-09-16T04:56:59Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Wilmington, NC · $19.77–$32.12/hr · Git</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:brevium:4713683006</id>
@@ -203,9 +203,9 @@
     <id>urn:intern-engine:workday:ngc:/job/United-States-Ohio-Cincinnati/XMLNAME-2027-Cyber-Software-Engineer-Intern---Cincinnati-OH_R10249186</id>
     <title>Northrop Grumman: 2027 Cyber Software Engineer Intern - Cincinnati OH 🇺🇸</title>
     <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Cincinnati/XMLNAME-2027-Cyber-Software-Engineer-Intern---Cincinnati-OH_R10249186"/>
-    <updated>2026-09-16T04:42:39Z</updated>
+    <updated>2026-09-15T18:03:13Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security · United States-Ohio-Cincinnati · $19.5–$35.5/hr · Git · sponsorship: citizens-only · status: closed</summary>
+    <summary>Summer 2027 · Security · United States-Ohio-Cincinnati · $19.5–$35.5/hr · Git · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:nvidia:/job/US-CA-Santa-Clara/Research-Intern--Fundamental-Generative-AI---2027_JR2025406</id>
@@ -259,9 +259,9 @@
     <id>urn:intern-engine:workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Cyber-Systems-Engineer-Intern---Roy-UT_R10249471</id>
     <title>Northrop Grumman: 2027 Cyber Systems Engineer Intern - Roy UT 🇺🇸</title>
     <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Cyber-Systems-Engineer-Intern---Roy-UT_R10249471"/>
-    <updated>2026-09-16T04:42:39Z</updated>
+    <updated>2026-09-15T13:48:40Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security · United States-Utah-Roy · $18.5–$33.5/hr · Python, Java, C++, C#, MATLAB · sponsorship: citizens-only · status: closed</summary>
+    <summary>Summer 2027 · Security · United States-Utah-Roy · $18.5–$33.5/hr · Python, Java, C++, C#, MATLAB · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:oshkoshcorporation:/job/San-Francisco-California-United-States/Software-Engineering-Intern_R49493</id>
@@ -803,8 +803,8 @@
     <id>urn:intern-engine:greenhouse:newsbreak:4712896006</id>
     <title>NewsBreak: Nearby AI Internship Program - Engineering Track</title>
     <link href="https://job-boards.greenhouse.io/newsbreak/jobs/4712896006"/>
-    <updated>2026-09-12T00:29:30Z</updated>
+    <updated>2026-09-16T10:05:02Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Mountain View, California, United States · Python, Java, LLMs, Git, PostgreSQL</summary>
+    <summary>Not stated · Data &amp; ML/AI · Mountain View, California, United States · Python, Java, LLMs, Git, PostgreSQL · status: closed</summary>
   </entry>
 </feed>
