@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://superasymmetry.github.io/internship-alerts/feed.xml" rel="self"/>
   <link href="https://github.com/superasymmetry/internship-alerts"/>
-  <updated>2026-09-17T05:36:47Z</updated>
+  <updated>2026-09-17T10:37:19Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/superasymmetry/internship-alerts</uri></author>
+  <entry>
+    <id>urn:intern-engine:greenhouse:amperesand:4409254009</id>
+    <title>Amperesand: Software Engineering Intern</title>
+    <link href="https://job-boards.greenhouse.io/amperesand/jobs/4409254009"/>
+    <updated>2026-09-17T10:37:19Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Reno, Nevada, United States · TypeScript, LLMs, React, AWS, Git</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:waymo:8203200</id>
     <title>Waymo: 2027 Summer Intern, BS/MS, Software Engineering, Maneuvering Tech</title>
@@ -249,7 +257,7 @@
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:relaypro:8176774</id>
-    <title>Relay: Relay Launchpad Intern - Software Engineer (AI/ML)</title>
+    <title>Relay: Software Engineering Intern (AI/ML) - Summer 2027</title>
     <link href="https://job-boards.greenhouse.io/relaypro/jobs/8176774"/>
     <updated>2026-09-16T15:10:55Z</updated>
     <category term="Summer 2027"/>
@@ -257,7 +265,7 @@
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:relaypro:8180836</id>
-    <title>Relay: Relay Launchpad Intern - Software Engineer (Device Team)</title>
+    <title>Relay: Software Engineering Intern (Device Team) - Summer 2027</title>
     <link href="https://job-boards.greenhouse.io/relaypro/jobs/8180836"/>
     <updated>2026-09-16T15:10:55Z</updated>
     <category term="Summer 2027"/>
@@ -798,13 +806,5 @@
     <updated>2026-09-14T16:49:36Z</updated>
     <category term="Winter 2027"/>
     <summary>Winter 2027 · Data &amp; ML/AI · Cambridge, MA USA · $25–$35/hr · Python, JavaScript, AWS, GCP, Azure · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:robinhood:8123225</id>
-    <title>Robinhood: Software Engineering Intern, Backend (Summer 2027)</title>
-    <link href="https://boards.greenhouse.io/robinhood/jobs/8123225?t=gh_src=&amp;gh_jid=8123225"/>
-    <updated>2026-09-14T16:49:36Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Bellevue, WA; Menlo Park, CA; New York, NY · Python, Django, AWS, Kubernetes, Kafka</summary>
   </entry>
 </feed>
