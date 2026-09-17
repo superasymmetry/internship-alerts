@@ -1,64 +1,7 @@
 {
   "pending": {
-    "discord": [
-      "oracle:fa-exty-saasfaprod1.fa.ocs.oraclecloud.com:119494",
-      "oracle:fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com:1067",
-      "greenhouse:covar:5240360007",
-      "workday:jj:/job/Milpitas-California-United-States-of-America/Process-Excellence---AI-Co-op_R-099367",
-      "greenhouse:nanopathinc:4732881005",
-      "greenhouse:sharkninjaoperatingllc:4713793006",
-      "greenhouse:sharkninjaoperatingllc:4713808006",
-      "workday:unisys:/job/Blue-Bell-PA-United-States-of-America/XMLNAME-2026-Drexel-Fall-Software-Engineer_REQ573111",
-      "workday:visa:/job/US---Bellevue-WA/Software-Engineer--Intern--Bellevue---2027_REF088585W-2",
-      "workday:visa:/job/US---Ashburn-VA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Ashburn_REF088599W-1",
-      "workday:visa:/job/US---Denver-CO/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Highlands-Ranch_REF088597W-1",
-      "workday:visa:/job/US---Austin-TX/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Austin_REF088596W-1",
-      "workday:visa:/job/US---Bellevue-WA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Bellevue_REF088594W-1",
-      "workday:visa:/job/US---Foster-City-CA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Foster-City_REF088591W-1",
-      "workday:visa:/job/US---Denver-CO/Software-Engineer--Intern--Highlands-Ranch--CO---2027_REF088583W",
-      "workday:visa:/job/US---Foster-City-CA/Software-Engineer--Intern---Foster-City-2027_REF088587W-1",
-      "workday:visa:/job/US---Ashburn-VA/Software-Engineer--Intern---2027-Ashburn--VA_REF088577W-1",
-      "workday:visa:/job/US---Austin-TX/Software-Engineer--Intern---2027-Austin--TX_REF088544W-1"
-    ],
-    "telegram": [
-      "oracle:fa-exty-saasfaprod1.fa.ocs.oraclecloud.com:119494",
-      "oracle:fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com:1067",
-      "greenhouse:covar:5240360007",
-      "workday:jj:/job/Milpitas-California-United-States-of-America/Process-Excellence---AI-Co-op_R-099367",
-      "greenhouse:nanopathinc:4732881005",
-      "greenhouse:sharkninjaoperatingllc:4713793006",
-      "greenhouse:sharkninjaoperatingllc:4713808006",
-      "workday:unisys:/job/Blue-Bell-PA-United-States-of-America/XMLNAME-2026-Drexel-Fall-Software-Engineer_REQ573111",
-      "workday:visa:/job/US---Bellevue-WA/Software-Engineer--Intern--Bellevue---2027_REF088585W-2",
-      "workday:visa:/job/US---Ashburn-VA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Ashburn_REF088599W-1",
-      "workday:visa:/job/US---Denver-CO/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Highlands-Ranch_REF088597W-1",
-      "workday:visa:/job/US---Austin-TX/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Austin_REF088596W-1",
-      "workday:visa:/job/US---Bellevue-WA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Bellevue_REF088594W-1",
-      "workday:visa:/job/US---Foster-City-CA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Foster-City_REF088591W-1",
-      "workday:visa:/job/US---Denver-CO/Software-Engineer--Intern--Highlands-Ranch--CO---2027_REF088583W",
-      "workday:visa:/job/US---Foster-City-CA/Software-Engineer--Intern---Foster-City-2027_REF088587W-1",
-      "workday:visa:/job/US---Ashburn-VA/Software-Engineer--Intern---2027-Ashburn--VA_REF088577W-1",
-      "workday:visa:/job/US---Austin-TX/Software-Engineer--Intern---2027-Austin--TX_REF088544W-1"
-    ],
-    "personal_email": [
-      "oracle:fa-exty-saasfaprod1.fa.ocs.oraclecloud.com:119494",
-      "oracle:fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com:1067",
-      "greenhouse:covar:5240360007",
-      "workday:jj:/job/Milpitas-California-United-States-of-America/Process-Excellence---AI-Co-op_R-099367",
-      "greenhouse:nanopathinc:4732881005",
-      "greenhouse:sharkninjaoperatingllc:4713793006",
-      "greenhouse:sharkninjaoperatingllc:4713808006",
-      "workday:unisys:/job/Blue-Bell-PA-United-States-of-America/XMLNAME-2026-Drexel-Fall-Software-Engineer_REQ573111",
-      "workday:visa:/job/US---Bellevue-WA/Software-Engineer--Intern--Bellevue---2027_REF088585W-2",
-      "workday:visa:/job/US---Ashburn-VA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Ashburn_REF088599W-1",
-      "workday:visa:/job/US---Denver-CO/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Highlands-Ranch_REF088597W-1",
-      "workday:visa:/job/US---Austin-TX/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Austin_REF088596W-1",
-      "workday:visa:/job/US---Bellevue-WA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Bellevue_REF088594W-1",
-      "workday:visa:/job/US---Foster-City-CA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Foster-City_REF088591W-1",
-      "workday:visa:/job/US---Denver-CO/Software-Engineer--Intern--Highlands-Ranch--CO---2027_REF088583W",
-      "workday:visa:/job/US---Foster-City-CA/Software-Engineer--Intern---Foster-City-2027_REF088587W-1",
-      "workday:visa:/job/US---Ashburn-VA/Software-Engineer--Intern---2027-Ashburn--VA_REF088577W-1",
-      "workday:visa:/job/US---Austin-TX/Software-Engineer--Intern---2027-Austin--TX_REF088544W-1"
-    ]
+    "discord": [],
+    "telegram": [],
+    "personal_email": []
   }
 }
