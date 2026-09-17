@@ -446,6 +446,19 @@
     }
    }
   },
+  "avav": {
+   "name": "Avav",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-10",
+     "role_ids": [
+      "workday:avav:/job/Melbourne-FL/Summer-2027-Software-Engineering-Intern_8550",
+      "workday:avav:/job/Simi-Valley-CA/Summer-2027-Embedded-Software-Engineering-Intern_8549"
+     ],
+     "count": 2
+    }
+   }
+  },
   "awetomaton": {
    "name": "Awetomaton",
    "cycles": {
@@ -616,6 +629,13 @@
       "smartrecruiters:BoschGroup:744000146547599"
      ],
      "count": 3
+    },
+    "Fall 2026": {
+     "first_posted": "2026-09-17",
+     "role_ids": [
+      "smartrecruiters:BoschGroup:744000150217869"
+     ],
+     "count": 1
     }
    }
   },
@@ -1987,9 +2007,10 @@
     "Summer 2027": {
      "first_posted": "2026-09-14",
      "role_ids": [
+      "workday:labcorp:/job/Durham-NC/Intern---Network-Infrastructure---Automation-Engineering_2632795",
       "workday:labcorp:/job/Durham-NC/Intern---Software-Developer_2632330"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -3501,10 +3522,11 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-07-05",
-     "count": 2,
+     "count": 3,
      "role_ids": [
       "greenhouse:towerresearchcapital:8024128",
-      "greenhouse:towerresearchcapital:8044334"
+      "greenhouse:towerresearchcapital:8044334",
+      "greenhouse:towerresearchcapital:8212158"
      ]
     }
    }
@@ -3921,5 +3943,5 @@
    }
   }
  },
- "updated_at": "2026-09-17T19:31:33Z"
+ "updated_at": "2026-09-17T22:43:29Z"
 }
