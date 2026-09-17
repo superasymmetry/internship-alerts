@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-17T15:33:58Z",
- "data_as_of": "2026-09-17T15:33:58Z",
- "rendered_at": "2026-09-17T15:33:59Z",
+ "generated_at": "2026-09-17T19:31:33Z",
+ "data_as_of": "2026-09-17T19:31:33Z",
+ "rendered_at": "2026-09-17T19:31:33Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/superasymmetry/internship-alerts",
  "companies": [
@@ -3616,6 +3616,44 @@
    }
   },
   {
+   "company": "GM financial",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-17",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-17",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260795",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-17"
+   }
+  },
+  {
+   "company": "Marvell",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-17",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-17",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Burlington-VT/SRAM-Software-Engineer-Intern--BS---Summer-2027_2603760-1",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-17"
+   }
+  },
+  {
    "company": "Visa",
    "last_cycle_posted": "",
    "posted_on": "2026-09-17",
@@ -3626,7 +3664,7 @@
    "expected": "2026-09-17",
    "days_until": 0,
    "status": "open",
-   "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Bellevue-WA/Software-Engineer--Intern--Bellevue---2027_REF088585W-2",
+   "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Ashburn-VA/Software-Engineer--Intern---2027-Ashburn--VA_REF088577W-1",
    "note": "late-summer opening",
    "provenance": {
     "type": "engine-observed",
@@ -6502,5 +6540,5 @@
    }
   }
  ],
- "count": 342
+ "count": 344
 }

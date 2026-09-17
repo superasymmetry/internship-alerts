@@ -1525,6 +1525,19 @@
     }
    }
   },
+  "gm financial": {
+   "name": "GM financial",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-17",
+     "role_ids": [
+      "oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com:260795",
+      "oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com:260804"
+     ],
+     "count": 2
+    }
+   }
+  },
   "grant thornton": {
    "name": "Grant Thornton",
    "cycles": {
@@ -1670,9 +1683,10 @@
       "oracle:ibqbjb.fa.ocs.oraclecloud.com:155557",
       "oracle:ibqbjb.fa.ocs.oraclecloud.com:155558",
       "oracle:ibqbjb.fa.ocs.oraclecloud.com:155561",
-      "oracle:ibqbjb.fa.ocs.oraclecloud.com:155562"
+      "oracle:ibqbjb.fa.ocs.oraclecloud.com:155562",
+      "oracle:ibqbjb.fa.ocs.oraclecloud.com:158088"
      ],
-     "count": 7
+     "count": 8
     }
    }
   },
@@ -2060,6 +2074,18 @@
       "workday:manulife:/job/Boston-Massachusetts/Summer-Intern-2027---Software-Engineering_JR26081680"
      ],
      "count": 2
+    }
+   }
+  },
+  "marvell": {
+   "name": "Marvell",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-17",
+     "role_ids": [
+      "workday:marvell:/job/Burlington-VT/SRAM-Software-Engineer-Intern--BS---Summer-2027_2603760-1"
+     ],
+     "count": 1
     }
    }
   },
@@ -3895,5 +3921,5 @@
    }
   }
  },
- "updated_at": "2026-09-17T15:33:58Z"
+ "updated_at": "2026-09-17T19:31:33Z"
 }
