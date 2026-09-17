@@ -1,7 +1,13 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": [],
-    "personal_email": []
+    "discord": [
+      "greenhouse:waymo:8203200"
+    ],
+    "telegram": [
+      "greenhouse:waymo:8203200"
+    ],
+    "personal_email": [
+      "greenhouse:waymo:8203200"
+    ]
   }
 }

@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://superasymmetry.github.io/internship-alerts/feed.xml" rel="self"/>
   <link href="https://github.com/superasymmetry/internship-alerts"/>
-  <updated>2026-09-17T00:45:08Z</updated>
+  <updated>2026-09-17T05:36:47Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/superasymmetry/internship-alerts</uri></author>
+  <entry>
+    <id>urn:intern-engine:greenhouse:waymo:8203200</id>
+    <title>Waymo: 2027 Summer Intern, BS/MS, Software Engineering, Maneuvering Tech</title>
+    <link href="https://careers.withwaymo.com/jobs?gh_jid=8203200"/>
+    <updated>2026-09-17T05:36:47Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · San Francisco, California · Python, C++, SQL · H-1B track record: ~284 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:newsbreak:4711146006</id>
     <title>NewsBreak: New Market Launch Intern (MBA), Nearby AI</title>
@@ -798,13 +806,5 @@
     <updated>2026-09-14T16:49:36Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Bellevue, WA; Menlo Park, CA; New York, NY · Python, Django, AWS, Kubernetes, Kafka</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:robinhood:8142959</id>
-    <title>Robinhood: Software Engineering Intern, iOS (Summer 2027)</title>
-    <link href="https://boards.greenhouse.io/robinhood/jobs/8142959?t=gh_src=&amp;gh_jid=8142959"/>
-    <updated>2026-09-14T16:49:36Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Menlo Park, CA; New York, NY · Swift</summary>
   </entry>
 </feed>
