@@ -962,6 +962,18 @@
     }
    }
   },
+  "covar": {
+   "name": "CoVar",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-16",
+     "role_ids": [
+      "greenhouse:covar:5240360007"
+     ],
+     "count": 1
+    }
+   }
+  },
   "cox": {
    "name": "Cox",
    "cycles": {
@@ -1720,6 +1732,18 @@
     }
    }
   },
+  "hunt oil": {
+   "name": "Hunt Oil Company",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-09-17",
+     "role_ids": [
+      "oracle:fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com:1067"
+     ],
+     "count": 1
+    }
+   }
+  },
   "hy vee": {
    "name": "Hy-Vee",
    "cycles": {
@@ -2222,6 +2246,18 @@
       "workday:motorolasolutions:/job/Schaumburg-IL/Mission-Critical-Networks-Software-Engineer---2027-Co-op_R67782"
      ],
      "count": 7
+    }
+   }
+  },
+  "nanopath": {
+   "name": "Nanopath",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-16",
+     "role_ids": [
+      "greenhouse:nanopathinc:4732881005"
+     ],
+     "count": 1
     }
    }
   },
@@ -3634,6 +3670,27 @@
     }
    }
   },
+  "visa": {
+   "name": "Visa",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-17",
+     "role_ids": [
+      "workday:visa:/job/US---Ashburn-VA/Software-Engineer--Intern---2027-Ashburn--VA_REF088577W-1",
+      "workday:visa:/job/US---Ashburn-VA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Ashburn_REF088599W-1",
+      "workday:visa:/job/US---Austin-TX/Software-Engineer--Intern---2027-Austin--TX_REF088544W-1",
+      "workday:visa:/job/US---Austin-TX/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Austin_REF088596W-1",
+      "workday:visa:/job/US---Bellevue-WA/Software-Engineer--Intern--Bellevue---2027_REF088585W-2",
+      "workday:visa:/job/US---Bellevue-WA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Bellevue_REF088594W-1",
+      "workday:visa:/job/US---Denver-CO/Software-Engineer--Intern--Highlands-Ranch--CO---2027_REF088583W",
+      "workday:visa:/job/US---Denver-CO/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Highlands-Ranch_REF088597W-1",
+      "workday:visa:/job/US---Foster-City-CA/Software-Engineer--Intern---Foster-City-2027_REF088587W-1",
+      "workday:visa:/job/US---Foster-City-CA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Foster-City_REF088591W-1"
+     ],
+     "count": 10
+    }
+   }
+  },
   "voleon group": {
    "name": "The Voleon Group",
    "cycles": {
@@ -3838,5 +3895,5 @@
    }
   }
  },
- "updated_at": "2026-09-17T10:37:19Z"
+ "updated_at": "2026-09-17T15:33:58Z"
 }
