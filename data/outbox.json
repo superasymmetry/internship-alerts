@@ -1,40 +1,7 @@
 {
   "pending": {
-    "discord": [
-      "ashby:conductorai:d6a1b110-10ad-4b5e-83a0-88c5fd7bc891",
-      "oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com:260818",
-      "oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com:260795",
-      "oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com:260831",
-      "oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com:260804",
-      "oracle:ibqbjb.fa.ocs.oraclecloud.com:158088",
-      "workday:insperity:/job/Kingwood-TX/Rotational-AI-Intern_JR103294",
-      "workday:leidos:/job/Pittsburgh-PA/Research-Engineer-Intern_R-00192500",
-      "workday:marvell:/job/Burlington-VT/SRAM-Software-Engineer-Intern--BS---Summer-2027_2603760-1",
-      "smartrecruiters:RenesasElectronics:744000150194379"
-    ],
-    "telegram": [
-      "ashby:conductorai:d6a1b110-10ad-4b5e-83a0-88c5fd7bc891",
-      "oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com:260818",
-      "oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com:260795",
-      "oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com:260831",
-      "oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com:260804",
-      "oracle:ibqbjb.fa.ocs.oraclecloud.com:158088",
-      "workday:insperity:/job/Kingwood-TX/Rotational-AI-Intern_JR103294",
-      "workday:leidos:/job/Pittsburgh-PA/Research-Engineer-Intern_R-00192500",
-      "workday:marvell:/job/Burlington-VT/SRAM-Software-Engineer-Intern--BS---Summer-2027_2603760-1",
-      "smartrecruiters:RenesasElectronics:744000150194379"
-    ],
-    "personal_email": [
-      "ashby:conductorai:d6a1b110-10ad-4b5e-83a0-88c5fd7bc891",
-      "oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com:260818",
-      "oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com:260795",
-      "oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com:260831",
-      "oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com:260804",
-      "oracle:ibqbjb.fa.ocs.oraclecloud.com:158088",
-      "workday:insperity:/job/Kingwood-TX/Rotational-AI-Intern_JR103294",
-      "workday:leidos:/job/Pittsburgh-PA/Research-Engineer-Intern_R-00192500",
-      "workday:marvell:/job/Burlington-VT/SRAM-Software-Engineer-Intern--BS---Summer-2027_2603760-1",
-      "smartrecruiters:RenesasElectronics:744000150194379"
-    ]
+    "discord": [],
+    "telegram": [],
+    "personal_email": []
   }
 }
