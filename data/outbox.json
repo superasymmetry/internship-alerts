@@ -1,16 +1,7 @@
 {
   "pending": {
-    "discord": [
-      "oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:40535",
-      "rippling:rev-robotics:9f4e5d99-0bba-4e03-8018-e312810a3dba"
-    ],
-    "telegram": [
-      "oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:40535",
-      "rippling:rev-robotics:9f4e5d99-0bba-4e03-8018-e312810a3dba"
-    ],
-    "personal_email": [
-      "oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:40535",
-      "rippling:rev-robotics:9f4e5d99-0bba-4e03-8018-e312810a3dba"
-    ]
+    "discord": [],
+    "telegram": [],
+    "personal_email": []
   }
 }
