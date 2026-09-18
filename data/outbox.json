@@ -1,7 +1,31 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": [],
-    "personal_email": []
+    "discord": [
+      "lever:acronaviation:19dbac7d-b4fb-4d21-9247-dc610bf55fed",
+      "workday:cir:/job/Fairfield-IA/Consulting-Services-AI---Automation-Intern_R-2025-223",
+      "workday:centene:/job/Remote-MO/Cybersecurity-Summer-2027-Intern--Undergraduate-_1660514",
+      "workday:gfs:/job/Wyoming-Michigan/Software-Engineer-Intern--Low-Code-_R-57375",
+      "workday:gfs:/job/Wyoming-Michigan/Software-Engineer-Internship_R-57377",
+      "workday:motorolasolutions:/job/Chicago-IL/Cyber-Security---2027-Summer-Internship--Chicago-Hybrid-_R68369",
+      "smartrecruiters:VeoliaEnvironnementSA:744000150460339"
+    ],
+    "telegram": [
+      "lever:acronaviation:19dbac7d-b4fb-4d21-9247-dc610bf55fed",
+      "workday:cir:/job/Fairfield-IA/Consulting-Services-AI---Automation-Intern_R-2025-223",
+      "workday:centene:/job/Remote-MO/Cybersecurity-Summer-2027-Intern--Undergraduate-_1660514",
+      "workday:gfs:/job/Wyoming-Michigan/Software-Engineer-Intern--Low-Code-_R-57375",
+      "workday:gfs:/job/Wyoming-Michigan/Software-Engineer-Internship_R-57377",
+      "workday:motorolasolutions:/job/Chicago-IL/Cyber-Security---2027-Summer-Internship--Chicago-Hybrid-_R68369",
+      "smartrecruiters:VeoliaEnvironnementSA:744000150460339"
+    ],
+    "personal_email": [
+      "lever:acronaviation:19dbac7d-b4fb-4d21-9247-dc610bf55fed",
+      "workday:cir:/job/Fairfield-IA/Consulting-Services-AI---Automation-Intern_R-2025-223",
+      "workday:centene:/job/Remote-MO/Cybersecurity-Summer-2027-Intern--Undergraduate-_1660514",
+      "workday:gfs:/job/Wyoming-Michigan/Software-Engineer-Intern--Low-Code-_R-57375",
+      "workday:gfs:/job/Wyoming-Michigan/Software-Engineer-Internship_R-57377",
+      "workday:motorolasolutions:/job/Chicago-IL/Cyber-Security---2027-Summer-Internship--Chicago-Hybrid-_R68369",
+      "smartrecruiters:VeoliaEnvironnementSA:744000150460339"
+    ]
   }
 }
