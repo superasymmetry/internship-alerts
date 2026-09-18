@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-18T11:23:52Z",
- "data_as_of": "2026-09-18T11:23:52Z",
- "rendered_at": "2026-09-18T11:23:52Z",
+ "generated_at": "2026-09-18T15:16:14Z",
+ "data_as_of": "2026-09-18T15:16:14Z",
+ "rendered_at": "2026-09-18T15:16:14Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/superasymmetry/internship-alerts",
  "companies": [
@@ -3369,6 +3369,25 @@
    }
   },
   {
+   "company": "Schroders",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-14",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-14",
+   "days_until": -4,
+   "status": "open",
+   "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2061",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-14"
+   }
+  },
+  {
    "company": "Workshop",
    "last_cycle_posted": "",
    "posted_on": "2026-09-14",
@@ -3651,6 +3670,25 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-09-16"
+   }
+  },
+  {
+   "company": "Church & Dwight",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-17",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-17",
+   "days_until": -1,
+   "status": "open",
+   "url": "https://churchdwight.wd1.myworkdayjobs.com/chdcareers/job/USA-Ewing-NJ/AI-Developer-Co-op---Graduate-Program--9-Months-_R2026-15686",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-17"
    }
   },
   {
@@ -6540,25 +6578,6 @@
    }
   },
   {
-   "company": "Schroders",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-14",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-14",
-   "days_until": -4,
-   "status": "dropped",
-   "url": "",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-09-14"
-   }
-  },
-  {
    "company": "NVIDIA",
    "last_cycle_posted": "",
    "posted_on": "2026-09-15",
@@ -6578,5 +6597,5 @@
    }
   }
  ],
- "count": 346
+ "count": 347
 }

@@ -5,8 +5,56 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://superasymmetry.github.io/internship-alerts/feed.xml" rel="self"/>
   <link href="https://github.com/superasymmetry/internship-alerts"/>
-  <updated>2026-09-18T11:23:52Z</updated>
+  <updated>2026-09-18T15:16:14Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/superasymmetry/internship-alerts</uri></author>
+  <entry>
+    <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1007804</id>
+    <title>Stantec: Transportation Engineering Intern - Infrastructure (Summer 2027)</title>
+    <link href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007804"/>
+    <updated>2026-09-18T15:16:14Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Lexington, KY, United States</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1007850</id>
+    <title>Stantec: Transportation Engineering Co-op - Infrastructure (Fall 2026/Spring 2027)</title>
+    <link href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007850"/>
+    <updated>2026-09-18T15:16:14Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Software · Louisville, KY, United States</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:churchdwight:/job/USA-Ewing-NJ/AI-Developer-Co-op---Graduate-Program--9-Months-_R2026-15686</id>
+    <title>Church &amp; Dwight: AI Developer Co-op - Graduate Program (9 Months) 🇺🇸</title>
+    <link href="https://churchdwight.wd1.myworkdayjobs.com/chdcareers/job/USA-Ewing-NJ/AI-Developer-Co-op---Graduate-Program--9-Months-_R2026-15686"/>
+    <updated>2026-09-18T15:16:14Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · USA, Ewing, NJ · Python, SQL, LLMs, AWS, GCP · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:greatamerica:/job/Cedar-Rapids-IA/Platform-Engineering-Intern_JR1240-1</id>
+    <title>GreatAmerica Financial Services: Platform Engineering Intern</title>
+    <link href="https://greatamerica.wd12.myworkdayjobs.com/greatamericacareers/job/Cedar-Rapids-IA/Platform-Engineering-Intern_JR1240-1"/>
+    <updated>2026-09-18T15:16:14Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Cedar Rapids, IA · Python, SQL, Bash, AWS, GCP</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:jj:/job/Titusville-New-Jersey-United-States-of-America/XMLNAME--PALM--and-Artificial-Intelligence-Co-Op_R-099389</id>
+    <title>Johnson &amp; Johnson: (PALM) and Artificial Intelligence Co-Op 🛂</title>
+    <link href="https://jj.wd5.myworkdayjobs.com/JJ/job/Titusville-New-Jersey-United-States-of-America/XMLNAME--PALM--and-Artificial-Intelligence-Co-Op_R-099389"/>
+    <updated>2026-09-18T15:16:14Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Titusville, New Jersey, United States of America · $23.5/hr · LLMs · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:sonyglobal:/job/Remote---Texas/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-119335</id>
+    <title>Sony: Research Intern on Generative and Protective AI for Content Creation</title>
+    <link href="https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Remote---Texas/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-119335"/>
+    <updated>2026-09-18T15:16:14Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Remote - Texas · $50/hr · PyTorch, LLMs, Computer Vision</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:xpengmotors:8819001002</id>
     <title>XPENG Motors: AI Research Intern – Predictive World Model</title>
@@ -758,53 +806,5 @@
     <updated>2026-09-16T22:24:09Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Security · Endicott, New York, United States; Melbourne, Florida, United States; Vienna, Virginia, United States · Python · sponsorship: citizens-only · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:testnisc:8204161</id>
-    <title>National Information Solutions Cooperative (NISC): Intern - Software Development (AI Development)</title>
-    <link href="https://job-boards.greenhouse.io/testnisc/jobs/8204161"/>
-    <updated>2026-09-15T18:03:13Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Lake Saint Louis, MO · Python, Java, LLMs</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:workshop:5237900007</id>
-    <title>Workshop: Software Engineer Intern (Summer 2027)</title>
-    <link href="https://job-boards.greenhouse.io/workshop/jobs/5237900007"/>
-    <updated>2026-09-15T18:03:13Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Omaha, Nebraska, United States</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:egay.fa.us6.oraclecloud.com:44449</id>
-    <title>NOV: Software Engineering Intern</title>
-    <link href="https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/44449"/>
-    <updated>2026-09-15T18:03:13Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Houston, TX, United States · Python, Java, C++, C#, JavaScript</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:rippling:apexanalytix-careers:40e4727d-e132-4de0-89ba-b4fdbd5860a7</id>
-    <title>APEX Analytix: Automation Developer Intern (Summer 2027)</title>
-    <link href="https://ats.rippling.com/apexanalytix-careers/jobs/40e4727d-e132-4de0-89ba-b4fdbd5860a7"/>
-    <updated>2026-09-15T18:03:13Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Greensboro, NC · H-1B track record: ~24 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:rippling:apexanalytix-careers:e275fd70-45a3-4a64-8688-cace8a3f87ef</id>
-    <title>APEX Analytix: Data Analyst Intern (Summer 2027)</title>
-    <link href="https://ats.rippling.com/apexanalytix-careers/jobs/e275fd70-45a3-4a64-8688-cace8a3f87ef"/>
-    <updated>2026-09-15T18:03:13Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Greensboro, NC · H-1B track record: ~24 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:baxter:/job/Skaneateles-NY/Associate-Software-Engineer-Co-op_JR-207560-1</id>
-    <title>Baxter International: Associate Software Engineer Co-op</title>
-    <link href="https://baxter.wd1.myworkdayjobs.com/baxter/job/Skaneateles-NY/Associate-Software-Engineer-Co-op_JR-207560-1"/>
-    <updated>2026-09-15T21:31:11Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Skaneateles, NY · Python, Java, C#, LLMs, Azure · status: closed</summary>
   </entry>
 </feed>
