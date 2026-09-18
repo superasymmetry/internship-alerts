@@ -1,22 +1,7 @@
 {
   "pending": {
-    "discord": [
-      "amazon:amazon:10552937",
-      "greenhouse:k2spacecorporation:5418727008",
-      "greenhouse:k2spacecorporation:5411920008",
-      "workday:globalhr:/job/US-CO-COLORADO-SPRINGS-9970-CUST--9970-Federal-Dr--FEDERAL-External-Site/Software-Engineering-Intern--Summer-2027-_01876131"
-    ],
-    "telegram": [
-      "amazon:amazon:10552937",
-      "greenhouse:k2spacecorporation:5418727008",
-      "greenhouse:k2spacecorporation:5411920008",
-      "workday:globalhr:/job/US-CO-COLORADO-SPRINGS-9970-CUST--9970-Federal-Dr--FEDERAL-External-Site/Software-Engineering-Intern--Summer-2027-_01876131"
-    ],
-    "personal_email": [
-      "amazon:amazon:10552937",
-      "greenhouse:k2spacecorporation:5418727008",
-      "greenhouse:k2spacecorporation:5411920008",
-      "workday:globalhr:/job/US-CO-COLORADO-SPRINGS-9970-CUST--9970-Federal-Dr--FEDERAL-External-Site/Software-Engineering-Intern--Summer-2027-_01876131"
-    ]
+    "discord": [],
+    "telegram": [],
+    "personal_email": []
   }
 }
