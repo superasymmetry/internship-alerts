@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-19T01:50:44Z",
- "data_as_of": "2026-09-19T01:50:44Z",
- "rendered_at": "2026-09-19T01:50:44Z",
+ "generated_at": "2026-09-19T11:47:21Z",
+ "data_as_of": "2026-09-19T11:47:21Z",
+ "rendered_at": "2026-09-19T11:47:22Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/superasymmetry/internship-alerts",
  "companies": [
@@ -136,6 +136,25 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-06-01"
+   }
+  },
+  {
+   "company": "Anduril",
+   "last_cycle_posted": "",
+   "posted_on": "2026-06-10",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-06-10",
+   "days_until": -101,
+   "status": "open",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-06-10"
    }
   },
   {
@@ -1200,25 +1219,6 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-08-24"
-   }
-  },
-  {
-   "company": "DTCC",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-25",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-25",
-   "days_until": -25,
-   "status": "open",
-   "url": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214459",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-08-25"
    }
   },
   {
@@ -6121,25 +6121,6 @@
    }
   },
   {
-   "company": "Anduril",
-   "last_cycle_posted": "",
-   "posted_on": "2026-06-10",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-06-10",
-   "days_until": -101,
-   "status": "dropped",
-   "url": "",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-06-10"
-   }
-  },
-  {
    "company": "Flow Traders",
    "last_cycle_posted": "",
    "posted_on": "2026-07-08",
@@ -6426,6 +6407,25 @@
   },
   {
    "company": "Brunswick",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-25",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-25",
+   "days_until": -25,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-25"
+   }
+  },
+  {
+   "company": "DTCC",
    "last_cycle_posted": "",
    "posted_on": "2026-08-25",
    "precision": "day",
