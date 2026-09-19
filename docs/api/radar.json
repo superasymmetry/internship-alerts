@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-19T11:47:21Z",
- "data_as_of": "2026-09-19T11:47:21Z",
- "rendered_at": "2026-09-19T11:47:22Z",
+ "generated_at": "2026-09-19T15:02:29Z",
+ "data_as_of": "2026-09-19T15:02:29Z",
+ "rendered_at": "2026-09-19T15:02:30Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/superasymmetry/internship-alerts",
  "companies": [
@@ -605,7 +605,7 @@
    "expected": "2026-08-04",
    "days_until": -46,
    "status": "open",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-CO-COLORADO-SPRINGS-9970-CUST--9970-Federal-Dr--FEDERAL-External-Site/Software-Engineering-Intern--Summer-2027-_01876131",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Co-op--Summer-Fall-2027-_01870194",
    "note": "fall opening, many roles need clearance",
    "provenance": {
     "type": "engine-observed",
@@ -1219,6 +1219,25 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-08-24"
+   }
+  },
+  {
+   "company": "DTCC",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-25",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-25",
+   "days_until": -25,
+   "status": "open",
+   "url": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214459",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-25"
    }
   },
   {
@@ -3084,25 +3103,6 @@
    }
   },
   {
-   "company": "Citizens Financial Group",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-11",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-11",
-   "days_until": -8,
-   "status": "open",
-   "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49284",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-09-11"
-   }
-  },
-  {
    "company": "Commure",
    "last_cycle_posted": "",
    "posted_on": "2026-09-11",
@@ -3787,6 +3787,25 @@
    }
   },
   {
+   "company": "Thrivent",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-18",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-18",
+   "days_until": -1,
+   "status": "open",
+   "url": "https://thrivent.wd5.myworkdayjobs.com/external/job/Remote-Minnesota/Associate-Software-Engineer---Junior-Intern-Summer-2027_REQ-48334",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-18"
+   }
+  },
+  {
    "company": "Veolia",
    "last_cycle_posted": "",
    "posted_on": "2026-09-18",
@@ -3803,6 +3822,25 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-09-18"
+   }
+  },
+  {
+   "company": "Brown Brothers Harriman",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-19",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-19",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://bbh.wd5.myworkdayjobs.com/BBH/job/New-York/XMLNAME-2027-Internal-Audit---Information-Technology---Cybersecurity-Summer-Internship_72899",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-19"
    }
   },
   {
@@ -6425,25 +6463,6 @@
    }
   },
   {
-   "company": "DTCC",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-25",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-25",
-   "days_until": -25,
-   "status": "dropped",
-   "url": "",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-08-25"
-   }
-  },
-  {
    "company": "WhiteWater Midstream",
    "last_cycle_posted": "",
    "posted_on": "2026-08-26",
@@ -6577,6 +6596,25 @@
    }
   },
   {
+   "company": "Citizens Financial Group",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-11",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-11",
+   "days_until": -8,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-11"
+   }
+  },
+  {
    "company": "ibotta",
    "last_cycle_posted": "",
    "posted_on": "2026-09-11",
@@ -6672,5 +6710,5 @@
    }
   }
  ],
- "count": 351
+ "count": 353
 }

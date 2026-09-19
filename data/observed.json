@@ -677,6 +677,18 @@
     }
    }
   },
+  "brown brothers harriman": {
+   "name": "Brown Brothers Harriman",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-19",
+     "role_ids": [
+      "workday:bbh:/job/New-York/XMLNAME-2027-Internal-Audit---Information-Technology---Cybersecurity-Summer-Internship_72899"
+     ],
+     "count": 1
+    }
+   }
+  },
   "brunswick": {
    "name": "Brunswick",
    "cycles": {
@@ -3544,6 +3556,19 @@
     }
    }
   },
+  "thrivent": {
+   "name": "Thrivent",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-18",
+     "role_ids": [
+      "workday:thrivent:/job/Remote-Minnesota/Associate-Software-Engineer---Junior-Intern-Summer-2027_REQ-48334",
+      "workday:thrivent:/job/Remote-Minnesota/Associate-Software-Engineer---Sophomore-Intern-Summer-2027_REQ-48457"
+     ],
+     "count": 2
+    }
+   }
+  },
   "tmeic": {
    "name": "TMEIC",
    "cycles": {
@@ -4022,5 +4047,5 @@
    }
   }
  },
- "updated_at": "2026-09-19T11:47:21Z"
+ "updated_at": "2026-09-19T15:02:29Z"
 }
