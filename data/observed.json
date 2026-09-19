@@ -640,6 +640,18 @@
     }
    }
   },
+  "bot auto": {
+   "name": "Bot Auto",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-09-18",
+     "role_ids": [
+      "greenhouse:botauto:5429357008"
+     ],
+     "count": 1
+    }
+   }
+  },
   "bracco": {
    "name": "Bracco",
    "cycles": {
@@ -4010,5 +4022,5 @@
    }
   }
  },
- "updated_at": "2026-09-18T23:50:26Z"
+ "updated_at": "2026-09-19T01:50:44Z"
 }
