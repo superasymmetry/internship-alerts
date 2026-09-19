@@ -1,13 +1,7 @@
 {
   "pending": {
-    "discord": [
-      "greenhouse:botauto:5429357008"
-    ],
-    "telegram": [
-      "greenhouse:botauto:5429357008"
-    ],
-    "personal_email": [
-      "greenhouse:botauto:5429357008"
-    ]
+    "discord": [],
+    "telegram": [],
+    "personal_email": []
   }
 }
