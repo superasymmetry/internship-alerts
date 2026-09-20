@@ -5,8 +5,32 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://superasymmetry.github.io/internship-alerts/feed.xml" rel="self"/>
   <link href="https://github.com/superasymmetry/internship-alerts"/>
-  <updated>2026-09-20T21:03:34Z</updated>
+  <updated>2026-09-20T23:25:43Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/superasymmetry/internship-alerts</uri></author>
+  <entry>
+    <id>urn:intern-engine:workable:talentpluto:6A02556484</id>
+    <title>Talentpluto: Backend Engineering Intern</title>
+    <link href="https://apply.workable.com/talentpluto/j/6A02556484/"/>
+    <updated>2026-09-20T23:25:43Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · United States (Remote) · $35–$50/hr · Python, TypeScript, JavaScript</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workable:talentpluto:A0CFDD6FBD</id>
+    <title>Talentpluto: AI/ML Engineering Intern</title>
+    <link href="https://apply.workable.com/talentpluto/j/A0CFDD6FBD/"/>
+    <updated>2026-09-20T23:25:43Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · United States (Remote) · $35–$50/hr · Python, TypeScript, JavaScript, LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workable:talentpluto:717116FEE8</id>
+    <title>Talentpluto: Full Stack Engineering Intern</title>
+    <link href="https://apply.workable.com/talentpluto/j/717116FEE8/"/>
+    <updated>2026-09-20T23:25:43Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · New York, New York, United States · $35–$50/hr · TypeScript, JavaScript, React, Next.js</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:breezy:ninjaholdings:12b3ed96c30c</id>
     <title>Ninjaholdings: Data Engineer Intern</title>
@@ -782,29 +806,5 @@
     <updated>2026-09-16T15:10:55Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · New York City · $40 – $80 per hour · Python, TypeScript, JavaScript, LLMs, React</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:gecko-robotics:c097505b-0a28-4a33-a917-268f463641e8</id>
-    <title>Gecko Robotics: AI/Machine Learning Engineering Intern</title>
-    <link href="https://jobs.ashbyhq.com/gecko-robotics/c097505b-0a28-4a33-a917-268f463641e8"/>
-    <updated>2026-09-16T15:10:55Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · New York City · $50 – $90 per hour · Python, SQL, PyTorch, Pandas, LLMs</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:cartesiansystems:4408204009</id>
-    <title>Cartesian: IAP Software Engineering Intern 2027</title>
-    <link href="https://job-boards.greenhouse.io/cartesiansystems/jobs/4408204009"/>
-    <updated>2026-09-16T15:10:55Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Cambridge, MA · $20–$25/hr · Python, TypeScript, Kotlin, PyTorch, Next.js</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:quantiq:4287936009</id>
-    <title>Quantiq: Software Developer Internship (Summer 2027)</title>
-    <link href="https://job-boards.greenhouse.io/quantiq/jobs/4287936009"/>
-    <updated>2026-09-16T15:10:55Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Austin, TX · Python, C++</summary>
   </entry>
 </feed>
