@@ -5,8 +5,40 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://superasymmetry.github.io/internship-alerts/feed.xml" rel="self"/>
   <link href="https://github.com/superasymmetry/internship-alerts"/>
-  <updated>2026-09-20T10:21:19Z</updated>
+  <updated>2026-09-20T14:28:48Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/superasymmetry/internship-alerts</uri></author>
+  <entry>
+    <id>urn:intern-engine:breezy:ninjaholdings:12b3ed96c30c</id>
+    <title>Ninjaholdings: Data Engineer Intern</title>
+    <link href="https://ninjaholdings.breezy.hr/p/12b3ed96c30c-data-engineer-intern"/>
+    <updated>2026-09-20T14:28:48Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Chicago, IL · $20 – $25 / hour</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:breezy:ninjaholdings:23a015fea536</id>
+    <title>Ninjaholdings: Software Engineer Intern</title>
+    <link href="https://ninjaholdings.breezy.hr/p/23a015fea536-software-engineer-intern"/>
+    <updated>2026-09-20T14:28:48Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Chicago, IL · $20 – $25 / hour</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:priceline:/job/New-York/Software-Engineering---Full-Stack--Northeastern-Co-op-_R5822</id>
+    <title>Priceline: Software Engineering - Full Stack (Northeastern Co-op)</title>
+    <link href="https://priceline.wd1.myworkdayjobs.com/priceline-collegehiring/job/New-York/Software-Engineering---Full-Stack--Northeastern-Co-op-_R5822"/>
+    <updated>2026-09-20T14:28:47Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Software · New York · Python, Java, Go, JavaScript, SQL · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:priceline:/job/New-York/Software-Engineering---Web-Javascript--Northeastern-Co-op-_R5818</id>
+    <title>Priceline: Software Engineering - Web/Javascript (Northeastern Co-op)</title>
+    <link href="https://priceline.wd1.myworkdayjobs.com/priceline-collegehiring/job/New-York/Software-Engineering---Web-Javascript--Northeastern-Co-op-_R5818"/>
+    <updated>2026-09-20T14:28:47Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Software · New York · JavaScript, Python, Java, Go, SQL · status: closed</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:ashby:fable:3fd04c23-a63d-4b40-bfae-feafaa478caf</id>
     <title>Fable: Software Engineering Intern</title>
@@ -498,7 +530,7 @@
   <entry>
     <id>urn:intern-engine:workday:visa:/job/US---Denver-CO/Software-Engineer--Intern--Highlands-Ranch--CO---2027_REF088583W</id>
     <title>Visa: Software Engineer, Intern, Highlands Ranch, CO - 2027 🛂</title>
-    <link href="https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/Software-Engineer--Intern--Highlands-Ranch--CO---2027_REF088583W"/>
+    <link href="https://visa.wd5.myworkdayjobs.com/visa_early_careers/job/US---Denver-CO/Software-Engineer--Intern--Highlands-Ranch--CO---2027_REF088583W-2"/>
     <updated>2026-09-17T15:33:58Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · US - Denver, CO · Python, Java, C++, C#, JavaScript · sponsorship: no-sponsorship</summary>
@@ -774,37 +806,5 @@
     <updated>2026-09-16T15:10:55Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Austin, TX · Python, C++</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:relaypro:8176774</id>
-    <title>Relay: Software Engineering Intern (AI/ML) - Summer 2027</title>
-    <link href="https://job-boards.greenhouse.io/relaypro/jobs/8176774"/>
-    <updated>2026-09-16T15:10:55Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Raleigh, NC · Python, Rust, JavaScript, PyTorch, LLMs</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:relaypro:8180836</id>
-    <title>Relay: Software Engineering Intern (Device Team) - Summer 2027</title>
-    <link href="https://job-boards.greenhouse.io/relaypro/jobs/8180836"/>
-    <updated>2026-09-16T15:10:55Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Raleigh, NC · Python, Java, C++, Rust, Kotlin</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:ejia.fa.us6.oraclecloud.com:107256</id>
-    <title>S&amp;C Electric Company: Cyber Security Analyst- Intern</title>
-    <link href="https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107256"/>
-    <updated>2026-09-17T00:45:08Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Security · Chicago, IL, United States · $22–$30/hr · status: closed · H-1B track record: ~10 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:nasdaq:/job/GA---Glenridge-Point/Software-Developer--Engineer-Intern---2027-Summer-Internship_R0026972</id>
-    <title>Nasdaq: Software Developer/ Engineer Intern - 2027 Summer Internship</title>
-    <link href="https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/GA---Glenridge-Point/Software-Developer--Engineer-Intern---2027-Summer-Internship_R0026972"/>
-    <updated>2026-09-16T15:10:55Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · GA - Glenridge Point · C#, SQL, Vue, .NET, AWS · H-1B track record: ~16 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
