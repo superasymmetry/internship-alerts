@@ -1361,6 +1361,20 @@
     }
    }
   },
+  "fidelity investments": {
+   "name": "Fidelity Investments",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-21",
+     "role_ids": [
+      "workday:fmr:/job/200-Seaport-Blvd-Boston-MA/Quantitative-Research-Intern--Equity-Quantitative-Research-Team_2135122",
+      "workday:fmr:/job/200-Seaport-Blvd-Boston-MA/Quantitative-Research-Intern--Multi-Asset-Systematic-Research-Team_2135128",
+      "workday:fmr:/job/Boston-MA/Strategic-Advisers-Quantitative-Research-Intern---Undergrad_2135905"
+     ],
+     "count": 3
+    }
+   }
+  },
   "fifth third bank": {
    "name": "Fifth Third Bank",
    "cycles": {
@@ -2463,12 +2477,13 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-07-08",
-     "count": 15,
+     "count": 16,
      "role_ids": [
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Engineering-Intern--Huntsville-AL_R10247486",
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Test-Engineering-Intern--Huntsville-AL_R10247483",
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Test-Engineering-Intern--Huntsville-AL_R10247485",
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Test-Engineering-Intern--Huntsville-AL_R10247487",
+      "workday:ngc:/job/United-States-California-Camarillo/XMLNAME-2027-Embedded-Software-Engineer-Intern---Camarillo-CA_R10251835",
       "workday:ngc:/job/United-States-Colorado-Boulder/XMLNAME-2027-Cybersecurity-Analyst-Intern----Boulder-CO_R10248677",
       "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10239275",
       "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10242395",
@@ -4048,5 +4063,5 @@
    }
   }
  },
- "updated_at": "2026-09-21T07:25:52Z"
+ "updated_at": "2026-09-21T14:48:15Z"
 }

@@ -5,8 +5,48 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://superasymmetry.github.io/internship-alerts/feed.xml" rel="self"/>
   <link href="https://github.com/superasymmetry/internship-alerts"/>
-  <updated>2026-09-21T07:25:52Z</updated>
+  <updated>2026-09-21T14:48:15Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/superasymmetry/internship-alerts</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:fmr:/job/200-Seaport-Blvd-Boston-MA/Quantitative-Research-Intern--Multi-Asset-Systematic-Research-Team_2135128</id>
+    <title>Fidelity Investments: Quantitative Research Intern- Multi-Asset Systematic Research Team 🛂</title>
+    <link href="https://fmr.wd1.myworkdayjobs.com/targeted/job/200-Seaport-Blvd-Boston-MA/Quantitative-Research-Intern--Multi-Asset-Systematic-Research-Team_2135128"/>
+    <updated>2026-09-21T14:48:15Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Quant · 200 Seaport Blvd, Boston MA · $50–$77/hr · Python, SQL · sponsorship: no-sponsorship · H-1B track record: ~2.4k approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:fmr:/job/200-Seaport-Blvd-Boston-MA/Quantitative-Research-Intern--Equity-Quantitative-Research-Team_2135122</id>
+    <title>Fidelity Investments: Quantitative Research Intern- Equity Quantitative Research Team 🛂</title>
+    <link href="https://fmr.wd1.myworkdayjobs.com/targeted/job/200-Seaport-Blvd-Boston-MA/Quantitative-Research-Intern--Equity-Quantitative-Research-Team_2135122"/>
+    <updated>2026-09-21T14:48:15Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Quant · 200 Seaport Blvd, Boston MA · $50–$77/hr · Python, C++, SQL · sponsorship: no-sponsorship · H-1B track record: ~2.4k approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:fmr:/job/Boston-MA/Strategic-Advisers-Quantitative-Research-Intern---Undergrad_2135905</id>
+    <title>Fidelity Investments: Strategic Advisers Quantitative Research Intern - Undergrad 🛂</title>
+    <link href="https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Strategic-Advisers-Quantitative-Research-Intern---Undergrad_2135905"/>
+    <updated>2026-09-21T14:48:15Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Quant · Boston, MA · $30–$42/hr · Python, SQL, Tableau · sponsorship: no-sponsorship · H-1B track record: ~2.4k approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:gfs:/job/Wyoming-Michigan/Imports---Commodities---Data-Analyst-Internship_R-57384</id>
+    <title>Gordon Food Service: Imports &amp; Commodities - Data Analyst Internship</title>
+    <link href="https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Imports---Commodities---Data-Analyst-Internship_R-57384"/>
+    <updated>2026-09-21T14:48:15Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Wyoming, Michigan · H-1B track record: ~21 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ngc:/job/United-States-California-Camarillo/XMLNAME-2027-Embedded-Software-Engineer-Intern---Camarillo-CA_R10251835</id>
+    <title>Northrop Grumman: 2027 Embedded Software Engineer Intern - Camarillo CA 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Camarillo/XMLNAME-2027-Embedded-Software-Engineer-Intern---Camarillo-CA_R10251835"/>
+    <updated>2026-09-21T14:48:15Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · United States-California-Camarillo · $20.5–$37.25/hr · sponsorship: citizens-only</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:ngc:/job/United-States-Maryland-Baltimore/XMLNAME-2027-Embedded-Software-Engineer-Intern---Baltimore-MD_R10251464</id>
     <title>Northrop Grumman: 2027 Embedded Software Engineer Intern - Baltimore MD 🇺🇸</title>
@@ -766,45 +806,5 @@
     <updated>2026-09-16T19:08:42Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Medina, Minnesota · $24–$28/hr · Python, Java, C++, JavaScript, Angular</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:gfs:/job/Atlanta-Georgia/Cloud-DevOps-Internship_R-57259</id>
-    <title>Gordon Food Service: Cloud DevOps Internship</title>
-    <link href="https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Atlanta-Georgia/Cloud-DevOps-Internship_R-57259"/>
-    <updated>2026-09-16T19:08:42Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Atlanta, Georgia · Python, Bash, GCP, Kubernetes, Docker · H-1B track record: ~21 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:gfs:/job/Atlanta-Georgia/IT-Infrastructure-Project-Support-Internship_R-56286</id>
-    <title>Gordon Food Service: IT Infrastructure Project Support Internship</title>
-    <link href="https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Atlanta-Georgia/IT-Infrastructure-Project-Support-Internship_R-56286"/>
-    <updated>2026-09-16T19:08:42Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Atlanta, Georgia · H-1B track record: ~21 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Intern--Summer-2027-_01873099</id>
-    <title>RTX: Software Engineering Intern (Summer 2027)</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Intern--Summer-2027-_01873099"/>
-    <updated>2026-09-16T19:08:42Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd NE ~ BLDG 105 · Python, Java, C++</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:vermeer:/job/Pella-Iowa-USA---Corporate-Office/IT-Data-Engineer-Intern_REQ-22171</id>
-    <title>Vermeer: IT Data Engineer Intern</title>
-    <link href="https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---Corporate-Office/IT-Data-Engineer-Intern_REQ-22171"/>
-    <updated>2026-09-16T19:08:42Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Pella, Iowa, USA - Corporate Office · SQL</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:bedrock-robotics:8927dd7e-a48d-49a2-92eb-09ec059432f4</id>
-    <title>Bedrock Robotics: Internship 2027 Software Engineer, Fleet Platform</title>
-    <link href="https://jobs.ashbyhq.com/bedrock-robotics/8927dd7e-a48d-49a2-92eb-09ec059432f4"/>
-    <updated>2026-09-16T15:10:55Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · New York, NY · Python, C++, Rust, TypeScript</summary>
   </entry>
 </feed>

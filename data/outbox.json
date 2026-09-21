@@ -1,7 +1,25 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": [],
-    "personal_email": []
+    "discord": [
+      "workday:fmr:/job/200-Seaport-Blvd-Boston-MA/Quantitative-Research-Intern--Multi-Asset-Systematic-Research-Team_2135128",
+      "workday:fmr:/job/200-Seaport-Blvd-Boston-MA/Quantitative-Research-Intern--Equity-Quantitative-Research-Team_2135122",
+      "workday:fmr:/job/Boston-MA/Strategic-Advisers-Quantitative-Research-Intern---Undergrad_2135905",
+      "workday:gfs:/job/Wyoming-Michigan/Imports---Commodities---Data-Analyst-Internship_R-57384",
+      "workday:ngc:/job/United-States-California-Camarillo/XMLNAME-2027-Embedded-Software-Engineer-Intern---Camarillo-CA_R10251835"
+    ],
+    "telegram": [
+      "workday:fmr:/job/200-Seaport-Blvd-Boston-MA/Quantitative-Research-Intern--Multi-Asset-Systematic-Research-Team_2135128",
+      "workday:fmr:/job/200-Seaport-Blvd-Boston-MA/Quantitative-Research-Intern--Equity-Quantitative-Research-Team_2135122",
+      "workday:fmr:/job/Boston-MA/Strategic-Advisers-Quantitative-Research-Intern---Undergrad_2135905",
+      "workday:gfs:/job/Wyoming-Michigan/Imports---Commodities---Data-Analyst-Internship_R-57384",
+      "workday:ngc:/job/United-States-California-Camarillo/XMLNAME-2027-Embedded-Software-Engineer-Intern---Camarillo-CA_R10251835"
+    ],
+    "personal_email": [
+      "workday:fmr:/job/200-Seaport-Blvd-Boston-MA/Quantitative-Research-Intern--Multi-Asset-Systematic-Research-Team_2135128",
+      "workday:fmr:/job/200-Seaport-Blvd-Boston-MA/Quantitative-Research-Intern--Equity-Quantitative-Research-Team_2135122",
+      "workday:fmr:/job/Boston-MA/Strategic-Advisers-Quantitative-Research-Intern---Undergrad_2135905",
+      "workday:gfs:/job/Wyoming-Michigan/Imports---Commodities---Data-Analyst-Internship_R-57384",
+      "workday:ngc:/job/United-States-California-Camarillo/XMLNAME-2027-Embedded-Software-Engineer-Intern---Camarillo-CA_R10251835"
+    ]
   }
 }
