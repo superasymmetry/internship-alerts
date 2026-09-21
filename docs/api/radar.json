@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-21T20:02:18Z",
- "data_as_of": "2026-09-21T20:02:18Z",
- "rendered_at": "2026-09-21T20:02:19Z",
+ "generated_at": "2026-09-21T23:30:25Z",
+ "data_as_of": "2026-09-21T23:30:25Z",
+ "rendered_at": "2026-09-21T23:30:25Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/superasymmetry/internship-alerts",
  "companies": [
@@ -130,7 +130,7 @@
    "expected": "2026-06-01",
    "days_until": -112,
    "status": "open",
-   "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006",
+   "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676334006",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -3095,25 +3095,6 @@
    "days_until": -10,
    "status": "open",
    "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Data-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255725",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-09-11"
-   }
-  },
-  {
-   "company": "Commure",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-11",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-11",
-   "days_until": -10,
-   "status": "open",
-   "url": "https://jobs.ashbyhq.com/commure/62841aa1-3ee5-4547-8380-637b737b2cb3",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -6711,6 +6692,25 @@
   },
   {
    "company": "Citizens Financial Group",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-11",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-11",
+   "days_until": -10,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-11"
+   }
+  },
+  {
+   "company": "Commure",
    "last_cycle_posted": "",
    "posted_on": "2026-09-11",
    "precision": "day",
