@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://superasymmetry.github.io/internship-alerts/feed.xml" rel="self"/>
   <link href="https://github.com/superasymmetry/internship-alerts"/>
-  <updated>2026-09-21T01:54:22Z</updated>
+  <updated>2026-09-21T07:25:52Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/superasymmetry/internship-alerts</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:ngc:/job/United-States-Maryland-Baltimore/XMLNAME-2027-Embedded-Software-Engineer-Intern---Baltimore-MD_R10251464</id>
+    <title>Northrop Grumman: 2027 Embedded Software Engineer Intern - Baltimore MD 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Embedded-Software-Engineer-Intern---Baltimore-MD_R10251464"/>
+    <updated>2026-09-21T07:25:52Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · United States-Maryland-Baltimore · $20.5–$37.25/hr · sponsorship: citizens-only</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workable:talentpluto:6A02556484</id>
     <title>Talentpluto: Backend Engineering Intern</title>
@@ -97,7 +105,7 @@
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:botauto:5429357008</id>
-    <title>Bot Auto: Intern, Software Engineer AI Agents (Fall 2026/Winter 2027)</title>
+    <title>Bot Auto: Intern, Software Engineer AI Agents (Fall/Winter 2026)</title>
     <link href="https://job-boards.greenhouse.io/botauto/jobs/5429357008"/>
     <updated>2026-09-19T01:50:44Z</updated>
     <category term="Fall 2026"/>
@@ -798,13 +806,5 @@
     <updated>2026-09-16T15:10:55Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · New York, NY · Python, C++, Rust, TypeScript</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:gecko-robotics:01138338-ff3c-4982-8ba3-5401386bf082</id>
-    <title>Gecko Robotics: Full Stack Software Engineering Intern</title>
-    <link href="https://jobs.ashbyhq.com/gecko-robotics/01138338-ff3c-4982-8ba3-5401386bf082"/>
-    <updated>2026-09-16T15:10:55Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · New York City · $40 – $80 per hour · Python, TypeScript, JavaScript, LLMs, React</summary>
   </entry>
 </feed>
