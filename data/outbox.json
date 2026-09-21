@@ -1,28 +1,7 @@
 {
   "pending": {
-    "discord": [
-      "lever:cscgeneration-2:3a04b45f-a2eb-438a-a8ac-b07324223813",
-      "ashby:g2:64dcc04a-a0e7-493b-b899-dd4c56e561fd",
-      "workday:bracco:/job/USA-Eden-Prairie-Minnesota-55344/Quality-Analyst-Intern--Software-_JR100314",
-      "greenhouse:singlestore:8221924",
-      "greenhouse:walleyecapital-external-students:4676334006",
-      "greenhouse:waymo:8221198"
-    ],
-    "telegram": [
-      "lever:cscgeneration-2:3a04b45f-a2eb-438a-a8ac-b07324223813",
-      "ashby:g2:64dcc04a-a0e7-493b-b899-dd4c56e561fd",
-      "workday:bracco:/job/USA-Eden-Prairie-Minnesota-55344/Quality-Analyst-Intern--Software-_JR100314",
-      "greenhouse:singlestore:8221924",
-      "greenhouse:walleyecapital-external-students:4676334006",
-      "greenhouse:waymo:8221198"
-    ],
-    "personal_email": [
-      "lever:cscgeneration-2:3a04b45f-a2eb-438a-a8ac-b07324223813",
-      "ashby:g2:64dcc04a-a0e7-493b-b899-dd4c56e561fd",
-      "workday:bracco:/job/USA-Eden-Prairie-Minnesota-55344/Quality-Analyst-Intern--Software-_JR100314",
-      "greenhouse:singlestore:8221924",
-      "greenhouse:walleyecapital-external-students:4676334006",
-      "greenhouse:waymo:8221198"
-    ]
+    "discord": [],
+    "telegram": [],
+    "personal_email": []
   }
 }
