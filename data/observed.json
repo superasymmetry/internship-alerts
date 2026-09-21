@@ -59,6 +59,18 @@
     }
    }
   },
+  "acima": {
+   "name": "Acima",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-21",
+     "role_ids": [
+      "workday:upbound:/job/Draper-UT/Software-Engineer-Intern_R-100759-1"
+     ],
+     "count": 1
+    }
+   }
+  },
   "advanced space": {
    "name": "Advanced Space",
    "cycles": {
@@ -494,6 +506,19 @@
       "greenhouse:axq:6181069004"
      ],
      "count": 1
+    }
+   }
+  },
+  "bass pro shops": {
+   "name": "Bass Pro Shops",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-16",
+     "role_ids": [
+      "workday:basspro:/job/Springfield-MO-Bass-Pro-Shops-Base-Camp/Cybersecurity-Intern-Summer-2027_R267444",
+      "workday:basspro:/job/Springfield-MO-Bass-Pro-Shops-Base-Camp/IT-Developer-Intern-Summer-2027_R267441-1"
+     ],
+     "count": 2
     }
    }
   },
@@ -965,6 +990,18 @@
       "greenhouse:coinbase:8175471"
      ],
      "count": 4
+    }
+   }
+  },
+  "commerce bank": {
+   "name": "Commerce Bank",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-21",
+     "role_ids": [
+      "workday:commercebank:/job/MO---Kansas-City-DowntownPlaza---Kansas-City---KC-Downtown-Trust-Building-922-Walnut-64106/Intern-EABI---Data-Analyst-Summer-2027_38484"
+     ],
+     "count": 1
     }
    }
   },
@@ -2141,9 +2178,11 @@
     "Summer 2027": {
      "first_posted": "2026-09-16",
      "role_ids": [
-      "workday:liveoakbancshares:/job/Wilmington-NC/Summer-2027-Intern--AI-Enablement---Forward-Deployed-Engineering_R-002624"
+      "workday:liveoakbancshares:/job/Wilmington-NC/Summer-2027-Intern--AI-Enablement---Forward-Deployed-Engineering_R-002624",
+      "workday:liveoakbancshares:/job/Wilmington-NC/Summer-2027-Intern--Information-Security_R-002647",
+      "workday:liveoakbancshares:/job/Wilmington-NC/Summer-2027-Intern--Software-Engineering_R-002643"
      ],
-     "count": 1
+     "count": 3
     }
    }
   },
@@ -3382,9 +3421,12 @@
       "oracle:hdhl.fa.us6.oraclecloud.com:1007774",
       "oracle:hdhl.fa.us6.oraclecloud.com:1007776",
       "oracle:hdhl.fa.us6.oraclecloud.com:1007777",
-      "oracle:hdhl.fa.us6.oraclecloud.com:1007804"
+      "oracle:hdhl.fa.us6.oraclecloud.com:1007804",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1007837",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1007876",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1007905"
      ],
-     "count": 6
+     "count": 9
     },
     "Fall 2026": {
      "first_posted": "2026-09-02",
@@ -3696,6 +3738,19 @@
       "workday:hcmportal:/job/US---UPS-TECHNOLOGY-HEADQUARTERS--DATACENTER-NJRAR/UPS-Information-Security-Summer-2027-Internship---NJ_R26029761"
      ],
      "count": 1
+    }
+   }
+  },
+  "upbound group": {
+   "name": "Upbound Group",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-21",
+     "role_ids": [
+      "workday:upbound:/job/Plano-TX/Software-Engineer-Intern_R-100761",
+      "workday:upbound:/job/Plano-TX/Software-Engineer-Intern_R-100762"
+     ],
+     "count": 2
     }
    }
   },
@@ -4063,5 +4118,5 @@
    }
   }
  },
- "updated_at": "2026-09-21T14:48:15Z"
+ "updated_at": "2026-09-21T20:02:18Z"
 }

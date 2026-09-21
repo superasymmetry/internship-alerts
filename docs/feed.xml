@@ -5,15 +5,143 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://superasymmetry.github.io/internship-alerts/feed.xml" rel="self"/>
   <link href="https://github.com/superasymmetry/internship-alerts"/>
-  <updated>2026-09-21T14:48:15Z</updated>
+  <updated>2026-09-21T20:02:18Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/superasymmetry/internship-alerts</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:fmr:/job/200-Seaport-Blvd-Boston-MA/Quantitative-Research-Intern--Multi-Asset-Systematic-Research-Team_2135128</id>
-    <title>Fidelity Investments: Quantitative Research Intern- Multi-Asset Systematic Research Team 🛂</title>
-    <link href="https://fmr.wd1.myworkdayjobs.com/targeted/job/200-Seaport-Blvd-Boston-MA/Quantitative-Research-Intern--Multi-Asset-Systematic-Research-Team_2135128"/>
-    <updated>2026-09-21T14:48:15Z</updated>
+    <id>urn:intern-engine:ashby:collinear-ai:ae85fd08-dfd8-42e5-9b3b-9921ba24742b</id>
+    <title>Collinear AI: MTS - Research Scientist Internship</title>
+    <link href="https://jobs.ashbyhq.com/collinear-ai/ae85fd08-dfd8-42e5-9b3b-9921ba24742b"/>
+    <updated>2026-09-21T20:02:18Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Sunnyvale, California · Python</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1007837</id>
+    <title>Stantec: Transportation Engineering Co-op/Intern - Infrastructure (Summer 2027)</title>
+    <link href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007837"/>
+    <updated>2026-09-21T20:02:18Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Quant · 200 Seaport Blvd, Boston MA · $50–$77/hr · Python, SQL · sponsorship: no-sponsorship · H-1B track record: ~2.4k approvals (FY2022–2023)</summary>
+    <summary>Summer 2027 · Software · Auburn, NH, United States</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1007876</id>
+    <title>Stantec: Transportation Engineering Co-op/Intern - Infrastructure (Summer 2027)</title>
+    <link href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007876"/>
+    <updated>2026-09-21T20:02:18Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · South Burlington, VT, United States</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1007905</id>
+    <title>Stantec: Transportation Planning Intern- Infrastructure (Summer 2027)</title>
+    <link href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007905"/>
+    <updated>2026-09-21T20:02:18Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Minneapolis, MN, United States; Milwaukee, WI, United States</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:upbound:/job/Draper-UT/Software-Engineer-Intern_R-100759-1</id>
+    <title>Acima: Software Engineer Intern</title>
+    <link href="https://upbound.wd501.myworkdayjobs.com/Acima/job/Draper-UT/Software-Engineer-Intern_R-100759-1"/>
+    <updated>2026-09-21T20:02:18Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Draper, UT · Python, TypeScript, JavaScript, Ruby, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:basspro:/job/Springfield-MO-Bass-Pro-Shops-Base-Camp/Cybersecurity-Intern-Summer-2027_R267444</id>
+    <title>Bass Pro Shops: Cybersecurity Intern Summer 2027</title>
+    <link href="https://basspro.wd1.myworkdayjobs.com/careers/job/Springfield-MO-Bass-Pro-Shops-Base-Camp/Cybersecurity-Intern-Summer-2027_R267444"/>
+    <updated>2026-09-21T20:02:18Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security · Springfield, MO (Bass Pro Shops Base Camp)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:basspro:/job/Springfield-MO-Bass-Pro-Shops-Base-Camp/IT-Developer-Intern-Summer-2027_R267441-1</id>
+    <title>Bass Pro Shops: IT Developer Intern Summer 2027</title>
+    <link href="https://basspro.wd1.myworkdayjobs.com/careers/job/Springfield-MO-Bass-Pro-Shops-Base-Camp/IT-Developer-Intern-Summer-2027_R267441-1"/>
+    <updated>2026-09-21T20:02:18Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Springfield, MO (Bass Pro Shops Base Camp)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:cir:/job/Fairfield-IA/IT-Operations-Intern---Service-Desk--Infrastructure--Prod-Support_R-2025-235</id>
+    <title>Cambridge Investment Research: IT Operations Intern - Service Desk, Infrastructure, Prod Support</title>
+    <link href="https://cir.wd108.myworkdayjobs.com/CIR_External_Career_Site/job/Fairfield-IA/IT-Operations-Intern---Service-Desk--Infrastructure--Prod-Support_R-2025-235"/>
+    <updated>2026-09-21T20:02:18Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Fairfield, IA · $17–$26/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:commercebank:/job/MO---Kansas-City-DowntownPlaza---Kansas-City---KC-Downtown-Trust-Building-922-Walnut-64106/Intern-EABI---Data-Analyst-Summer-2027_38484</id>
+    <title>Commerce Bank: Intern - Data Analyst (Summer 2027) 🛂</title>
+    <link href="https://commercebank.wd1.myworkdayjobs.com/CommerceJobs/job/MO---Kansas-City-DowntownPlaza---Kansas-City---KC-Downtown-Trust-Building-922-Walnut-64106/Intern-EABI---Data-Analyst-Summer-2027_38484"/>
+    <updated>2026-09-21T20:02:18Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · MO - Kansas City Downtown/Plaza - Kansas City - KC Downtown Trust Building (922 Walnut) (64106) · $22/hr · Python, SQL, Tableau · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:headlandstechnologiesllc:4412947009</id>
+    <title>Headlands Tech Holdings: Deep Learning Research Internship</title>
+    <link href="https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4412947009"/>
+    <updated>2026-09-21T20:02:18Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Chicago; New York · $100/hr · Python, C++</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:leidos:/job/Tucson-AZ/Jr-Software-Engineer-Intern_R-00192184</id>
+    <title>Leidos: Jr. Software Engineer Intern 🇺🇸</title>
+    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Tucson-AZ/Jr-Software-Engineer-Intern_R-00192184"/>
+    <updated>2026-09-21T20:02:18Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Tucson, AZ · Python, Java, C++, TypeScript, JavaScript · sponsorship: citizens-only · H-1B track record: ~79 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:liveoakbancshares:/job/Wilmington-NC/Summer-2027-Intern--Information-Security_R-002647</id>
+    <title>Live Oak Bank: Summer 2027 Intern: Information Security</title>
+    <link href="https://liveoakbancshares.wd1.myworkdayjobs.com/Live_Oak/job/Wilmington-NC/Summer-2027-Intern--Information-Security_R-002647"/>
+    <updated>2026-09-21T20:02:18Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security · Wilmington, NC · $19.77–$32.12/hr · Python, AWS, GCP, Azure</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:liveoakbancshares:/job/Wilmington-NC/Summer-2027-Intern--Software-Engineering_R-002643</id>
+    <title>Live Oak Bank: Summer 2027 Intern: Software Engineering</title>
+    <link href="https://liveoakbancshares.wd1.myworkdayjobs.com/Live_Oak/job/Wilmington-NC/Summer-2027-Intern--Software-Engineering_R-002643"/>
+    <updated>2026-09-21T20:02:18Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Wilmington, NC · $19.77–$32.12/hr · Python, Java, C#, TypeScript, JavaScript</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:singlestore:8220948</id>
+    <title>SingleStore: MIT- Software Engineer Intern |Helios|</title>
+    <link href="https://job-boards.greenhouse.io/singlestore/jobs/8220948"/>
+    <updated>2026-09-21T20:02:18Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · United States · Python, Java, TypeScript, JavaScript, SQL · H-1B track record: ~16 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:sonyglobal:/job/New-York/Sony-Research---Internship-on-Audio-Processing-and-Machine-Learning_JR-119643</id>
+    <title>Sony: Sony Research - Internship on Audio Processing and Machine Learning</title>
+    <link href="https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/New-York/Sony-Research---Internship-on-Audio-Processing-and-Machine-Learning_JR-119643"/>
+    <updated>2026-09-21T20:02:18Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · New York · $50/hr · Python, PyTorch</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:upbound:/job/Plano-TX/Software-Engineer-Intern_R-100761</id>
+    <title>Upbound Group: Software Engineer Intern</title>
+    <link href="https://upbound.wd501.myworkdayjobs.com/Upbound/job/Plano-TX/Software-Engineer-Intern_R-100761"/>
+    <updated>2026-09-21T20:02:18Z</updated>
+    <category term="Summer 2027"/>
+    <summary>2 openings · Summer 2027 · Software · Plano, TX · $22/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:WellmarkInc:744000150732768</id>
+    <title>Wellmark: Software Engineer Internship - Technology Healthcare Innovation</title>
+    <link href="https://jobs.smartrecruiters.com/WellmarkInc/744000150732768"/>
+    <updated>2026-09-21T20:02:18Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Des Moines, IA, United States (Hybrid) · Python, SQL, Node.js, AWS, Linux · H-1B track record: ~15 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:fmr:/job/200-Seaport-Blvd-Boston-MA/Quantitative-Research-Intern--Equity-Quantitative-Research-Team_2135122</id>
@@ -22,6 +150,14 @@
     <updated>2026-09-21T14:48:15Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Quant · 200 Seaport Blvd, Boston MA · $50–$77/hr · Python, C++, SQL · sponsorship: no-sponsorship · H-1B track record: ~2.4k approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:fmr:/job/200-Seaport-Blvd-Boston-MA/Quantitative-Research-Intern--Multi-Asset-Systematic-Research-Team_2135128</id>
+    <title>Fidelity Investments: Quantitative Research Intern- Multi-Asset Systematic Research Team 🛂</title>
+    <link href="https://fmr.wd1.myworkdayjobs.com/targeted/job/200-Seaport-Blvd-Boston-MA/Quantitative-Research-Intern--Multi-Asset-Systematic-Research-Team_2135128"/>
+    <updated>2026-09-21T14:48:15Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Quant · 200 Seaport Blvd, Boston MA · $50–$77/hr · Python, SQL · sponsorship: no-sponsorship · H-1B track record: ~2.4k approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:fmr:/job/Boston-MA/Strategic-Advisers-Quantitative-Research-Intern---Undergrad_2135905</id>
@@ -347,9 +483,9 @@
     <id>urn:intern-engine:smartrecruiters:BoschGroup:744000150217869</id>
     <title>Bosch: AI Engineering Intern (October 2026 - August 2027)</title>
     <link href="https://jobs.smartrecruiters.com/BoschGroup/744000150217869"/>
-    <updated>2026-09-17T22:43:29Z</updated>
+    <updated>2026-09-21T19:42:50Z</updated>
     <category term="Fall 2026"/>
-    <summary>Fall 2026 · Data &amp; ML/AI · Plymouth, MI, United States · Python, C++, MATLAB, LLMs · H-1B track record: ~188 approvals (FY2022–2023)</summary>
+    <summary>Fall 2026 · Data &amp; ML/AI · Plymouth, MI, United States · Python, C++, MATLAB, LLMs · status: closed · H-1B track record: ~188 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:avav:/job/Centreville-VA/Software-Engineering-Intern_8593</id>
@@ -670,141 +806,5 @@
     <updated>2026-09-18T11:23:52Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · San Jose, CALIFORNIA, United States (Hybrid) · $38/hr · Python, Java · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:americancentury:/job/Kansas-City-Missouri/Cybersecurity-Intern_R0005729</id>
-    <title>American Century Investments: Cybersecurity Intern 🛂</title>
-    <link href="https://americancentury.wd5.myworkdayjobs.com/AmericanCenturyInvestments/job/Kansas-City-Missouri/Cybersecurity-Intern_R0005729"/>
-    <updated>2026-09-16T22:24:09Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Security · Kansas City, Missouri · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:caci:/job/Colorado-Springs-CO-US/Software-Test-Engineer-Intern---Summer-2027_332003</id>
-    <title>CACI: Software Test Engineer Intern - Summer 2027</title>
-    <link href="https://caci.wd1.myworkdayjobs.com/external/job/Colorado-Springs-CO-US/Software-Test-Engineer-Intern---Summer-2027_332003"/>
-    <updated>2026-09-16T22:24:09Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Colorado Springs, CO, US · Python, Linux, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:cisco:/job/RTP-North-Carolina-US/Security-Engineer-I--Intern----United-States_2025885</id>
-    <title>Cisco: Security Engineer I (Intern) - United States 🇺🇸</title>
-    <link href="https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Security-Engineer-I--Intern----United-States_2025885"/>
-    <updated>2026-09-16T22:24:09Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security · RTP, North Carolina, US · Python, Java, C++, AWS, GCP · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:cisco:/job/RTP-North-Carolina-US/Software-Engineer-I--Intern----United-States_2025890</id>
-    <title>Cisco: Software Engineer I (Intern) - United States 🇺🇸</title>
-    <link href="https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Software-Engineer-I--Intern----United-States_2025890"/>
-    <updated>2026-09-16T22:24:09Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · RTP, North Carolina, US · Python, Java, C++, AWS, GCP · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:graco:/job/Dayton-Minnesota-USA-French-Lake/Software-Engineer-Intern_R0023556</id>
-    <title>Graco: Software Engineer Intern 🛂</title>
-    <link href="https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Dayton-Minnesota-USA-French-Lake/Software-Engineer-Intern_R0023556"/>
-    <updated>2026-09-16T22:24:09Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Dayton, Minnesota, USA (French Lake) · TypeScript, JavaScript, Next.js, HTML/CSS, AWS · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:kbr:/job/Sioux-Falls-South-Dakota/Image-Processing-Software-Engineer-Intern_R2130067</id>
-    <title>KBR: Image Processing Software Engineer Intern</title>
-    <link href="https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Sioux-Falls-South-Dakota/Image-Processing-Software-Engineer-Intern_R2130067"/>
-    <updated>2026-09-16T22:24:09Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Sioux Falls, South Dakota · Python, C++, AWS, Linux, PostgreSQL · H-1B track record: ~12 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:valeo:/job/Troy-MI/Systems-Engineering-Co-Op--Software-_REQ2026071241</id>
-    <title>Valeo: Systems Engineering Co-Op (Software) 🛂</title>
-    <link href="https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Troy-MI/Systems-Engineering-Co-Op--Software-_REQ2026071241"/>
-    <updated>2026-09-16T22:24:09Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Troy, MI · Python, C++, Linux · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:wellington:/job/Boston-MA-United-States/Portfolio-Reference-Data-Analyst-Co-op_R94829-1</id>
-    <title>Wellington Management: Portfolio Reference Data Analyst Co-op</title>
-    <link href="https://wellington.wd5.myworkdayjobs.com/Campus/job/Boston-MA-United-States/Portfolio-Reference-Data-Analyst-Co-op_R94829-1"/>
-    <updated>2026-09-16T22:24:09Z</updated>
-    <category term="Winter 2026"/>
-    <summary>Winter 2026 · Data &amp; ML/AI · Boston, MA, United States · $19–$35/hr · Python, SQL · status: closed · H-1B track record: ~112 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:wellington:/job/Boston-MA-United-States/Trading-Infrastructure-Risk--Bond-Forward-Co-Op_R94823-1</id>
-    <title>Wellington Management: Trading Infrastructure Risk, Bond Forward Co Op</title>
-    <link href="https://wellington.wd5.myworkdayjobs.com/external/job/Boston-MA-United-States/Trading-Infrastructure-Risk--Bond-Forward-Co-Op_R94823-1"/>
-    <updated>2026-09-16T22:24:09Z</updated>
-    <category term="Winter 2026"/>
-    <summary>Winter 2026 · Quant · Boston, MA, United States · $19–$35/hr · status: closed · H-1B track record: ~112 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:wellington:/job/Boston-MA-United-States/Trading-Infrastructure-and-Risk--Alert-Specialist-Co-Op_R94819-1</id>
-    <title>Wellington Management: Trading Infrastructure and Risk, Alert Specialist Co Op</title>
-    <link href="https://wellington.wd5.myworkdayjobs.com/external/job/Boston-MA-United-States/Trading-Infrastructure-and-Risk--Alert-Specialist-Co-Op_R94819-1"/>
-    <updated>2026-09-16T22:24:09Z</updated>
-    <category term="Winter 2026"/>
-    <summary>Winter 2026 · Quant · Boston, MA, United States · $19–$35/hr · status: closed · H-1B track record: ~112 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:wellington:/job/Boston-MA-United-States/Trading-Infrastructure-and-Risk--Currency-Forward-Specialist-Co-Op_R94821-1</id>
-    <title>Wellington Management: Trading Infrastructure and Risk, Currency Forward Specialist Co Op</title>
-    <link href="https://wellington.wd5.myworkdayjobs.com/external/job/Boston-MA-United-States/Trading-Infrastructure-and-Risk--Currency-Forward-Specialist-Co-Op_R94821-1"/>
-    <updated>2026-09-16T22:24:09Z</updated>
-    <category term="Winter 2026"/>
-    <summary>Winter 2026 · Quant · Boston, MA, United States · $19–$35/hr · status: closed · H-1B track record: ~112 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:wellington:/job/Boston-MA-United-States/Trading-Research---Analytics-Co-Op_R94827-1</id>
-    <title>Wellington Management: Quantitative Trading Co-op</title>
-    <link href="https://wellington.wd5.myworkdayjobs.com/external/job/Boston-MA-United-States/Trading-Research---Analytics-Co-Op_R94827-1"/>
-    <updated>2026-09-16T22:24:09Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Quant · Boston, MA, United States · $19–$35/hr · Python, SQL, Tableau · H-1B track record: ~112 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:clockworksystems:6174230004</id>
-    <title>Clockwork Systems: Software Engineer Intern</title>
-    <link href="https://job-boards.greenhouse.io/clockworksystems/jobs/6174230004"/>
-    <updated>2026-09-16T19:08:42Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Palo Alto, CA · Python, Java, C++, Go, Django</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:rendezvousrobotics:4408590009</id>
-    <title>Rendezvous Robotics: Software Engineering Intern (Summer 2027)</title>
-    <link href="https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4408590009"/>
-    <updated>2026-09-16T19:08:42Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Golden, CO · Python, C++, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:kitware:ff25a349-a362-45d2-b1e4-2487c1df4f75</id>
-    <title>Kitware: AI Research Internship 🇺🇸</title>
-    <link href="https://jobs.lever.co/kitware/ff25a349-a362-45d2-b1e4-2487c1df4f75"/>
-    <updated>2026-09-16T19:08:42Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Clifton Park, New York · 40–60 USD/hr · Python, PyTorch, TensorFlow, LLMs, Computer Vision · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:rippling:collieraerospace:5a8bf9a3-c4f5-4c5a-ba9a-188979106827</id>
-    <title>Collier Aerospace: NCSG AI Feature Development Internship (Summer 2027)</title>
-    <link href="https://ats.rippling.com/collieraerospace/jobs/5a8bf9a3-c4f5-4c5a-ba9a-188979106827"/>
-    <updated>2026-09-16T19:08:42Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Raleigh, NC</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:aspentech:/job/Medina-Minnesota/Software-Development-Intern---Digital-Grid-Management---Summer-2027_R9456</id>
-    <title>AspenTech: Software Development Intern - Digital Grid Management - Summer 2027</title>
-    <link href="https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Medina-Minnesota/Software-Development-Intern---Digital-Grid-Management---Summer-2027_R9456"/>
-    <updated>2026-09-16T19:08:42Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Medina, Minnesota · $24–$28/hr · Python, Java, C++, JavaScript, Angular</summary>
   </entry>
 </feed>
