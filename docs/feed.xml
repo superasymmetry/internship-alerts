@@ -5,15 +5,15 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://superasymmetry.github.io/internship-alerts/feed.xml" rel="self"/>
   <link href="https://github.com/superasymmetry/internship-alerts"/>
-  <updated>2026-09-21T23:30:25Z</updated>
+  <updated>2026-09-22T02:07:20Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/superasymmetry/internship-alerts</uri></author>
   <entry>
-    <id>urn:intern-engine:ashby:oneapp:ba18d004-3212-44e4-8a0c-bd1215bae770</id>
-    <title>ONE Finance: Software Engineer, Intern 🛂</title>
-    <link href="https://jobs.ashbyhq.com/oneapp/ba18d004-3212-44e4-8a0c-bd1215bae770"/>
+    <id>urn:intern-engine:ashby:g2:64dcc04a-a0e7-493b-b899-dd4c56e561fd</id>
+    <title>G2: Intern, AI Agent Evaluations</title>
+    <link href="https://jobs.ashbyhq.com/g2/64dcc04a-a0e7-493b-b899-dd4c56e561fd"/>
     <updated>2026-09-21T23:30:24Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · United States (Remote) · $32 per hour · sponsorship: no-sponsorship · status: closed</summary>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Data &amp; ML/AI · San Francisco, CA · $24 per hour · LLMs</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:oneapp:84beb108-c04b-42d3-a9ae-9a91210201b7</id>
@@ -24,28 +24,12 @@
     <summary>Spring 2027 · Data &amp; ML/AI · United States (Remote) · $32 per hour · PyTorch, LLMs · sponsorship: no-sponsorship · status: closed</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:lever:cscgeneration-2:3a04b45f-a2eb-438a-a8ac-b07324223813</id>
-    <title>CSC Generation: Software Engineer - Legacy Applications &amp; Modernization - Intern/Part Time</title>
-    <link href="https://jobs.lever.co/cscgeneration-2/3a04b45f-a2eb-438a-a8ac-b07324223813"/>
+    <id>urn:intern-engine:ashby:oneapp:ba18d004-3212-44e4-8a0c-bd1215bae770</id>
+    <title>ONE Finance: Software Engineer, Intern 🛂</title>
+    <link href="https://jobs.ashbyhq.com/oneapp/ba18d004-3212-44e4-8a0c-bd1215bae770"/>
     <updated>2026-09-21T23:30:24Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Houston, TX · Python, Java, JavaScript, SQL, .NET</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:g2:64dcc04a-a0e7-493b-b899-dd4c56e561fd</id>
-    <title>G2: Intern, AI Agent Evaluations</title>
-    <link href="https://jobs.ashbyhq.com/g2/64dcc04a-a0e7-493b-b899-dd4c56e561fd"/>
-    <updated>2026-09-21T23:30:24Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Data &amp; ML/AI · San Francisco, CA · $24 per hour · LLMs</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:bracco:/job/USA-Eden-Prairie-Minnesota-55344/Quality-Analyst-Intern--Software-_JR100314</id>
-    <title>Bracco: Quality Analyst Intern (Software)</title>
-    <link href="https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Eden-Prairie-Minnesota-55344/Quality-Analyst-Intern--Software-_JR100314"/>
-    <updated>2026-09-21T23:30:24Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · USA, Eden Prairie, Minnesota, 55344 · $23–$25/hr</summary>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Software · United States (Remote) · $32 per hour · sponsorship: no-sponsorship · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:singlestore:8221924</id>
@@ -62,6 +46,22 @@
     <updated>2026-09-21T23:30:24Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Mountain View, CA, USA · Python, C++, Linux, Git · H-1B track record: ~284 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:cscgeneration-2:3a04b45f-a2eb-438a-a8ac-b07324223813</id>
+    <title>CSC Generation: Software Engineer - Legacy Applications &amp; Modernization - Intern/Part Time</title>
+    <link href="https://jobs.lever.co/cscgeneration-2/3a04b45f-a2eb-438a-a8ac-b07324223813"/>
+    <updated>2026-09-21T23:30:24Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Houston, TX · Python, Java, JavaScript, SQL, .NET</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:bracco:/job/USA-Eden-Prairie-Minnesota-55344/Quality-Analyst-Intern--Software-_JR100314</id>
+    <title>Bracco: Quality Analyst Intern (Software)</title>
+    <link href="https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Eden-Prairie-Minnesota-55344/Quality-Analyst-Intern--Software-_JR100314"/>
+    <updated>2026-09-21T23:30:24Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · USA, Eden Prairie, Minnesota, 55344 · $23–$25/hr</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:collinear-ai:ae85fd08-dfd8-42e5-9b3b-9921ba24742b</id>
