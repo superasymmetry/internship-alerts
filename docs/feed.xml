@@ -5,8 +5,48 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://superasymmetry.github.io/internship-alerts/feed.xml" rel="self"/>
   <link href="https://github.com/superasymmetry/internship-alerts"/>
-  <updated>2026-09-22T18:01:11Z</updated>
+  <updated>2026-09-22T21:29:56Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/superasymmetry/internship-alerts</uri></author>
+  <entry>
+    <id>urn:intern-engine:oracle:hdjq.fa.us2.oraclecloud.com:26011295</id>
+    <title>Emerson Electric: Graduate Software Engineering Intern</title>
+    <link href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011295"/>
+    <updated>2026-09-22T21:29:56Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Round Rock, TX, United States · Python, C++, C#, LLMs, Computer Vision</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:caci:/job/Sterling-VA-US/Software-Engineering-Intern---Summer-2027_332386</id>
+    <title>CACI: Software Engineering Intern - Summer 2027</title>
+    <link href="https://caci.wd1.myworkdayjobs.com/external/job/Sterling-VA-US/Software-Engineering-Intern---Summer-2027_332386"/>
+    <updated>2026-09-22T21:29:56Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Sterling, VA, US · Linux, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:leidos:/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00192858</id>
+    <title>Leidos: Software Developer Intern 🇺🇸</title>
+    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00192858"/>
+    <updated>2026-09-22T21:29:56Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Annapolis Junction, MD · Python, Java, C++, JavaScript, HTML/CSS · sponsorship: citizens-only · H-1B track record: ~79 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Software-Tools-and-Assurance-Intern_R016429</id>
+    <title>The Aerospace Corporation: 2027 Software Tools and Assurance Intern 🇺🇸</title>
+    <link href="https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Software-Tools-and-Assurance-Intern_R016429"/>
+    <updated>2026-09-22T21:29:56Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · El Segundo, CA · Python, Java, C++ · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:maxar:/job/Remote-United-States/AI-Engineer-Intern_R24605</id>
+    <title>Vantor: AI Engineer Intern 🇺🇸</title>
+    <link href="https://maxar.wd1.myworkdayjobs.com/Vantor/job/Remote-United-States/AI-Engineer-Intern_R24605"/>
+    <updated>2026-09-22T21:29:56Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Remote (United States) · sponsorship: citizens-only</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:ashby:cowboyspace:56d1d7e4-fa7e-4c25-aa8b-6828447fc64a</id>
     <title>Cowboy Space: Intern, Software Engineering, 2027 🇺🇸</title>
@@ -14,6 +54,22 @@
     <updated>2026-09-22T18:01:11Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · San Carlos, California · Python, C++, Verilog · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1007919</id>
+    <title>Stantec: Transportation Engineering Co-op/Intern - Infrastructure (Summer 2027)</title>
+    <link href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007919"/>
+    <updated>2026-09-22T18:01:11Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Portland, ME, United States</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:rippling:rippling:a07e4e46-3721-4934-b57b-0d58412e22ba</id>
+    <title>Rippling: Software Engineer Intern - Backend Focused - Summer 2027</title>
+    <link href="https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba"/>
+    <updated>2026-09-22T18:01:11Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Seattle, WA</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:rippling:rippling:f64b6158-9534-4bab-9457-45556166b262</id>
@@ -30,22 +86,6 @@
     <updated>2026-09-22T18:01:11Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · San Francisco, CA</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:rippling:rippling:a07e4e46-3721-4934-b57b-0d58412e22ba</id>
-    <title>Rippling: Software Engineer Intern - Backend Focused - Summer 2027</title>
-    <link href="https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba"/>
-    <updated>2026-09-22T18:01:11Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · New York, NY</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1007919</id>
-    <title>Stantec: Transportation Engineering Co-op/Intern - Infrastructure (Summer 2027)</title>
-    <link href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007919"/>
-    <updated>2026-09-22T18:01:11Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Portland, ME, United States</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:allegion:/job/Carmel-IN/Summer-Intern---Software-Engineer_JR37747-2</id>
@@ -219,9 +259,9 @@
     <id>urn:intern-engine:greenhouse:headlandstechnologiesllc:4412947009</id>
     <title>Headlands Tech Holdings: Deep Learning Research Internship</title>
     <link href="https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4412947009"/>
-    <updated>2026-09-21T20:02:18Z</updated>
+    <updated>2026-09-22T21:29:56Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Chicago; New York · $100/hr · Python, C++</summary>
+    <summary>Not stated · Data &amp; ML/AI · Chicago; New York · $100/hr · Python, C++ · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:singlestore:8220948</id>
@@ -766,45 +806,5 @@
     <updated>2026-09-17T19:31:33Z</updated>
     <category term="Not stated"/>
     <summary>2 openings · Not stated · Software · Arlington, TX, United States · LLMs</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:158088</id>
-    <title>Honeywell: Software Engineer Co-Op - Spring/Summer 2027 🇺🇸</title>
-    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/158088"/>
-    <updated>2026-09-17T19:31:33Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Pittsford, NY, United States · $20/hr · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:RenesasElectronics:744000150194379</id>
-    <title>Renesas Electronics: Embedded Systems Intern</title>
-    <link href="https://jobs.smartrecruiters.com/RenesasElectronics/744000150194379"/>
-    <updated>2026-09-19T15:02:29Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Remote, REMOTE, United States (Remote) · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:insperity:/job/Kingwood-TX/Rotational-AI-Intern_JR103294</id>
-    <title>Insperity: Rotational AI Intern</title>
-    <link href="https://insperity.wd12.myworkdayjobs.com/NSP/job/Kingwood-TX/Rotational-AI-Intern_JR103294"/>
-    <updated>2026-09-17T19:31:33Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Kingwood, TX · Python, SQL, LLMs, Computer Vision · H-1B track record: ~12 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:leidos:/job/Pittsburgh-PA/Research-Engineer-Intern_R-00192500</id>
-    <title>Leidos: Research Engineer Intern</title>
-    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Pittsburgh-PA/Research-Engineer-Intern_R-00192500"/>
-    <updated>2026-09-17T19:31:33Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Pittsburgh, PA · Python, MATLAB · H-1B track record: ~79 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:marvell:/job/Burlington-VT/SRAM-Software-Engineer-Intern--BS---Summer-2027_2603760-1</id>
-    <title>Marvell: SRAM Software Engineer Intern, BS - Summer 2027</title>
-    <link href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Burlington-VT/SRAM-Software-Engineer-Intern--BS---Summer-2027_2603760-1"/>
-    <updated>2026-09-17T19:31:33Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Burlington, VT · Python, Java, Bash, Linux, Git</summary>
   </entry>
 </feed>
