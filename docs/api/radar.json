@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-22T13:40:41Z",
- "data_as_of": "2026-09-22T13:40:41Z",
- "rendered_at": "2026-09-22T13:40:42Z",
+ "generated_at": "2026-09-22T18:01:11Z",
+ "data_as_of": "2026-09-22T18:01:11Z",
+ "rendered_at": "2026-09-22T18:01:11Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/superasymmetry/internship-alerts",
  "companies": [
@@ -1270,7 +1270,7 @@
    "expected": "2026-08-25",
    "days_until": -28,
    "status": "open",
-   "url": "https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115449",
+   "url": "https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115750",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -3388,6 +3388,25 @@
    }
   },
   {
+   "company": "SingleStore",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-14",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-14",
+   "days_until": -8,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/singlestore/jobs/8154399",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-14"
+   }
+  },
+  {
    "company": "Workshop",
    "last_cycle_posted": "",
    "posted_on": "2026-09-14",
@@ -3901,6 +3920,25 @@
    }
   },
   {
+   "company": "Cowboy Space",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-21",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-21",
+   "days_until": -1,
+   "status": "open",
+   "url": "https://jobs.ashbyhq.com/cowboyspace/56d1d7e4-fa7e-4c25-aa8b-6828447fc64a",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-21"
+   }
+  },
+  {
    "company": "Fidelity Investments",
    "last_cycle_posted": "",
    "posted_on": "2026-09-21",
@@ -3990,6 +4028,24 @@
    "provenance": {
     "type": "live-role",
     "url": "https://ats.rippling.com/rev-robotics/jobs/9f4e5d99-0bba-4e03-8018-e312810a3dba"
+   }
+  },
+  {
+   "company": "Rippling",
+   "last_cycle_posted": "",
+   "posted_on": "",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "",
+   "days_until": null,
+   "status": "open",
+   "url": "https://ats.rippling.com/rippling/jobs/f64b6158-9534-4bab-9457-45556166b262",
+   "note": "",
+   "provenance": {
+    "type": "live-role",
+    "url": "https://ats.rippling.com/rippling/jobs/f64b6158-9534-4bab-9457-45556166b262"
    }
   },
   {
@@ -6805,5 +6861,5 @@
    }
   }
  ],
- "count": 358
+ "count": 361
 }
