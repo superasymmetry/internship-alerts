@@ -5,8 +5,88 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://superasymmetry.github.io/internship-alerts/feed.xml" rel="self"/>
   <link href="https://github.com/superasymmetry/internship-alerts"/>
-  <updated>2026-09-23T15:15:04Z</updated>
+  <updated>2026-09-23T19:18:52Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/superasymmetry/internship-alerts</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:sonos:/job/Boston-MA/Software-Engineering-Co-op--Cloud-_R2822-2</id>
+    <title>Sonos: Software Engineering Co-op (Cloud) 🛂</title>
+    <link href="https://sonos.wd1.myworkdayjobs.com/Sonos/job/Boston-MA/Software-Engineering-Co-op--Cloud-_R2822-2"/>
+    <updated>2026-09-23T19:18:52Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Software · Boston, MA · Python, Java, JavaScript, AWS, Kubernetes · sponsorship: no-sponsorship · status: closed · H-1B track record: ~54 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:sonos:/job/Boston-MA/Software-Engineering-Co-op--Signal-Processing-_R2821-2</id>
+    <title>Sonos: Software Engineering Co-op (Signal Processing) 🛂</title>
+    <link href="https://sonos.wd1.myworkdayjobs.com/Sonos/job/Boston-MA/Software-Engineering-Co-op--Signal-Processing-_R2821-2"/>
+    <updated>2026-09-23T19:18:52Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Software · Boston, MA · Linux · sponsorship: no-sponsorship · status: closed · H-1B track record: ~54 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1007956</id>
+    <title>Stantec: Civil Engineering Intern/Co-op - Infrastructure (Summer 2027)</title>
+    <link href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007956"/>
+    <updated>2026-09-23T19:18:52Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · New York, NY, United States</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:cae:/job/Arlington-TX/Weapons-Simulation-Software-Co-Op_123873</id>
+    <title>CAE: Weapons Simulation Software Co-Op 🇺🇸</title>
+    <link href="https://cae.wd3.myworkdayjobs.com/career/job/Arlington-TX/Weapons-Simulation-Software-Co-Op_123873"/>
+    <updated>2026-09-23T19:18:52Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Arlington, TX · Python, C++, MATLAB, Docker, Linux · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:gdit:/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-Software-Development-Internship_RQ228931-2</id>
+    <title>General Dynamics Information Technology: GDIT Summer Internship Program – Summer 2027 Software Development Internship 🇺🇸</title>
+    <link href="https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-Software-Development-Internship_RQ228931-2"/>
+    <updated>2026-09-23T19:18:52Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · USA LA Bossier City · sponsorship: citizens-only · H-1B track record: ~28 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:gdit:/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-Cybersecurity-Associate-Internship_RQ228929-2</id>
+    <title>General Dynamics Information Technology: GDIT Summer Internship Program – Summer 2027 Cybersecurity Associate Internship 🇺🇸</title>
+    <link href="https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-Cybersecurity-Associate-Internship_RQ228929-2"/>
+    <updated>2026-09-23T19:18:52Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security · USA LA Bossier City · sponsorship: citizens-only · H-1B track record: ~28 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:gdit:/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-Network-Engineering-Internship_RQ228934-2</id>
+    <title>General Dynamics Information Technology: GDIT Summer Internship Program – Summer 2027 AI Network Engineering Internship 🇺🇸</title>
+    <link href="https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-Network-Engineering-Internship_RQ228934-2"/>
+    <updated>2026-09-23T19:18:52Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · USA LA Bossier City · Python, LLMs · sponsorship: citizens-only · H-1B track record: ~28 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:gdit:/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-Generative-AI-Software-Development-Internship_RQ228933-1</id>
+    <title>General Dynamics Information Technology: GDIT Summer Internship Program – Summer 2027 Generative AI Software Development Internship 🇺🇸</title>
+    <link href="https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-Generative-AI-Software-Development-Internship_RQ228933-1"/>
+    <updated>2026-09-23T19:18:52Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · USA LA Bossier City · LLMs, Python, AWS, GCP, Azure · sponsorship: citizens-only · H-1B track record: ~28 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:insulet:/job/San-Diego-California/Intern--DevOps-Engineer--June-August-2027--Onsite-_REQ-2026-18202</id>
+    <title>Insulet Corporation: Intern, DevOps Engineer: June-August 2027 (Onsite)</title>
+    <link href="https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/San-Diego-California/Intern--DevOps-Engineer--June-August-2027--Onsite-_REQ-2026-18202"/>
+    <updated>2026-09-23T19:18:52Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · San Diego, California · Python, Bash, AWS, Linux · H-1B track record: ~46 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:klaviyocampus:7999274003</id>
+    <title>Klaviyo: Machine Learning Engineer Internship-Summer 2027</title>
+    <link href="https://job-boards.greenhouse.io/klaviyocampus/jobs/7999274003"/>
+    <updated>2026-09-23T19:18:52Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Palo Alto, CA · Python, PyTorch, LLMs · H-1B track record: ~28 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:ashby:grow-therapy:92bfe88a-4c23-48c8-8f7b-4959ab6cd8d8</id>
     <title>Grow Therapy: Software Engineering Intern (Summer 2027)</title>
@@ -173,7 +253,7 @@
     <link href="https://ats.rippling.com/rippling/jobs/f64b6158-9534-4bab-9457-45556166b262"/>
     <updated>2026-09-22T18:01:11Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · New York, NY</summary>
+    <summary>Summer 2027 · Software · San Francisco, CA</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:rippling:rippling:f9de04c3-e2c5-41f9-8e46-a0684707f89d</id>
@@ -515,17 +595,17 @@
     <id>urn:intern-engine:workday:ngc:/job/United-States-California-Camarillo/XMLNAME-2027-Embedded-Software-Engineer-Intern---Camarillo-CA_R10251835</id>
     <title>Northrop Grumman: 2027 Embedded Software Engineer Intern - Camarillo CA 🇺🇸</title>
     <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Camarillo/XMLNAME-2027-Embedded-Software-Engineer-Intern---Camarillo-CA_R10251835"/>
-    <updated>2026-09-21T14:48:15Z</updated>
+    <updated>2026-09-23T18:59:53Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · United States-California-Camarillo · $20.5–$37.25/hr · sponsorship: citizens-only</summary>
+    <summary>Summer 2027 · Software · United States-California-Camarillo · $20.5–$37.25/hr · sponsorship: citizens-only · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:ngc:/job/United-States-Maryland-Baltimore/XMLNAME-2027-Embedded-Software-Engineer-Intern---Baltimore-MD_R10251464</id>
     <title>Northrop Grumman: 2027 Embedded Software Engineer Intern - Baltimore MD 🇺🇸</title>
     <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Embedded-Software-Engineer-Intern---Baltimore-MD_R10251464"/>
-    <updated>2026-09-21T07:25:52Z</updated>
+    <updated>2026-09-23T18:59:53Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · United States-Maryland-Baltimore · $20.5–$37.25/hr · sponsorship: citizens-only</summary>
+    <summary>Summer 2027 · Software · United States-Maryland-Baltimore · $20.5–$37.25/hr · sponsorship: citizens-only · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workable:talentpluto:6A02556484</id>
@@ -726,85 +806,5 @@
     <updated>2026-09-18T15:16:14Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Lexington, KY, United States</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1007850</id>
-    <title>Stantec: Transportation Engineering Co-op - Infrastructure (Fall 2026/Spring 2027)</title>
-    <link href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007850"/>
-    <updated>2026-09-18T15:16:14Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Software · Louisville, KY, United States</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:churchdwight:/job/USA-Ewing-NJ/AI-Developer-Co-op---Graduate-Program--9-Months-_R2026-15686</id>
-    <title>Church &amp; Dwight: AI Developer Co-op - Graduate Program (9 Months) 🇺🇸</title>
-    <link href="https://churchdwight.wd1.myworkdayjobs.com/chdcareers/job/USA-Ewing-NJ/AI-Developer-Co-op---Graduate-Program--9-Months-_R2026-15686"/>
-    <updated>2026-09-18T15:16:14Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · USA, Ewing, NJ · Python, SQL, LLMs, AWS, GCP · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:greatamerica:/job/Cedar-Rapids-IA/Platform-Engineering-Intern_JR1240-1</id>
-    <title>GreatAmerica Financial Services: Platform Engineering Intern</title>
-    <link href="https://greatamerica.wd12.myworkdayjobs.com/greatamericacareers/job/Cedar-Rapids-IA/Platform-Engineering-Intern_JR1240-1"/>
-    <updated>2026-09-18T15:16:14Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Cedar Rapids, IA · Python, SQL, Bash, AWS, GCP</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:jj:/job/Titusville-New-Jersey-United-States-of-America/XMLNAME--PALM--and-Artificial-Intelligence-Co-Op_R-099389</id>
-    <title>Johnson &amp; Johnson: (PALM) and Artificial Intelligence Co-Op 🛂</title>
-    <link href="https://jj.wd5.myworkdayjobs.com/JJ/job/Titusville-New-Jersey-United-States-of-America/XMLNAME--PALM--and-Artificial-Intelligence-Co-Op_R-099389"/>
-    <updated>2026-09-18T15:16:14Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Titusville, New Jersey, United States of America · $23.5/hr · LLMs · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:sonyglobal:/job/Remote---Texas/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-119335</id>
-    <title>Sony: Research Intern on Generative and Protective AI for Content Creation</title>
-    <link href="https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Remote---Texas/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-119335"/>
-    <updated>2026-09-18T15:16:14Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Remote - Texas · $50/hr · PyTorch, LLMs, Computer Vision</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:xpengmotors:8819001002</id>
-    <title>XPENG Motors: AI Research Intern – Predictive World Model</title>
-    <link href="https://job-boards.greenhouse.io/xpengmotors/jobs/8819001002"/>
-    <updated>2026-09-18T06:07:45Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Santa Clara, CA · Python, PyTorch, Computer Vision</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:amazon:amazon:10552937</id>
-    <title>Amazon: Software Development Engineer Intern - Summer 2027 (USA)</title>
-    <link href="https://www.amazon.jobs/en/jobs/10552937/software-development-engineer-intern-summer-2027-usa"/>
-    <updated>2026-09-18T01:03:50Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Seattle, Washington, USA · Python, Java, C++, C#, Rust · H-1B track record: ~23.1k approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:k2spacecorporation:5411920008</id>
-    <title>K2 Space: Software Engineering Intern – Summer 2027 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411920008"/>
-    <updated>2026-09-18T01:03:50Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Los Angeles, CA · $30–$40/hr · C++, Rust, Linux · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:k2spacecorporation:5418727008</id>
-    <title>K2 Space: Simulation Software Engineering Intern - Summer 2027 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/k2spacecorporation/jobs/5418727008"/>
-    <updated>2026-09-18T01:03:50Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Los Angeles, CA · $30–$40/hr · Python, C++, Rust, MATLAB, Linux · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/US-CO-COLORADO-SPRINGS-9970-CUST--9970-Federal-Dr--FEDERAL-External-Site/Software-Engineering-Intern--Summer-2027-_01876131</id>
-    <title>RTX: Software Engineering Intern (Summer 2027) 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-CO-COLORADO-SPRINGS-9970-CUST--9970-Federal-Dr--FEDERAL-External-Site/Software-Engineering-Intern--Summer-2027-_01876131"/>
-    <updated>2026-09-19T15:02:29Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · US-CO-COLORADO SPRINGS-9970-CUST ~ 9970 Federal Dr ~ FEDERAL (External Site) · Python, Java, C++, C#, JavaScript · sponsorship: citizens-only · status: closed</summary>
   </entry>
 </feed>

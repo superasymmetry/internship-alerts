@@ -1634,6 +1634,10 @@
     "Summer 2027": {
      "first_posted": "2026-08-05",
      "role_ids": [
+      "workday:gdit:/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-Network-Engineering-Internship_RQ228934-2",
+      "workday:gdit:/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-Cybersecurity-Associate-Internship_RQ228929-2",
+      "workday:gdit:/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-Generative-AI-Software-Development-Internship_RQ228933-1",
+      "workday:gdit:/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-Software-Development-Internship_RQ228931-2",
       "workday:gdit:/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225450-1",
       "workday:gdit:/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225456-1",
       "workday:gdit:/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225469-1",
@@ -1645,7 +1649,7 @@
       "workday:gdit:/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ228405",
       "workday:gdit:/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ228406"
      ],
-     "count": 10
+     "count": 14
     }
    }
   },
@@ -1705,9 +1709,10 @@
      "first_posted": "2026-09-17",
      "role_ids": [
       "oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com:260795",
-      "oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com:260804"
+      "oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com:260804",
+      "oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com:260943"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -2080,6 +2085,18 @@
     }
    }
   },
+  "insulet": {
+   "name": "Insulet Corporation",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-23",
+     "role_ids": [
+      "workday:insulet:/job/San-Diego-California/Intern--DevOps-Engineer--June-August-2027--Onsite-_REQ-2026-18202"
+     ],
+     "count": 1
+    }
+   }
+  },
   "intuitive surgical": {
    "name": "Intuitive Surgical",
    "cycles": {
@@ -2173,9 +2190,10 @@
     "Summer 2027": {
      "first_posted": "2026-09-11",
      "role_ids": [
-      "greenhouse:klaviyocampus:7989364003"
+      "greenhouse:klaviyocampus:7989364003",
+      "greenhouse:klaviyocampus:7999274003"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -3509,9 +3527,10 @@
       "oracle:hdhl.fa.us6.oraclecloud.com:1007837",
       "oracle:hdhl.fa.us6.oraclecloud.com:1007876",
       "oracle:hdhl.fa.us6.oraclecloud.com:1007905",
-      "oracle:hdhl.fa.us6.oraclecloud.com:1007919"
+      "oracle:hdhl.fa.us6.oraclecloud.com:1007919",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1007956"
      ],
-     "count": 10
+     "count": 11
     },
     "Fall 2026": {
      "first_posted": "2026-09-02",
@@ -4206,5 +4225,5 @@
    }
   }
  },
- "updated_at": "2026-09-23T15:15:04Z"
+ "updated_at": "2026-09-23T19:18:52Z"
 }
