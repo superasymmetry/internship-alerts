@@ -622,6 +622,7 @@
      "role_ids": [
       "workday:bah:/job/Annapolis-Junction-MD/University---2027-Summer-Games-Cyber-Security-Intern---Annapolis-Junction--MD_R0248414",
       "workday:bah:/job/Annapolis-Junction-MD/University---2027-Summer-Games-Software-Developer-Intern---Annapolis-Junction--MD_R0248403",
+      "workday:bah:/job/Annapolis-Junction-MD/University---2027-Summer-Games-Software-Developer-Intern---Annapolis-Junction--MD_R0249873",
       "workday:bah:/job/Atlanta-GA/University---2027-Summer-Games-Cyber-Security-Intern---Atlanta--GA_R0248139",
       "workday:bah:/job/Atlanta-GA/University---2027-Summer-Games-Software-Developer-Intern---Atlanta--GA_R0248138",
       "workday:bah:/job/Atlanta-GA/University--2027-Summer-Games-Data-Scientist-Intern_R0248140",
@@ -641,17 +642,30 @@
       "workday:bah:/job/Honolulu-HI/University---2027-Summer-Games-Software-Developer-Intern---Honolulu--HI_R0248393",
       "workday:bah:/job/Huntsville-AL/University---2027-Summer-Games-Cyber-Security-Intern---Huntsville--AL_R0248412",
       "workday:bah:/job/Huntsville-AL/University---2027-Summer-Games-Software-Developer-Intern---Huntsville--AL_R0248394",
+      "workday:bah:/job/Huntsville-AL/University---2027-Summer-Games-Software-Developer-Intern---Huntsville--AL_R0249872",
       "workday:bah:/job/McLean-VA/University---2027-Summer-Games-Cyber-Security-Intern---McLean--VA_R0248034",
+      "workday:bah:/job/McLean-VA/University---2027-Summer-Games-Cyber-Security-Intern---McLean--VA_R0249832",
       "workday:bah:/job/McLean-VA/University---2027-Summer-Games-Data-Scientist-Intern---McLean--VA_R0248037",
+      "workday:bah:/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern---McLean--VA_R0249801",
+      "workday:bah:/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern---McLean--VA_R0249803",
+      "workday:bah:/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern---McLean--VA_R0249805",
+      "workday:bah:/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern---McLean--VA_R0249809",
+      "workday:bah:/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern---McLean--VA_R0249815",
+      "workday:bah:/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern---McLean--VA_R0249820",
+      "workday:bah:/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern---McLean--VA_R0249823",
+      "workday:bah:/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern---McLean--VA_R0249825",
+      "workday:bah:/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern---McLean--VA_R0249827",
+      "workday:bah:/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern---McLean--VA_R0249828",
       "workday:bah:/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern_R0248029",
       "workday:bah:/job/Rome-NY/University--2027-Summer-Games-Cyber-Security-Intern_R0248142",
       "workday:bah:/job/Rome-NY/University--2027-Summer-Games-Data-Scientist-Intern_R0248143",
       "workday:bah:/job/Rome-NY/University--2027-Summer-Games-Software-Developer-Intern_R0248141",
       "workday:bah:/job/San-Diego-CA/University---2027-Summer-Games-Data-Scientist-Intern---San-Diego--CA_R0248045",
       "workday:bah:/job/San-Diego-CA/University---2027-Summer-Games-Software-Developer-Intern---San-Diego--CA_R0248038",
+      "workday:bah:/job/San-Diego-CA/University---2027-Summer-Games-Software-Developer-Intern---San-Diego--CA_R0249799",
       "workday:bah:/job/San-Diego-CA/University--2027-Summer-Games-Cyber-Security-Intern_R0248043"
      ],
-     "count": 30
+     "count": 44
     }
    }
   },
@@ -4178,5 +4192,5 @@
    }
   }
  },
- "updated_at": "2026-09-23T00:04:45Z"
+ "updated_at": "2026-09-23T04:55:36Z"
 }
