@@ -5,31 +5,31 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://superasymmetry.github.io/internship-alerts/feed.xml" rel="self"/>
   <link href="https://github.com/superasymmetry/internship-alerts"/>
-  <updated>2026-09-23T22:32:36Z</updated>
+  <updated>2026-09-24T01:10:17Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/superasymmetry/internship-alerts</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:jj:/job/Danvers-Massachusetts-United-States-of-America/Software-Test-Engineering-Co-op--Beatbox-_R-098707</id>
-    <title>Johnson &amp; Johnson: Software Test Engineering Co-op (Beatbox) 🛂</title>
-    <link href="https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Software-Test-Engineering-Co-op--Beatbox-_R-098707"/>
-    <updated>2026-09-23T22:32:36Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Software · Danvers, Massachusetts, United States of America · $23.5/hr · Python, C++, Rust, JavaScript, SQL · sponsorship: no-sponsorship · status: closed</summary>
+    <id>urn:intern-engine:ashby:ramp:a13ae586-f4cb-4385-8822-c42b9b54ed74</id>
+    <title>Ramp: Software Engineer Internship, Frontend</title>
+    <link href="https://jobs.ashbyhq.com/ramp/a13ae586-f4cb-4385-8822-c42b9b54ed74"/>
+    <updated>2026-09-24T01:10:17Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · New York, NY (HQ) · $12.5K per month · TypeScript, JavaScript, React</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:jj:/job/Danvers-Massachusetts-United-States-of-America/Software-Test-Engineering-Co-op--RLM-_R-098669</id>
-    <title>Johnson &amp; Johnson: Software Test Engineering Co-op (RLM) 🛂</title>
-    <link href="https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Software-Test-Engineering-Co-op--RLM-_R-098669"/>
-    <updated>2026-09-23T22:32:36Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Software · Danvers, Massachusetts, United States of America · $23.5/hr · Python, C++, Rust, JavaScript, SQL · sponsorship: no-sponsorship · status: closed</summary>
+    <id>urn:intern-engine:ashby:ramp:fcf118cc-521a-4a62-9d13-945e5b6e3cb8</id>
+    <title>Ramp: Software Engineering Intern, Android</title>
+    <link href="https://jobs.ashbyhq.com/ramp/fcf118cc-521a-4a62-9d13-945e5b6e3cb8"/>
+    <updated>2026-09-24T01:10:17Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · New York, NY (HQ) · $12.5K per month · Kotlin</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:jj:/job/Halethorpe-Maryland-United-States-of-America/Heart-Recovery-Software-R-D-Co-Op_R-101393</id>
-    <title>Johnson &amp; Johnson: Heart Recovery Software R&amp;D Co-Op 🛂</title>
-    <link href="https://jj.wd5.myworkdayjobs.com/JJ/job/Halethorpe-Maryland-United-States-of-America/Heart-Recovery-Software-R-D-Co-Op_R-101393"/>
-    <updated>2026-09-23T22:32:36Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Software · Halethorpe, Maryland, United States of America · $23.5/hr · Python, C++, Git · sponsorship: no-sponsorship · status: closed</summary>
+    <id>urn:intern-engine:workday:snc:/job/Plano-TX/Software-Engineer-I--For-2026-Interns-Only-_R0030584</id>
+    <title>Sierra Nevada Corporation: Software Engineer I (For 2026 Interns Only) 🇺🇸</title>
+    <link href="https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Plano-TX/Software-Engineer-I--For-2026-Interns-Only-_R0030584"/>
+    <updated>2026-09-24T01:10:17Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Software · Plano, TX · Python, Java, C++, C#, Bash · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:boxinc:8226667</id>
@@ -54,6 +54,30 @@
     <updated>2026-09-23T22:32:36Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Boston, MA · H-1B track record: ~28 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:jj:/job/Danvers-Massachusetts-United-States-of-America/Software-Test-Engineering-Co-op--Beatbox-_R-098707</id>
+    <title>Johnson &amp; Johnson: Software Test Engineering Co-op (Beatbox) 🛂</title>
+    <link href="https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Software-Test-Engineering-Co-op--Beatbox-_R-098707"/>
+    <updated>2026-09-23T22:32:36Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Software · Danvers, Massachusetts, United States of America · $23.5/hr · Python, C++, Rust, JavaScript, SQL · sponsorship: no-sponsorship · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:jj:/job/Danvers-Massachusetts-United-States-of-America/Software-Test-Engineering-Co-op--RLM-_R-098669</id>
+    <title>Johnson &amp; Johnson: Software Test Engineering Co-op (RLM) 🛂</title>
+    <link href="https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Software-Test-Engineering-Co-op--RLM-_R-098669"/>
+    <updated>2026-09-23T22:32:36Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Software · Danvers, Massachusetts, United States of America · $23.5/hr · Python, C++, Rust, JavaScript, SQL · sponsorship: no-sponsorship · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:jj:/job/Halethorpe-Maryland-United-States-of-America/Heart-Recovery-Software-R-D-Co-Op_R-101393</id>
+    <title>Johnson &amp; Johnson: Heart Recovery Software R&amp;D Co-Op 🛂</title>
+    <link href="https://jj.wd5.myworkdayjobs.com/JJ/job/Halethorpe-Maryland-United-States-of-America/Heart-Recovery-Software-R-D-Co-Op_R-101393"/>
+    <updated>2026-09-23T22:32:36Z</updated>
+    <category term="Spring 2027"/>
+    <summary>Spring 2027 · Software · Halethorpe, Maryland, United States of America · $23.5/hr · Python, C++, Git · sponsorship: no-sponsorship · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:klaviyocampus:7999274003</id>
@@ -293,7 +317,7 @@
     <link href="https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba"/>
     <updated>2026-09-22T18:01:11Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Seattle, WA</summary>
+    <summary>Summer 2027 · Software · New York, NY</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:rippling:rippling:f64b6158-9534-4bab-9457-45556166b262</id>
@@ -301,7 +325,7 @@
     <link href="https://ats.rippling.com/rippling/jobs/f64b6158-9534-4bab-9457-45556166b262"/>
     <updated>2026-09-22T18:01:11Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · New York, NY</summary>
+    <summary>Summer 2027 · Software · Seattle, WA</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:rippling:rippling:f9de04c3-e2c5-41f9-8e46-a0684707f89d</id>
@@ -782,29 +806,5 @@
     <updated>2026-09-18T21:32:03Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · St Petersburg, FL · Python, C++, C#, SQL, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:VeoliaEnvironnementSA:744000150460339</id>
-    <title>Veolia: SAP &amp; ServiceNow AI Automation Intern 🛂</title>
-    <link href="https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000150460339"/>
-    <updated>2026-09-18T21:32:03Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Trevose, PA, United States (Hybrid) · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:centene:/job/Remote-MO/Cybersecurity-Summer-2027-Intern--Undergraduate-_1660514</id>
-    <title>Centene: Cybersecurity Summer 2027 Intern (Undergraduate)</title>
-    <link href="https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Cybersecurity-Summer-2027-Intern--Undergraduate-_1660514"/>
-    <updated>2026-09-18T21:32:03Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security · Remote-MO · $21–$26/hr</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:cir:/job/Fairfield-IA/Consulting-Services-AI---Automation-Intern_R-2025-223</id>
-    <title>Cambridge Investment Research: Consulting Services AI &amp; Automation Intern</title>
-    <link href="https://cir.wd108.myworkdayjobs.com/CIR_External_Career_Site/job/Fairfield-IA/Consulting-Services-AI---Automation-Intern_R-2025-223"/>
-    <updated>2026-09-18T21:32:03Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Fairfield, IA · $17–$26/hr</summary>
   </entry>
 </feed>
