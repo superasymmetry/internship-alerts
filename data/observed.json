@@ -777,9 +777,10 @@
     "Summer 2027": {
      "first_posted": "2026-09-08",
      "role_ids": [
+      "workday:chrobinson:/job/Eden-Prairie-MN-United-States-of-America/Security-Internship-2027_R49322",
       "workday:chrobinson:/job/Eden-Prairie-MN-United-States-of-America/Software-Engineering-Internship-2027_R49323"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -2522,10 +2523,11 @@
       "workday:motorolasolutions:/job/Plantation-FL/Android-Platform-Software-Engineering-Intern---Summer-2027_R67362-1",
       "workday:motorolasolutions:/job/Plantation-FL/Android-Platform-Software-Engineering-Intern---Summer-2027_R68363",
       "workday:motorolasolutions:/job/Plantation-FL/DSP--Digital-Signal-Processing--Software-Engineering-Intern---Summer-2027_R68734",
+      "workday:motorolasolutions:/job/Plantation-FL/Software-Engineering-Intern---Summer-2027_R69136",
       "workday:motorolasolutions:/job/Plantation-FL/XMLNAME-2027-Software-Engineering-Summer-Internship_R68125",
       "workday:motorolasolutions:/job/Schaumburg-IL/Mission-Critical-Networks-Software-Engineer---2027-Co-op_R67782"
      ],
-     "count": 8
+     "count": 9
     }
    }
   },
@@ -4265,5 +4267,5 @@
    }
   }
  },
- "updated_at": "2026-09-24T17:25:38Z"
+ "updated_at": "2026-09-24T20:45:51Z"
 }
