@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://superasymmetry.github.io/internship-alerts/feed.xml" rel="self"/>
   <link href="https://github.com/superasymmetry/internship-alerts"/>
-  <updated>2026-09-24T06:25:53Z</updated>
+  <updated>2026-09-24T11:59:10Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/superasymmetry/internship-alerts</uri></author>
+  <entry>
+    <id>urn:intern-engine:lever:kitware:e76197d1-4dc3-4f7c-a30a-597713283bb3</id>
+    <title>Kitware: Computer Vision Co-Op 🇺🇸</title>
+    <link href="https://jobs.lever.co/kitware/e76197d1-4dc3-4f7c-a30a-597713283bb3"/>
+    <updated>2026-09-24T11:59:10Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Clifton Park, New York · 30–45 USD/hr · Computer Vision, Python, C++, JavaScript, PostgreSQL · sponsorship: citizens-only</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:ashby:ramp:b66be397-240b-41a6-9b05-493299b270a9</id>
     <title>Ramp: Software Engineering Intern, iOS</title>
@@ -333,7 +341,7 @@
     <link href="https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba"/>
     <updated>2026-09-22T18:01:11Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · New York, NY</summary>
+    <summary>Summer 2027 · Software · San Francisco, CA</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:rippling:rippling:f64b6158-9534-4bab-9457-45556166b262</id>
@@ -341,7 +349,7 @@
     <link href="https://ats.rippling.com/rippling/jobs/f64b6158-9534-4bab-9457-45556166b262"/>
     <updated>2026-09-22T18:01:11Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Seattle, WA</summary>
+    <summary>Summer 2027 · Software · New York, NY</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:rippling:rippling:f9de04c3-e2c5-41f9-8e46-a0684707f89d</id>
@@ -798,13 +806,5 @@
     <updated>2026-09-18T23:50:26Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Livermore, CA, United States · LLMs, Kubernetes, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:jj:/job/Danvers-Massachusetts-United-States-of-America/Medical-Device-Cybersecurity-Co-Op_R-099388</id>
-    <title>Johnson &amp; Johnson: Medical Device Cybersecurity Co-Op 🛂</title>
-    <link href="https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Medical-Device-Cybersecurity-Co-Op_R-099388"/>
-    <updated>2026-09-18T23:50:26Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security · Danvers, Massachusetts, United States of America · $23.5/hr · sponsorship: no-sponsorship</summary>
   </entry>
 </feed>
