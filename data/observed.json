@@ -24,6 +24,13 @@
       "workday:abb:/job/Milpitas-California-USA/Physical-AI-Robotics-Simulation-Intern--Fall-2026_JR00044848-1",
       "workday:abb:/job/USA-NC-Cary/AI---Data-Scientist-AI-Intern---Fall-2026_JR00036225"
      ]
+    },
+    "Summer 2027": {
+     "first_posted": "2026-09-24",
+     "role_ids": [
+      "workday:abb:/job/USA-NC-Cary/IS-Common-Infrastructure-Intern--Summer-2027_JR00047125"
+     ],
+     "count": 1
     }
    }
   },
@@ -1537,6 +1544,18 @@
      "first_posted": "2026-07-08",
      "role_ids": [
       "greenhouse:flowtraders:8047166"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "formlabsinternships": {
+   "name": "Formlabsinternships",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-21",
+     "role_ids": [
+      "greenhouse:formlabsinternships:8222268"
      ],
      "count": 1
     }
@@ -4045,10 +4064,11 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-06-11",
-     "count": 2,
+     "count": 3,
      "role_ids": [
       "greenhouse:voloridgeinvestmentmanagement:4224862009",
-      "greenhouse:voloridgeinvestmentmanagement:4226247009"
+      "greenhouse:voloridgeinvestmentmanagement:4226247009",
+      "greenhouse:voloridgeinvestmentmanagement:4405530009"
      ]
     }
    }
@@ -4220,6 +4240,18 @@
     }
    }
   },
+  "zekelman industries": {
+   "name": "Zekelman Industries",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-17",
+     "role_ids": [
+      "workday:zekelman:/job/Wheatland-PA---Council-Ave/AI-Intern_JR002752"
+     ],
+     "count": 1
+    }
+   }
+  },
   "zip": {
    "name": "Zip",
    "cycles": {
@@ -4233,5 +4265,5 @@
    }
   }
  },
- "updated_at": "2026-09-24T11:59:10Z"
+ "updated_at": "2026-09-24T17:25:38Z"
 }
