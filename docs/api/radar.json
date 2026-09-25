@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-25T13:58:12Z",
- "data_as_of": "2026-09-25T13:58:12Z",
- "rendered_at": "2026-09-25T13:58:12Z",
+ "generated_at": "2026-09-25T18:47:59Z",
+ "data_as_of": "2026-09-25T18:47:59Z",
+ "rendered_at": "2026-09-25T18:48:00Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/superasymmetry/internship-alerts",
  "companies": [
@@ -1061,7 +1061,7 @@
    "expected": "2026-08-20",
    "days_until": -36,
    "status": "open",
-   "url": "https://jobs.smartrecruiters.com/AbbVie/3743990014697918",
+   "url": "https://jobs.smartrecruiters.com/AbbVie/3743990015684626",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -3740,27 +3740,8 @@
    "expected": "2026-09-17",
    "days_until": -8,
    "status": "open",
-   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Burlington-VT/SRAM-Software-Engineer-Intern--BS---Summer-2027_2603760-1",
+   "url": "https://marvell.wd1.myworkdayjobs.com/marvellcareers2/job/Burlington-VT/SRAM-Software-Engineer-Intern--BS---Summer-2027_2603760",
    "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-09-17"
-   }
-  },
-  {
-   "company": "Visa",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-17",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-17",
-   "days_until": -8,
-   "status": "open",
-   "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Ashburn-VA/Software-Engineer--Intern---2027-Ashburn--VA_REF088577W-1",
-   "note": "late-summer opening",
    "provenance": {
     "type": "engine-observed",
     "cycle": "Summer 2027",
@@ -4050,6 +4031,44 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-09-24"
+   }
+  },
+  {
+   "company": "Genesis Molecular AI",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-24",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-24",
+   "days_until": -1,
+   "status": "open",
+   "url": "https://jobs.ashbyhq.com/genesis-molecular-ai/44e3cbdc-949c-426e-a80a-b41c73ad6a99",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-24"
+   }
+  },
+  {
+   "company": "Cencora",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-25",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-25",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://myhrabc.wd5.myworkdayjobs.com/Global/job/Remote-USA/Software-Intern_R2613763",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-25"
    }
   },
   {
@@ -6101,25 +6120,6 @@
    }
   },
   {
-   "company": "The Walt Disney Company",
-   "last_cycle_posted": "",
-   "posted_on": "",
-   "precision": "month",
-   "rolling": false,
-   "confidence": "window",
-   "source": "known",
-   "expected": "2026-09-01",
-   "days_until": -24,
-   "status": "waiting",
-   "url": "",
-   "note": "fall opening, many programs",
-   "provenance": {
-    "type": "verified-window",
-    "url": "https://jobs.disneycareers.com/",
-    "verified_at": "2026-07-21"
-   }
-  },
-  {
    "company": "Twilio",
    "last_cycle_posted": "",
    "posted_on": "",
@@ -6956,6 +6956,25 @@
    }
   },
   {
+   "company": "Visa",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-17",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-17",
+   "days_until": -8,
+   "status": "dropped",
+   "url": "",
+   "note": "late-summer opening",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-17"
+   }
+  },
+  {
    "company": "Commerce Bank",
    "last_cycle_posted": "",
    "posted_on": "2026-09-21",
@@ -6973,7 +6992,26 @@
     "cycle": "Summer 2027",
     "observed_on": "2026-09-21"
    }
+  },
+  {
+   "company": "The Walt Disney Company",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-25",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-25",
+   "days_until": 0,
+   "status": "dropped",
+   "url": "",
+   "note": "fall opening, many programs",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-25"
+   }
   }
  ],
- "count": 367
+ "count": 369
 }
