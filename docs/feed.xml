@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://superasymmetry.github.io/internship-alerts/feed.xml" rel="self"/>
   <link href="https://github.com/superasymmetry/internship-alerts"/>
-  <updated>2026-09-25T08:00:06Z</updated>
+  <updated>2026-09-25T13:58:12Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/superasymmetry/internship-alerts</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:leidos:/job/Gaithersburg-MD/Software-Development-Intern_R-00193103</id>
+    <title>Leidos: Software Development Intern</title>
+    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Software-Development-Intern_R-00193103"/>
+    <updated>2026-09-25T13:58:12Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Gaithersburg, MD · Python, C++, Linux · H-1B track record: ~79 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:caci:/job/Reston-VA-US/Software-Engineering-Intern---Summer-2027_332041</id>
     <title>CACI: Software Engineering Intern - Summer 2027</title>
@@ -501,7 +509,7 @@
     <link href="https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba"/>
     <updated>2026-09-22T18:01:11Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · New York, NY</summary>
+    <summary>Summer 2027 · Software · San Francisco, CA</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:rippling:rippling:f64b6158-9534-4bab-9457-45556166b262</id>
@@ -798,13 +806,5 @@
     <updated>2026-09-22T07:57:47Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · New York · $50/hr · Python, PyTorch · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:upbound:/job/Draper-UT/Software-Engineer-Intern_R-100759-1</id>
-    <title>Acima: Software Engineer Intern</title>
-    <link href="https://upbound.wd501.myworkdayjobs.com/Acima/job/Draper-UT/Software-Engineer-Intern_R-100759-1"/>
-    <updated>2026-09-21T20:02:18Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Draper, UT · Python, TypeScript, JavaScript, Ruby, Git</summary>
   </entry>
 </feed>
