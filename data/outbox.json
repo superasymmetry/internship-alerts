@@ -1,7 +1,13 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": [],
-    "personal_email": []
+    "discord": [
+      "workday:caci:/job/Reston-VA-US/Software-Engineering-Intern---Summer-2027_332041"
+    ],
+    "telegram": [
+      "workday:caci:/job/Reston-VA-US/Software-Engineering-Intern---Summer-2027_332041"
+    ],
+    "personal_email": [
+      "workday:caci:/job/Reston-VA-US/Software-Engineering-Intern---Summer-2027_332041"
+    ]
   }
 }

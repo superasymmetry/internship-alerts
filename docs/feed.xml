@@ -5,15 +5,15 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://superasymmetry.github.io/internship-alerts/feed.xml" rel="self"/>
   <link href="https://github.com/superasymmetry/internship-alerts"/>
-  <updated>2026-09-24T23:41:16Z</updated>
+  <updated>2026-09-25T02:11:54Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/superasymmetry/internship-alerts</uri></author>
   <entry>
-    <id>urn:intern-engine:smartrecruiters:Intuitive:744000151714759</id>
-    <title>Intuitive Surgical: AI Research Intern</title>
-    <link href="https://jobs.smartrecruiters.com/Intuitive/744000151714759"/>
-    <updated>2026-09-24T23:41:16Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Data &amp; ML/AI · Sunnyvale, CA, United States · Python, PyTorch, TensorFlow, LLMs, Computer Vision · status: closed · H-1B track record: ~14 approvals (FY2022–2023)</summary>
+    <id>urn:intern-engine:workday:caci:/job/Reston-VA-US/Software-Engineering-Intern---Summer-2027_332041</id>
+    <title>CACI: Software Engineering Intern - Summer 2027</title>
+    <link href="https://caci.wd1.myworkdayjobs.com/external/job/Reston-VA-US/Software-Engineering-Intern---Summer-2027_332041"/>
+    <updated>2026-09-25T02:11:54Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Reston, VA, US · Python, Java, JavaScript, Angular, HTML/CSS</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:amazon:amazon:10559746</id>
@@ -30,6 +30,14 @@
     <updated>2026-09-24T23:41:16Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Redmond, Washington, USA · Python, Java, C++, C#, Rust · sponsorship: citizens-only · H-1B track record: ~23.1k approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:Intuitive:744000151714759</id>
+    <title>Intuitive Surgical: AI Research Intern</title>
+    <link href="https://jobs.smartrecruiters.com/Intuitive/744000151714759"/>
+    <updated>2026-09-24T23:41:16Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Data &amp; ML/AI · Sunnyvale, CA, United States · Python, PyTorch, TensorFlow, LLMs, Computer Vision · status: closed · H-1B track record: ~14 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:ameren:/job/St-Louis-MO/Intern--Robotics--AI--OT--Software-development-_033945-1</id>
@@ -49,7 +57,7 @@
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:reflect-orbital:c394615d-26c6-4435-ad84-3ca3269c2952</id>
-    <title>Reflect Orbital: Ground Software Systems Intern</title>
+    <title>Reflect Orbital: Ground Software Engineering Intern</title>
     <link href="https://jobs.ashbyhq.com/reflect-orbital/c394615d-26c6-4435-ad84-3ca3269c2952"/>
     <updated>2026-09-24T20:45:51Z</updated>
     <category term="Not stated"/>
@@ -501,7 +509,7 @@
     <link href="https://ats.rippling.com/rippling/jobs/f64b6158-9534-4bab-9457-45556166b262"/>
     <updated>2026-09-22T18:01:11Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Seattle, WA</summary>
+    <summary>Summer 2027 · Software · New York, NY</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:rippling:rippling:f9de04c3-e2c5-41f9-8e46-a0684707f89d</id>
@@ -798,13 +806,5 @@
     <updated>2026-09-21T20:02:18Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Draper, UT · Python, TypeScript, JavaScript, Ruby, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:upbound:/job/Plano-TX/Software-Engineer-Intern_R-100761</id>
-    <title>Upbound Group: Software Engineer Intern</title>
-    <link href="https://upbound.wd501.myworkdayjobs.com/Upbound/job/Plano-TX/Software-Engineer-Intern_R-100761"/>
-    <updated>2026-09-21T20:02:18Z</updated>
-    <category term="Summer 2027"/>
-    <summary>2 openings · Summer 2027 · Software · Plano, TX · $22/hr</summary>
   </entry>
 </feed>
