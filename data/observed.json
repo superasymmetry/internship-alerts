@@ -3065,6 +3065,18 @@
     }
    }
   },
+  "quera computing": {
+   "name": "QuEra Computing",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-09-27",
+     "role_ids": [
+      "greenhouse:queracomputinginc:5435902008"
+     ],
+     "count": 1
+    }
+   }
+  },
   "red bull": {
    "name": "Red Bull",
    "cycles": {
@@ -4375,5 +4387,5 @@
    }
   }
  },
- "updated_at": "2026-09-27T20:01:45Z"
+ "updated_at": "2026-09-27T23:16:40Z"
 }
