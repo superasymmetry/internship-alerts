@@ -1,7 +1,13 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": [],
-    "personal_email": []
+    "discord": [
+      "workable:rentvision:0F1C7992BF"
+    ],
+    "telegram": [
+      "workable:rentvision:0F1C7992BF"
+    ],
+    "personal_email": [
+      "workable:rentvision:0F1C7992BF"
+    ]
   }
 }
