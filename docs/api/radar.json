@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-28T16:11:44Z",
- "data_as_of": "2026-09-28T16:11:44Z",
- "rendered_at": "2026-09-28T16:11:44Z",
+ "generated_at": "2026-09-28T22:13:18Z",
+ "data_as_of": "2026-09-28T22:13:18Z",
+ "rendered_at": "2026-09-28T22:13:19Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/superasymmetry/internship-alerts",
  "companies": [
@@ -136,6 +136,25 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-06-01"
+   }
+  },
+  {
+   "company": "Anduril",
+   "last_cycle_posted": "",
+   "posted_on": "2026-06-10",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-06-10",
+   "days_until": -110,
+   "status": "open",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-06-10"
    }
   },
   {
@@ -4006,7 +4025,7 @@
    "expected": "2026-09-25",
    "days_until": -3,
    "status": "open",
-   "url": "https://myhrabc.wd5.myworkdayjobs.com/Global/job/Remote-USA/Software-Intern_R2613763",
+   "url": "https://myhrabc.wd5.myworkdayjobs.com/Global/job/Conshohocken-PA/IT-Software-Development-Intern_R2614039",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -4050,6 +4069,25 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-09-25"
+   }
+  },
+  {
+   "company": "Veterans United",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-28",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-28",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://veteransunited.wd1.myworkdayjobs.com/VUHL/job/Remote-MO/Intern---Software-Engineer---Summer-2027_R6249",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-28"
    }
   },
   {
@@ -6367,25 +6405,6 @@
    }
   },
   {
-   "company": "Anduril",
-   "last_cycle_posted": "",
-   "posted_on": "2026-06-10",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-06-10",
-   "days_until": -110,
-   "status": "dropped",
-   "url": "",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-06-10"
-   }
-  },
-  {
    "company": "Northrop Grumman",
    "last_cycle_posted": "",
    "posted_on": "2026-07-08",
@@ -7089,5 +7108,5 @@
    }
   }
  ],
- "count": 373
+ "count": 374
 }
