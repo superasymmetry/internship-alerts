@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-28T07:55:29Z",
- "data_as_of": "2026-09-28T07:55:29Z",
- "rendered_at": "2026-09-28T07:55:29Z",
+ "generated_at": "2026-09-28T16:11:44Z",
+ "data_as_of": "2026-09-28T16:11:44Z",
+ "rendered_at": "2026-09-28T16:11:44Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/superasymmetry/internship-alerts",
  "companies": [
@@ -136,25 +136,6 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-06-01"
-   }
-  },
-  {
-   "company": "Anduril",
-   "last_cycle_posted": "",
-   "posted_on": "2026-06-10",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-06-10",
-   "days_until": -110,
-   "status": "open",
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-06-10"
    }
   },
   {
@@ -1080,7 +1061,7 @@
    "expected": "2026-08-20",
    "days_until": -39,
    "status": "open",
-   "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Nashville-Tennessee-United-States/Intern--AI-Business-Operations-Nashville--TN-Summer-2027_590986",
+   "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bothell-Washington-United-States/Intern---Embedded-Systems-Test-Automation-Engineer---Bothell--WA---Summer-2027_592074",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -4034,25 +4015,6 @@
    }
   },
   {
-   "company": "RRS Group",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-25",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-25",
-   "days_until": -3,
-   "status": "open",
-   "url": "https://jobs.smartrecruiters.com/RRSGroup/744000151931819",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-09-25"
-   }
-  },
-  {
    "company": "Solar Turbines",
    "last_cycle_posted": "",
    "posted_on": "2026-09-25",
@@ -6405,6 +6367,25 @@
    }
   },
   {
+   "company": "Anduril",
+   "last_cycle_posted": "",
+   "posted_on": "2026-06-10",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-06-10",
+   "days_until": -110,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-06-10"
+   }
+  },
+  {
    "company": "Northrop Grumman",
    "last_cycle_posted": "",
    "posted_on": "2026-07-08",
@@ -7067,6 +7048,25 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-09-24"
+   }
+  },
+  {
+   "company": "RRS Group",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-25",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-25",
+   "days_until": -3,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-25"
    }
   },
   {
