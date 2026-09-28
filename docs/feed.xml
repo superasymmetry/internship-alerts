@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://superasymmetry.github.io/internship-alerts/feed.xml" rel="self"/>
   <link href="https://github.com/superasymmetry/internship-alerts"/>
-  <updated>2026-09-28T01:55:08Z</updated>
+  <updated>2026-09-28T07:55:29Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/superasymmetry/internship-alerts</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:philips:/job/Bothell-Washington-United-States/Intern---Embedded-Systems-Test-Automation-Engineer---Bothell--WA---Summer-2027_592074</id>
+    <title>Philips: Intern – Embedded Systems Test Automation Engineer – Bothell, WA – Summer 2027</title>
+    <link href="https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bothell-Washington-United-States/Intern---Embedded-Systems-Test-Automation-Engineer---Bothell--WA---Summer-2027_592074"/>
+    <updated>2026-09-28T07:55:29Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Bothell, Washington, United States · Python, C++</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:queracomputinginc:5435902008</id>
     <title>QuEra Computing: Internship - Scientific Software and Compilation</title>
@@ -435,9 +443,9 @@
     <id>urn:intern-engine:workday:chrobinson:/job/Eden-Prairie-MN-United-States-of-America/Security-Internship-2027_R49322</id>
     <title>C.H. Robinson: Cyber Security Internship 2027</title>
     <link href="https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Eden-Prairie-MN-United-States-of-America/Security-Internship-2027_R49322"/>
-    <updated>2026-09-28T01:34:52Z</updated>
+    <updated>2026-09-24T20:45:51Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security · Eden Prairie, MN United States of America · $15–$30/hr · status: closed</summary>
+    <summary>Summer 2027 · Security · Eden Prairie, MN United States of America · $15–$30/hr</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:leidos:/job/St-Louis-MO/Software-Developer-Intern_R-00192632</id>
@@ -798,13 +806,5 @@
     <updated>2026-09-22T21:29:56Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Round Rock, TX, United States · Python, C++, C#, LLMs, Computer Vision</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Software-Tools-and-Assurance-Intern_R016429</id>
-    <title>The Aerospace Corporation: 2027 Software Tools and Assurance Intern 🇺🇸</title>
-    <link href="https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Software-Tools-and-Assurance-Intern_R016429"/>
-    <updated>2026-09-22T21:29:56Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · El Segundo, CA · Python, Java, C++ · sponsorship: citizens-only</summary>
   </entry>
 </feed>
