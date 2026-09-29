@@ -1,7 +1,16 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": [],
-    "personal_email": []
+    "discord": [
+      "workday:gilead:/job/United-States---California---Foster-City/Intern---Research---Inflammation_R0054741",
+      "workday:gilead:/job/United-States---California---Foster-City/Intern---Research---Protein-Therapeutics--Computational-Biologics-Engineering_R0054739"
+    ],
+    "telegram": [
+      "workday:gilead:/job/United-States---California---Foster-City/Intern---Research---Inflammation_R0054741",
+      "workday:gilead:/job/United-States---California---Foster-City/Intern---Research---Protein-Therapeutics--Computational-Biologics-Engineering_R0054739"
+    ],
+    "personal_email": [
+      "workday:gilead:/job/United-States---California---Foster-City/Intern---Research---Inflammation_R0054741",
+      "workday:gilead:/job/United-States---California---Foster-City/Intern---Research---Protein-Therapeutics--Computational-Biologics-Engineering_R0054739"
+    ]
   }
 }
