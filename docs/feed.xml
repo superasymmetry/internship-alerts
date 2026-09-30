@@ -5,16 +5,8 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://superasymmetry.github.io/internship-alerts/feed.xml" rel="self"/>
   <link href="https://github.com/superasymmetry/internship-alerts"/>
-  <updated>2026-09-30T05:42:44Z</updated>
+  <updated>2026-09-30T11:39:12Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/superasymmetry/internship-alerts</uri></author>
-  <entry>
-    <id>urn:intern-engine:workday:marvell:/job/Santa-Clara-CA/Machine-Learning-Engineer-Intern--BS-MS---Summer-2027_2603860-1</id>
-    <title>Marvell: Machine Learning Engineer Intern, BS/MS - Summer 2027</title>
-    <link href="https://marvell.wd1.myworkdayjobs.com/marvellcareers2/job/Santa-Clara-CA/Machine-Learning-Engineer-Intern--BS-MS---Summer-2027_2603860-1"/>
-    <updated>2026-09-30T05:42:44Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Santa Clara, CA · Python, CUDA, AWS, GCP, Azure</summary>
-  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:muonspace:5252680007</id>
     <title>Muon Space: GNC Software Engineering Intern (Summer 2027)</title>
@@ -22,6 +14,22 @@
     <updated>2026-09-30T05:42:44Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Mountain View, CA · $40/hr · Python, C++</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Software-Engineering-Co-op---Embedded-Linux--Spring-Summer-2027-_01876384</id>
+    <title>RTX: Software Engineering Co-op  (Spring/Summer 2027) 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Software-Engineering-Co-op---Embedded-Linux--Spring-Summer-2027-_01876384"/>
+    <updated>2026-09-30T05:42:44Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · US-IA-CEDAR RAPIDS-166 ~ 855 35Th St NE ~ BLDG 166 · Python, C++, Bash, Linux, Git · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:marvell:/job/Santa-Clara-CA/Machine-Learning-Engineer-Intern--BS-MS---Summer-2027_2603860-1</id>
+    <title>Marvell: Machine Learning Engineer Intern, BS/MS - Summer 2027</title>
+    <link href="https://marvell.wd1.myworkdayjobs.com/marvellcareers2/job/Santa-Clara-CA/Machine-Learning-Engineer-Intern--BS-MS---Summer-2027_2603860-1"/>
+    <updated>2026-09-30T05:42:44Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Santa Clara, CA · Python, CUDA, AWS, GCP, Azure</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:ngc:/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Embedded-Software-Engineer-Intern---Rolling-Meadows-IL_R10252790</id>
@@ -38,14 +46,6 @@
     <updated>2026-09-30T05:42:44Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · United States-Illinois-Rolling Meadows · $20.5–$37.25/hr · Python, C++, MATLAB, Verilog · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Software-Engineering-Co-op---Embedded-Linux--Spring-Summer-2027-_01876384</id>
-    <title>RTX: Software Engineering Co-op  (Spring/Summer 2027) 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Software-Engineering-Co-op---Embedded-Linux--Spring-Summer-2027-_01876384"/>
-    <updated>2026-09-30T05:42:44Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · US-IA-CEDAR RAPIDS-166 ~ 855 35Th St NE ~ BLDG 166 · Python, C++, Bash, Linux, Git · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:microchiphr:/job/AZ---Chandler/Intern-Engineering--Software-_R4091-26</id>
@@ -230,6 +230,14 @@
     <updated>2026-09-28T22:13:18Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Chantilly, VA · Python, Java, C++, AWS, Azure · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Intern--Summer-2027-_01874696</id>
+    <title>RTX: Software Engineering Intern (Summer 2027) 🛂</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Intern--Summer-2027-_01874696"/>
+    <updated>2026-09-30T11:39:12Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd NE ~ BLDG 105 · Python, Java, C++, C# · sponsorship: no-sponsorship · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Intern-----Summer-2027-_01867602</id>
@@ -798,13 +806,5 @@
     <updated>2026-09-24T20:45:51Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Hawthorne, CA · $27 – $31 per hour · Python, C++, AWS, Kubernetes, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:eqtcorporation:5424757008</id>
-    <title>EQT Corporation: Water Infrastructure Engineering Intern</title>
-    <link href="https://job-boards.greenhouse.io/eqtcorporation/jobs/5424757008"/>
-    <updated>2026-09-24T20:45:51Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Canonsburg, PA</summary>
   </entry>
 </feed>
