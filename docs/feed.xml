@@ -5,8 +5,48 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://superasymmetry.github.io/internship-alerts/feed.xml" rel="self"/>
   <link href="https://github.com/superasymmetry/internship-alerts"/>
-  <updated>2026-09-29T23:58:27Z</updated>
+  <updated>2026-09-30T05:42:44Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/superasymmetry/internship-alerts</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:marvell:/job/Santa-Clara-CA/Machine-Learning-Engineer-Intern--BS-MS---Summer-2027_2603860-1</id>
+    <title>Marvell: Machine Learning Engineer Intern, BS/MS - Summer 2027</title>
+    <link href="https://marvell.wd1.myworkdayjobs.com/marvellcareers2/job/Santa-Clara-CA/Machine-Learning-Engineer-Intern--BS-MS---Summer-2027_2603860-1"/>
+    <updated>2026-09-30T05:42:44Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Santa Clara, CA · Python, CUDA, AWS, GCP, Azure</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:muonspace:5252680007</id>
+    <title>Muon Space: GNC Software Engineering Intern (Summer 2027)</title>
+    <link href="https://job-boards.greenhouse.io/muonspace/jobs/5252680007"/>
+    <updated>2026-09-30T05:42:44Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Mountain View, CA · $40/hr · Python, C++</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ngc:/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Embedded-Software-Engineer-Intern---Rolling-Meadows-IL_R10252790</id>
+    <title>Northrop Grumman: 2027 Embedded Software Engineer Intern – Rolling Meadows IL 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Embedded-Software-Engineer-Intern---Rolling-Meadows-IL_R10252790"/>
+    <updated>2026-09-30T05:42:44Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · United States-Illinois-Rolling Meadows · $20.5–$37.25/hr · Java, C++, Git · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ngc:/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Software-Digital-Intern---Rolling-Meadows-IL_R10252812</id>
+    <title>Northrop Grumman: 2027 Software Digital Intern - Rolling Meadows IL 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Software-Digital-Intern---Rolling-Meadows-IL_R10252812"/>
+    <updated>2026-09-30T05:42:44Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · United States-Illinois-Rolling Meadows · $20.5–$37.25/hr · Python, C++, MATLAB, Verilog · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Software-Engineering-Co-op---Embedded-Linux--Spring-Summer-2027-_01876384</id>
+    <title>RTX: Software Engineering Co-op  (Spring/Summer 2027) 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Software-Engineering-Co-op---Embedded-Linux--Spring-Summer-2027-_01876384"/>
+    <updated>2026-09-30T05:42:44Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · US-IA-CEDAR RAPIDS-166 ~ 855 35Th St NE ~ BLDG 166 · Python, C++, Bash, Linux, Git · sponsorship: citizens-only</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:microchiphr:/job/AZ---Chandler/Intern-Engineering--Software-_R4091-26</id>
     <title>Microchip Technology: Intern-Engineering (Software)</title>
@@ -17,11 +57,11 @@
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:gitai:5437128008</id>
-    <title>GITAI: Field-Deployed Software Engineering Intern – Immediate Start 🇺🇸</title>
+    <title>GITAI: Field-Deployed Software Engineering Intern – Fall 2026 / Spring 2027 🇺🇸</title>
     <link href="https://job-boards.greenhouse.io/gitai/jobs/5437128008"/>
     <updated>2026-09-29T20:17:28Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Los Angeles, California, United States · $28–$40/hr · Python, C++, PyTorch, Computer Vision, Linux · sponsorship: citizens-only</summary>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Software · Los Angeles, California, United States · $28–$40/hr · Python, C++, PyTorch, Computer Vision, Linux · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:ejia.fa.us6.oraclecloud.com:107307</id>
@@ -766,45 +806,5 @@
     <updated>2026-09-24T20:45:51Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Canonsburg, PA</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com:260821</id>
-    <title>GM financial: Intern - Data Engineer</title>
-    <link href="https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260821"/>
-    <updated>2026-09-24T20:45:51Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Arlington, TX, United States · Python, Java, C++, LLMs, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:chrobinson:/job/Eden-Prairie-MN-United-States-of-America/Security-Internship-2027_R49322</id>
-    <title>C.H. Robinson: Cyber Security Internship 2027</title>
-    <link href="https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Eden-Prairie-MN-United-States-of-America/Security-Internship-2027_R49322"/>
-    <updated>2026-09-24T20:45:51Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security · Eden Prairie, MN United States of America · $15–$30/hr</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:leidos:/job/St-Louis-MO/Software-Developer-Intern_R-00192632</id>
-    <title>Leidos: Software Developer Intern 🇺🇸</title>
-    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/St-Louis-MO/Software-Developer-Intern_R-00192632"/>
-    <updated>2026-09-24T20:45:51Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · St. Louis, MO · Python, Java, C#, TypeScript, JavaScript · sponsorship: citizens-only · H-1B track record: ~79 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:motorolasolutions:/job/Plantation-FL/Software-Engineering-Intern---Summer-2027_R69136</id>
-    <title>Motorola: Software Engineering Intern - Summer 2027 🇺🇸</title>
-    <link href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Software-Engineering-Intern---Summer-2027_R69136"/>
-    <updated>2026-09-24T20:45:51Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Plantation, FL · Java, C++, C#, SQL, .NET · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:wexinc:/job/US---Remote/Software-Engineering-Intern---Enterprise-Data---Systems--Salesforce---Snowflake---Graduate-Master-s-_R22543</id>
-    <title>Wex: Software Engineering Intern - Enterprise Data &amp; Systems (Salesforce &amp; Snowflake) (Graduate/Master's)</title>
-    <link href="https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Software-Engineering-Intern---Enterprise-Data---Systems--Salesforce---Snowflake---Graduate-Master-s-_R22543"/>
-    <updated>2026-09-29T23:58:26Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · US - Remote · Snowflake, Python, Java, SQL, Git · status: closed · H-1B track record: ~22 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
