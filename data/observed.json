@@ -173,10 +173,11 @@
     "Summer 2027": {
      "first_posted": "2026-09-08",
      "role_ids": [
+      "ashby:allen-control-systems:1cd2b432-9a01-4ae0-8eb2-6ebd9c278b94",
       "ashby:allen-control-systems:a7831fef-7125-4c03-b828-5f0472989037",
       "ashby:allen-control-systems:ed5c58a7-6a3c-474b-aa07-43ff2051cb5c"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -237,7 +238,7 @@
     },
     "Summer 2027": {
      "first_posted": "2026-05-13",
-     "count": 8,
+     "count": 9,
      "role_ids": [
       "amazon:amazon:10418355",
       "amazon:amazon:10456239",
@@ -246,7 +247,8 @@
       "amazon:amazon:10552937",
       "amazon:amazon:10557133",
       "amazon:amazon:10559746",
-      "amazon:amazon:10559762"
+      "amazon:amazon:10559762",
+      "amazon:amazon:10565667"
      ]
     }
    }
@@ -842,6 +844,7 @@
       "workday:caci:/job/Danbury-CT-US/Software-Engineering-Co-op---Summer---Fall-2027_331354",
       "workday:caci:/job/Denver-CO-US/DevOps-Software-Engineering-Intern---Summer-2027_331798",
       "workday:caci:/job/Denver-CO-US/Software-Engineering-Intern---Summer-2027_331543-1",
+      "workday:caci:/job/Florham-Park-NJ-US/Software-Network-Engineering-Intern---Summer-2027_332895",
       "workday:caci:/job/Lisle-IL-US/Software-Engineering-Intern---Summer-2027_331742",
       "workday:caci:/job/Omaha-NE-US/Software-Engineer-Intern---Summer-2027_332776",
       "workday:caci:/job/Reston-VA-US/Software-Engineering-Intern---Summer-2027_332041",
@@ -852,7 +855,7 @@
       "workday:caci:/job/Sterling-VA-US/Software-Engineering-Intern---Summer-2027_332386",
       "workday:caci:/job/Ypsilanti-MI-US/Software-Engineer-Intern---Summer-2027_331648"
      ],
-     "count": 14
+     "count": 15
     }
    }
   },
@@ -2656,9 +2659,10 @@
     "Summer 2027": {
      "first_posted": "2026-09-29",
      "role_ids": [
+      "greenhouse:muonspace:5247725007",
       "greenhouse:muonspace:5252680007"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -2765,7 +2769,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-07-08",
-     "count": 24,
+     "count": 26,
      "role_ids": [
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Engineering-Intern--Huntsville-AL_R10247486",
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Test-Engineering-Intern--Huntsville-AL_R10247483",
@@ -2785,8 +2789,10 @@
       "workday:ngc:/job/United-States-Florida-Tampa/XMLNAME-2027-Cyber-Systems-Engineer-Intern-Tampa-FL_R10249196",
       "workday:ngc:/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Embedded-Software-Engineer-Intern---Rolling-Meadows-IL_R10252790",
       "workday:ngc:/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Software-Digital-Intern---Rolling-Meadows-IL_R10252812",
+      "workday:ngc:/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Software-Engineer-Intern---Rolling-Meadows-IL_R10253772",
       "workday:ngc:/job/United-States-Maryland-Baltimore/XMLNAME-2027-Embedded-Software-Engineer-Intern---Baltimore-MD_R10251464",
       "workday:ngc:/job/United-States-Maryland-Linthicum/XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910",
+      "workday:ngc:/job/United-States-North-Carolina-Morrisville/XMLNAME-2027-Software-Engineer-Intern---Morrisville-NC_R10253768",
       "workday:ngc:/job/United-States-Ohio-Cincinnati/XMLNAME-2027-Cyber-Software-Engineer-Intern---Cincinnati-OH_R10249186",
       "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Cyber-Systems-Engineer-Intern---Roy-UT_R10249471",
       "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10249842",
@@ -3654,9 +3660,10 @@
     "Fall 2026": {
      "first_posted": "2026-09-23",
      "role_ids": [
+      "workday:snc:/job/Lone-Tree-CO/Systems-Security-Engineer-I--For-2026-Interns-Only-_R0030608",
       "workday:snc:/job/Plano-TX/Software-Engineer-I--For-2026-Interns-Only-_R0030584"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -4406,9 +4413,10 @@
       "greenhouse:waymo:8198218",
       "greenhouse:waymo:8203200",
       "greenhouse:waymo:8221198",
-      "greenhouse:waymo:8224900"
+      "greenhouse:waymo:8224900",
+      "greenhouse:waymo:8238525"
      ],
-     "count": 7
+     "count": 8
     }
    }
   },
@@ -4548,5 +4556,5 @@
    }
   }
  },
- "updated_at": "2026-09-30T17:17:44Z"
+ "updated_at": "2026-09-30T21:41:25Z"
 }
