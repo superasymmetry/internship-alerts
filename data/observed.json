@@ -1399,9 +1399,10 @@
     "Summer 2027": {
      "first_posted": "2026-08-07",
      "role_ids": [
-      "workday:dukeenergy:/job/Charlotte-NC/Asc-Cybersecurity-Gov-Risk-Analyst---Intern-Co-op-Conversion-2027--Souza-_R40863"
+      "workday:dukeenergy:/job/Charlotte-NC/Asc-Cybersecurity-Gov-Risk-Analyst---Intern-Co-op-Conversion-2027--Souza-_R40863",
+      "workday:dukeenergy:/job/Lake-Mary-FL/PGO-Cybersecurity-Summer-2027-Internship_R41822"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -2922,9 +2923,10 @@
     "Summer 2027": {
      "first_posted": "2026-07-15",
      "role_ids": [
-      "greenhouse:oldmissioncapital:7796180003"
+      "greenhouse:oldmissioncapital:7796180003",
+      "greenhouse:oldmissioncapital:8002345003"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -4566,5 +4568,5 @@
    }
   }
  },
- "updated_at": "2026-10-01T07:28:20Z"
+ "updated_at": "2026-10-01T15:07:37Z"
 }

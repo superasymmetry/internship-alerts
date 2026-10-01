@@ -5,15 +5,23 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://superasymmetry.github.io/internship-alerts/feed.xml" rel="self"/>
   <link href="https://github.com/superasymmetry/internship-alerts"/>
-  <updated>2026-10-01T07:28:20Z</updated>
+  <updated>2026-10-01T15:07:37Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/superasymmetry/internship-alerts</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:marvell:/job/IN---Pune/Intern--Software-QA-Engineer_2603892</id>
-    <title>Marvell: Intern, Software QA Engineer</title>
-    <link href="https://marvell.wd1.myworkdayjobs.com/marvellcareers2/job/IN---Pune/Intern--Software-QA-Engineer_2603892"/>
-    <updated>2026-10-01T07:28:20Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · IN - Pune · Python, C++</summary>
+    <id>urn:intern-engine:workday:dukeenergy:/job/Lake-Mary-FL/PGO-Cybersecurity-Summer-2027-Internship_R41822</id>
+    <title>Duke Energy: PGO Cybersecurity Summer 2027 Internship</title>
+    <link href="https://dukeenergy.wd1.myworkdayjobs.com/search/job/Lake-Mary-FL/PGO-Cybersecurity-Summer-2027-Internship_R41822"/>
+    <updated>2026-10-01T15:07:37Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security · Lake Mary, FL · Python, Java, JavaScript, SQL, Angular</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:oldmissioncapital:8002345003</id>
+    <title>Old Mission Capital: Quantitative Trader - 2027 Micro-Internship Program (January Start)</title>
+    <link href="https://www.oldmissioncapital.com/careers/?gh_jid=8002345003"/>
+    <updated>2026-10-01T15:07:37Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Quant · Chicago, IL, United States · Python</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:vardaspace:8005821003</id>
@@ -30,6 +38,14 @@
     <updated>2026-10-01T07:28:20Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · El Segundo, California, United States · C++, Linux · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:marvell:/job/IN---Pune/Intern--Software-QA-Engineer_2603892</id>
+    <title>Marvell: Intern, Software QA Engineer</title>
+    <link href="https://marvell.wd1.myworkdayjobs.com/marvellcareers2/job/IN---Pune/Intern--Software-QA-Engineer_2603892"/>
+    <updated>2026-10-01T07:28:20Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · IN - Pune · Python, C++</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:genscript:5253581007</id>
@@ -790,21 +806,5 @@
     <updated>2026-09-25T22:06:41Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · United States - California - Foster City · Python, LLMs · sponsorship: no-sponsorship · H-1B track record: ~272 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:gilead:/job/United-States---California---Foster-City/Intern---Research---Strategy--Innovation---Portfolio_R0054502</id>
-    <title>Gilead Sciences: Intern - Research - Strategy, Innovation &amp; Portfolio - AI 🛂</title>
-    <link href="https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Strategy--Innovation---Portfolio_R0054502"/>
-    <updated>2026-09-25T22:06:41Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · United States - California - Foster City · Python, SQL, LLMs, Git · sponsorship: no-sponsorship · H-1B track record: ~272 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:micron:/job/Folsom-CA/Intern---AI-Agentic-Systems-Engineer_JR110474</id>
-    <title>Micron Technology: Intern - AI Agentic Systems Engineer</title>
-    <link href="https://micron.wd1.myworkdayjobs.com/External/job/Folsom-CA/Intern---AI-Agentic-Systems-Engineer_JR110474"/>
-    <updated>2026-09-25T22:06:41Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Folsom, CA · Python, LLMs, AWS, GCP, Azure · H-1B track record: ~489 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
