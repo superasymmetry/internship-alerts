@@ -1,7 +1,22 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": [],
-    "personal_email": []
+    "discord": [
+      "workday:allegion:/job/Golden-CO/Summer-Intern---Summer-Intern---Software-Engineering---Quality-Assurance_JR37856-1",
+      "workday:amgen:/job/United-States---Remote/Undergrad-Intern---Digital-Product---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255711",
+      "workday:amgen:/job/United-States---Remote/Grad-Intern---Digital-Product---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255744",
+      "greenhouse:genscript:5253581007"
+    ],
+    "telegram": [
+      "workday:allegion:/job/Golden-CO/Summer-Intern---Summer-Intern---Software-Engineering---Quality-Assurance_JR37856-1",
+      "workday:amgen:/job/United-States---Remote/Undergrad-Intern---Digital-Product---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255711",
+      "workday:amgen:/job/United-States---Remote/Grad-Intern---Digital-Product---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255744",
+      "greenhouse:genscript:5253581007"
+    ],
+    "personal_email": [
+      "workday:allegion:/job/Golden-CO/Summer-Intern---Summer-Intern---Software-Engineering---Quality-Assurance_JR37856-1",
+      "workday:amgen:/job/United-States---Remote/Undergrad-Intern---Digital-Product---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255711",
+      "workday:amgen:/job/United-States---Remote/Grad-Intern---Digital-Product---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255744",
+      "greenhouse:genscript:5253581007"
+    ]
   }
 }
