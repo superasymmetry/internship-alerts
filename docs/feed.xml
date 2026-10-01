@@ -5,8 +5,40 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://superasymmetry.github.io/internship-alerts/feed.xml" rel="self"/>
   <link href="https://github.com/superasymmetry/internship-alerts"/>
-  <updated>2026-10-01T01:04:17Z</updated>
+  <updated>2026-10-01T07:28:20Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/superasymmetry/internship-alerts</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:marvell:/job/IN---Pune/Intern--Software-QA-Engineer_2603892</id>
+    <title>Marvell: Intern, Software QA Engineer</title>
+    <link href="https://marvell.wd1.myworkdayjobs.com/marvellcareers2/job/IN---Pune/Intern--Software-QA-Engineer_2603892"/>
+    <updated>2026-10-01T07:28:20Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · IN - Pune · Python, C++</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:vardaspace:8005821003</id>
+    <title>Varda Space: Cybersecurity Internship - Summer 2027 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/vardaspace/jobs/8005821003"/>
+    <updated>2026-10-01T07:28:20Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security · El Segundo, California, United States · Python, Bash · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:vardaspace:8010159003</id>
+    <title>Varda Space: Flight Software Internship - Summer 2027 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/vardaspace/jobs/8010159003"/>
+    <updated>2026-10-01T07:28:20Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · El Segundo, California, United States · C++, Linux · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:genscript:5253581007</id>
+    <title>GenScript: AI Intern, Enterprise Agent Development</title>
+    <link href="https://job-boards.greenhouse.io/genscript/jobs/5253581007"/>
+    <updated>2026-10-01T01:04:16Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Piscataway, New Jersey, United States · $30–$40/hr · Python, Java, LLMs</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:allegion:/job/Golden-CO/Summer-Intern---Summer-Intern---Software-Engineering---Quality-Assurance_JR37856-1</id>
     <title>Allegion: Summer Intern - Software Engineering - Quality Assurance</title>
@@ -14,14 +46,6 @@
     <updated>2026-10-01T01:04:16Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Golden, CO · $25–$26/hr · Python, C#, AWS, Azure, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:amgen:/job/United-States---Remote/Undergrad-Intern---Digital-Product---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255711</id>
-    <title>Amgen: Undergrad Intern – Digital Product – Technology, AI &amp; Data (Summer 2027)</title>
-    <link href="https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Digital-Product---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255711"/>
-    <updated>2026-10-01T01:04:16Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · United States - Remote · $28.87/hr · Python, Java, SQL, Scala · H-1B track record: ~768 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:amgen:/job/United-States---Remote/Grad-Intern---Digital-Product---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255744</id>
@@ -32,12 +56,12 @@
     <summary>Summer 2027 · Data &amp; ML/AI · United States - Remote · $35.34–$41.2/hr · Python, Java, SQL, Scala · H-1B track record: ~768 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:genscript:5253581007</id>
-    <title>GenScript: AI Intern, Enterprise Agent Development</title>
-    <link href="https://job-boards.greenhouse.io/genscript/jobs/5253581007"/>
+    <id>urn:intern-engine:workday:amgen:/job/United-States---Remote/Undergrad-Intern---Digital-Product---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255711</id>
+    <title>Amgen: Undergrad Intern – Digital Product – Technology, AI &amp; Data (Summer 2027)</title>
+    <link href="https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Digital-Product---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255711"/>
     <updated>2026-10-01T01:04:16Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Piscataway, New Jersey, United States · $30–$40/hr · Python, Java, LLMs</summary>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · United States - Remote · $28.87/hr · Python, Java, SQL, Scala · H-1B track record: ~768 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:amazon:amazon:10565667</id>
@@ -782,29 +806,5 @@
     <updated>2026-09-25T22:06:41Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Folsom, CA · Python, LLMs, AWS, GCP, Azure · H-1B track record: ~489 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:novanta:/job/Apex-NC/Computer-Software-Engineering-Co-op_R009760</id>
-    <title>Novanta: Computer Software Engineering Co-op 🇺🇸</title>
-    <link href="https://novanta.wd5.myworkdayjobs.com/Novanta-Careers/job/Apex-NC/Computer-Software-Engineering-Co-op_R009760"/>
-    <updated>2026-09-25T22:06:41Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Apex, NC · C++, C# · sponsorship: citizens-only · H-1B track record: ~10 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:genesis-molecular-ai:44e3cbdc-949c-426e-a80a-b41c73ad6a99</id>
-    <title>Genesis Molecular AI: Software Engineer Intern - 2027</title>
-    <link href="https://jobs.ashbyhq.com/genesis-molecular-ai/44e3cbdc-949c-426e-a80a-b41c73ad6a99"/>
-    <updated>2026-09-26T00:34:27Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · San Mateo, CA · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:geocgi:4420076009</id>
-    <title>Geospatial Consulting Group International: Application Developer Intern (Remote)</title>
-    <link href="https://job-boards.greenhouse.io/geocgi/jobs/4420076009"/>
-    <updated>2026-09-26T00:53:22Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Remote from US · Python, Java, C#, SQL, LLMs · status: closed</summary>
   </entry>
 </feed>
