@@ -1170,10 +1170,11 @@
     "Summer 2027": {
      "first_posted": "2026-09-14",
      "role_ids": [
+      "workday:costar:/job/Sunnyvale-US/Embedded-Software-Engineering-Intern_R39950",
       "workday:costar:/job/US-VA-Arlington/Security-Engineer-Intern---Arlington--VA_R39727",
       "workday:costar:/job/US-VA-Richmond/Security-Engineer-Intern---Richmond--VA_R39726"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -2036,9 +2037,10 @@
     "Summer 2027": {
      "first_posted": "2026-09-09",
      "role_ids": [
+      "workday:hmhw:/job/Houston-TX/AI---Automation-Development-Intern_JR102458",
       "workday:hmhw:/job/Houston-TX/Software-Engineering-Intern_JR102384"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -4444,12 +4446,13 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-06-01",
-     "count": 4,
+     "count": 5,
      "role_ids": [
       "greenhouse:walleyecapital-external-students:4676334006",
       "greenhouse:walleyecapital-external-students:4676587006",
       "greenhouse:walleyecapital-external-students:4679168006",
-      "greenhouse:walleyecapital-external-students:4679434006"
+      "greenhouse:walleyecapital-external-students:4679434006",
+      "greenhouse:walleyecapital-external-students:4716166006"
      ]
     }
    }
@@ -4645,5 +4648,5 @@
    }
   }
  },
- "updated_at": "2026-10-01T20:33:40Z"
+ "updated_at": "2026-10-02T00:27:01Z"
 }

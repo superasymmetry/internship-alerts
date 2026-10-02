@@ -1,7 +1,22 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": [],
-    "personal_email": []
+    "discord": [
+      "workday:costar:/job/Sunnyvale-US/Embedded-Software-Engineering-Intern_R39950",
+      "greenhouse:gassouth:8247622",
+      "workday:hmhw:/job/Houston-TX/AI---Automation-Development-Intern_JR102458",
+      "greenhouse:walleyecapital-external-students:4716166006"
+    ],
+    "telegram": [
+      "workday:costar:/job/Sunnyvale-US/Embedded-Software-Engineering-Intern_R39950",
+      "greenhouse:gassouth:8247622",
+      "workday:hmhw:/job/Houston-TX/AI---Automation-Development-Intern_JR102458",
+      "greenhouse:walleyecapital-external-students:4716166006"
+    ],
+    "personal_email": [
+      "workday:costar:/job/Sunnyvale-US/Embedded-Software-Engineering-Intern_R39950",
+      "greenhouse:gassouth:8247622",
+      "workday:hmhw:/job/Houston-TX/AI---Automation-Development-Intern_JR102458",
+      "greenhouse:walleyecapital-external-students:4716166006"
+    ]
   }
 }
