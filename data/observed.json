@@ -1819,6 +1819,14 @@
      "role_ids": [
       "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2026-Fall-Intern---Research---Development--AI-ML_JR-202612795"
      ]
+    },
+    "Summer 2027": {
+     "first_posted": "2026-10-01",
+     "role_ids": [
+      "workday:generalmotors:/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicle--Simulation_JR-202621508",
+      "workday:generalmotors:/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Software-Engineer--Autonomous-Vehicle--Simulation_JR-202621503"
+     ],
+     "count": 2
     }
    }
   },
@@ -4648,5 +4656,5 @@
    }
   }
  },
- "updated_at": "2026-10-02T00:27:01Z"
+ "updated_at": "2026-10-02T06:26:49Z"
 }

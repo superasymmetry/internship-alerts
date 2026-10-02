@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-02T00:27:01Z",
- "data_as_of": "2026-10-02T00:27:01Z",
- "rendered_at": "2026-10-02T00:27:01Z",
+ "generated_at": "2026-10-02T06:26:49Z",
+ "data_as_of": "2026-10-02T06:26:49Z",
+ "rendered_at": "2026-10-02T06:26:50Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/superasymmetry/internship-alerts",
  "companies": [
@@ -2923,7 +2923,7 @@
    "expected": "2026-09-10",
    "days_until": -22,
    "status": "open",
-   "url": "https://job-boards.greenhouse.io/hudl/jobs/8114314",
+   "url": "https://job-boards.greenhouse.io/hudl/jobs/8155102",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -3208,7 +3208,7 @@
    "expected": "2026-09-14",
    "days_until": -18,
    "status": "open",
-   "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-VA-Arlington/Security-Engineer-Intern---Arlington--VA_R39727",
+   "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Embedded-Software-Engineering-Intern_R39950",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -4198,6 +4198,25 @@
    "status": "open",
    "url": "https://atcllc.wd5.myworkdayjobs.com/atcllc/job/Pewaukee-WI/Intern---Cyber-Security-Summer-2027_R0003307",
    "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-10-01"
+   }
+  },
+  {
+   "company": "General Motors",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-01",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-01",
+   "days_until": -1,
+   "status": "open",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Software-Engineer--Autonomous-Vehicle--Simulation_JR-202621503",
+   "note": "fall opening",
    "provenance": {
     "type": "engine-observed",
     "cycle": "Summer 2027",
@@ -5641,25 +5660,6 @@
    "provenance": {
     "type": "verified-window",
     "url": "https://corporate.ford.com/careers.html",
-    "verified_at": "2026-07-21"
-   }
-  },
-  {
-   "company": "General Motors",
-   "last_cycle_posted": "",
-   "posted_on": "",
-   "precision": "month",
-   "rolling": false,
-   "confidence": "window",
-   "source": "known",
-   "expected": "2026-09-01",
-   "days_until": -31,
-   "status": "waiting",
-   "url": "",
-   "note": "fall opening",
-   "provenance": {
-    "type": "verified-window",
-    "url": "https://search-careers.gm.com/en/",
     "verified_at": "2026-07-21"
    }
   },

@@ -5,15 +5,31 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://superasymmetry.github.io/internship-alerts/feed.xml" rel="self"/>
   <link href="https://github.com/superasymmetry/internship-alerts"/>
-  <updated>2026-10-02T00:27:01Z</updated>
+  <updated>2026-10-02T06:26:49Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/superasymmetry/internship-alerts</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:costar:/job/Sunnyvale-US/Embedded-Software-Engineering-Intern_R39950</id>
-    <title>CoStar Group: Embedded Software Engineering Intern 🛂</title>
-    <link href="https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Embedded-Software-Engineering-Intern_R39950"/>
-    <updated>2026-10-02T00:27:01Z</updated>
+    <id>urn:intern-engine:workday:generalmotors:/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Software-Engineer--Autonomous-Vehicle--Simulation_JR-202621503</id>
+    <title>General Motors: 2027 Summer Intern - Software Engineer, Autonomous Vehicle: Simulation</title>
+    <link href="https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Software-Engineer--Autonomous-Vehicle--Simulation_JR-202621503"/>
+    <updated>2026-10-02T06:26:49Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Sunnyvale (US) · Python, C++, MATLAB, PyTorch, TensorFlow · sponsorship: no-sponsorship</summary>
+    <summary>Summer 2027 · Software · Sunnyvale, California, United States of America · Python, C++ · H-1B track record: ~928 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:generalmotors:/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicle--Simulation_JR-202621508</id>
+    <title>General Motors: 2027 Summer Intern - AI/ML Engineer, Autonomous Vehicle: Simulation</title>
+    <link href="https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicle--Simulation_JR-202621508"/>
+    <updated>2026-10-02T06:26:49Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Sunnyvale, California, United States of America · Python, Java, C++, PyTorch, TensorFlow · H-1B track record: ~928 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:profluent:5441955008</id>
+    <title>Profluent: Intern, Software Engineering</title>
+    <link href="https://job-boards.greenhouse.io/profluent/jobs/5441955008"/>
+    <updated>2026-10-02T06:26:49Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Emeryville, California, United States · Python</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:gassouth:8247622</id>
@@ -24,20 +40,28 @@
     <summary>Not stated · Software · Atlanta, Georgia · C#, SQL, Angular, HTML/CSS, Azure</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:hmhw:/job/Houston-TX/AI---Automation-Development-Intern_JR102458</id>
-    <title>HMH: AI &amp; Automation Development Intern</title>
-    <link href="https://hmhw.wd12.myworkdayjobs.com/hmh_careers/job/Houston-TX/AI---Automation-Development-Intern_JR102458"/>
-    <updated>2026-10-02T00:27:01Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Houston, TX · Python, SQL, LLMs</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:greenhouse:walleyecapital-external-students:4716166006</id>
     <title>Walleye Capital: Special Projects Developer Intern (Summer 2027)</title>
     <link href="https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4716166006"/>
     <updated>2026-10-02T00:27:01Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · New York, New York · Python, SQL, LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:costar:/job/Sunnyvale-US/Embedded-Software-Engineering-Intern_R39950</id>
+    <title>CoStar Group: Embedded Software Engineering Intern 🛂</title>
+    <link href="https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Embedded-Software-Engineering-Intern_R39950"/>
+    <updated>2026-10-02T00:27:01Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Sunnyvale (US) · Python, C++, MATLAB, PyTorch, TensorFlow · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:hmhw:/job/Houston-TX/AI---Automation-Development-Intern_JR102458</id>
+    <title>HMH: AI &amp; Automation Development Intern</title>
+    <link href="https://hmhw.wd12.myworkdayjobs.com/hmh_careers/job/Houston-TX/AI---Automation-Development-Intern_JR102458"/>
+    <updated>2026-10-02T00:27:01Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Houston, TX · Python, SQL, LLMs</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:gleanwork:4595665005</id>
@@ -782,29 +806,5 @@
     <updated>2026-09-28T16:11:44Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Pittsburgh, PA, United States · PyTorch · H-1B track record: ~188 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-124--400-Collins-Rd-NE--BLDG-124/Software-Engineering-Intern--Summer-2027-_01874556</id>
-    <title>RTX: Software Engineering Intern (Summer 2027) 🛂</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-124--400-Collins-Rd-NE--BLDG-124/Software-Engineering-Intern--Summer-2027-_01874556"/>
-    <updated>2026-09-28T16:11:44Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · US-IA-CEDAR RAPIDS-124 ~ 400 Collins Rd NE ~ BLDG 124 · Python, LLMs · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op---Summer-Fall-2027-_01871480</id>
-    <title>RTX: Software Engineering Co-op  (Summer/Fall 2027) 🛂</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op---Summer-Fall-2027-_01871480"/>
-    <updated>2026-09-28T16:11:44Z</updated>
-    <category term="Summer 2027"/>
-    <summary>2 openings · Summer 2027 · Software · US-IA-CEDAR RAPIDS-131 ~ 5450 C Ave NE ~ BLDG 131 · Python, C++ · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/XMLNAME-2027-Summer-Fall-Co-op--AGS-Software-Engineering--Onsite-_01871646</id>
-    <title>RTX: 2027 Summer/Fall Co-op, AGS Software Engineering (Onsite) 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/XMLNAME-2027-Summer-Fall-Co-op--AGS-Software-Engineering--Onsite-_01871646"/>
-    <updated>2026-09-28T16:11:44Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · US-IA-CEDAR RAPIDS-131 ~ 5450 C Ave NE ~ BLDG 131 · Python, C++ · sponsorship: citizens-only</summary>
   </entry>
 </feed>
