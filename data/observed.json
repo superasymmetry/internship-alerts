@@ -126,6 +126,19 @@
     }
    }
   },
+  "affirm": {
+   "name": "Affirm",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-02",
+     "role_ids": [
+      "greenhouse:affirm:8008645003",
+      "greenhouse:affirm:8011590003"
+     ],
+     "count": 2
+    }
+   }
+  },
   "ai intern to the ceo": {
    "name": "AI Intern to the CEO",
    "cycles": {
@@ -418,6 +431,18 @@
       "workday:amat:/job/Santa-ClaraCA/XMLNAME-2027-Software-Engineering-Intern--Masters---Santa-Clara--CA-_R2628265"
      ],
      "count": 2
+    }
+   }
+  },
+  "arc": {
+   "name": "Arc",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-02",
+     "role_ids": [
+      "greenhouse:arcboatcompany:5442881008"
+     ],
+     "count": 1
     }
    }
   },
@@ -1833,9 +1858,11 @@
      "first_posted": "2026-10-01",
      "role_ids": [
       "workday:generalmotors:/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicle--Simulation_JR-202621508",
-      "workday:generalmotors:/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Software-Engineer--Autonomous-Vehicle--Simulation_JR-202621503"
+      "workday:generalmotors:/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--AV-AI-Platform_JR-202621695",
+      "workday:generalmotors:/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Software-Engineer--Autonomous-Vehicle--Simulation_JR-202621503",
+      "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Software-Verification-Engineer--AV-AI-Platform_JR-202621697"
      ],
-     "count": 2
+     "count": 4
     }
    }
   },
@@ -2821,9 +2848,10 @@
     "Summer 2027": {
      "first_posted": "2026-09-10",
      "role_ids": [
+      "workday:nelnet:/job/Lincoln-NE/Intern---IT-Software-Engineer-NET--Summer-2027-_R23198",
       "workday:nelnet:/job/Lincoln-NE/Intern---Software-Engineer---New-Ventures---Starting-Summer-2026_R23098"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -4607,6 +4635,18 @@
     }
    }
   },
+  "xai": {
+   "name": "xAI",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-02",
+     "role_ids": [
+      "greenhouse:xai:5255111007"
+     ],
+     "count": 1
+    }
+   }
+  },
   "xantium": {
    "name": "Xantium",
    "cycles": {
@@ -4691,5 +4731,5 @@
    }
   }
  },
- "updated_at": "2026-10-02T18:40:23Z"
+ "updated_at": "2026-10-02T22:49:09Z"
 }
