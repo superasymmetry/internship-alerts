@@ -5,8 +5,32 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://superasymmetry.github.io/internship-alerts/feed.xml" rel="self"/>
   <link href="https://github.com/superasymmetry/internship-alerts"/>
-  <updated>2026-10-03T12:42:12Z</updated>
+  <updated>2026-10-03T16:58:58Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/superasymmetry/internship-alerts</uri></author>
+  <entry>
+    <id>urn:intern-engine:workable:disa-technologies:73E7609B99</id>
+    <title>DISA Technologies: Data Engineering &amp; ML Intern</title>
+    <link href="https://apply.workable.com/disa-technologies/j/73E7609B99/"/>
+    <updated>2026-10-03T16:58:58Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Casper, Wyoming, United States (Hybrid) · Python, SQL, Pandas</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:aba:/job/US-DC-Main-Office/Intern--Quantitative-Research_R614</id>
+    <title>American Bankers Association: Intern, Quantitative Research</title>
+    <link href="https://aba.wd1.myworkdayjobs.com/aba/job/US-DC-Main-Office/Intern--Quantitative-Research_R614"/>
+    <updated>2026-10-03T16:58:58Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Quant · US DC Main Office · $25/hr · Python</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:aba:/job/US-DC-Main-Office/Intern--Cybersecurity-Policy-Analyst_R611</id>
+    <title>American Bankers Association: Intern, Cybersecurity Policy Analyst</title>
+    <link href="https://aba.wd1.myworkdayjobs.com/aba/job/US-DC-Main-Office/Intern--Cybersecurity-Policy-Analyst_R611"/>
+    <updated>2026-10-03T16:58:58Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · US DC Main Office · $30/hr</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:cadence:/job/HOME-CA/AI---Agentic-AI---GenAI-Intern---IT--Fall-2026-_R56657</id>
     <title>Cadence Design Systems: AI / Agentic AI / GenAI Intern – IT (Fall 2026)</title>
@@ -782,29 +806,5 @@
     <updated>2026-09-29T15:17:41Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Chicago, IL · $35/hr · Go, Ruby · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:nationallifeinsurancecompany:4403876009</id>
-    <title>National Life: Digital &amp; AI Experience Intern – Summer 2027 🛂</title>
-    <link href="https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4403876009"/>
-    <updated>2026-09-29T15:17:41Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Addison, TX; Montpelier, VT · LLMs · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:caci:/job/Omaha-NE-US/Software-Engineer-Intern---Summer-2027_332776</id>
-    <title>CACI: Software Engineer Intern - Summer 2027</title>
-    <link href="https://caci.wd1.myworkdayjobs.com/external/job/Omaha-NE-US/Software-Engineer-Intern---Summer-2027_332776"/>
-    <updated>2026-09-29T15:17:41Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Omaha, NE, US · Java, JavaScript, Node.js, Angular, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:marvell:/job/Santa-Clara-CA/AI-Native-Development-Platform-Engineer-Intern--MS---Summer-2027_2603848-1</id>
-    <title>Marvell: AI-Native Development Platform Engineer Intern, MS - Summer 2027</title>
-    <link href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/AI-Native-Development-Platform-Engineer-Intern--MS---Summer-2027_2603848-1"/>
-    <updated>2026-09-29T15:17:41Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Santa Clara, CA · Python, Java, C#, TypeScript, JavaScript</summary>
   </entry>
 </feed>
