@@ -5,15 +5,15 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://superasymmetry.github.io/internship-alerts/feed.xml" rel="self"/>
   <link href="https://github.com/superasymmetry/internship-alerts"/>
-  <updated>2026-10-02T22:49:09Z</updated>
+  <updated>2026-10-03T01:39:46Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/superasymmetry/internship-alerts</uri></author>
   <entry>
-    <id>urn:intern-engine:greenhouse:affirm:8011590003</id>
-    <title>Affirm: Software Engineer Intern (Summer 2027)</title>
-    <link href="https://job-boards.greenhouse.io/affirm/jobs/8011590003"/>
-    <updated>2026-10-02T22:49:09Z</updated>
+    <id>urn:intern-engine:workday:hntb:/job/Austin-TX/Intern---AI-Business-Process-Developer--Summer-2027-_R-31865-1</id>
+    <title>HNTB: Intern - AI Business Process Developer (Summer 2027) 🛂</title>
+    <link href="https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Austin-TX/Intern---AI-Business-Process-Developer--Summer-2027-_R-31865-1"/>
+    <updated>2026-10-03T01:39:46Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · San Francisco, California, United States · Python, Java, C++, JavaScript, React · H-1B track record: ~158 approvals (FY2022–2023)</summary>
+    <summary>Summer 2027 · Data &amp; ML/AI · Austin, TX · Python, C#, SQL · sponsorship: no-sponsorship · H-1B track record: ~30 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:affirm:8008645003</id>
@@ -24,36 +24,20 @@
     <summary>Summer 2027 · Data &amp; ML/AI · San Francisco, California, United States · Python, Java, C++, JavaScript, React · H-1B track record: ~158 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:greenhouse:affirm:8011590003</id>
+    <title>Affirm: Software Engineer Intern (Summer 2027)</title>
+    <link href="https://job-boards.greenhouse.io/affirm/jobs/8011590003"/>
+    <updated>2026-10-02T22:49:09Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · San Francisco, California, United States · Python, Java, C++, JavaScript, React · H-1B track record: ~158 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:greenhouse:arcboatcompany:5442881008</id>
     <title>Arc: Software Engineering Intern</title>
     <link href="https://job-boards.greenhouse.io/arcboatcompany/jobs/5442881008"/>
     <updated>2026-10-02T22:49:09Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Torrance, CA · $42/hr · Python, TypeScript, AWS, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Software-Verification-Engineer--AV-AI-Platform_JR-202621697</id>
-    <title>General Motors: 2027 Summer Intern – Software Verification Engineer, AV/AI Platform</title>
-    <link href="https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Software-Verification-Engineer--AV-AI-Platform_JR-202621697"/>
-    <updated>2026-10-02T22:49:09Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Warren, Michigan, United States of America · Python, C++, Linux · H-1B track record: ~928 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:generalmotors:/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--AV-AI-Platform_JR-202621695</id>
-    <title>General Motors: 2027 Summer Intern – Machine Learning Engineer, AV/AI Platform</title>
-    <link href="https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--AV-AI-Platform_JR-202621695"/>
-    <updated>2026-10-02T22:49:09Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Sunnyvale, California, United States of America · Python, C++, PyTorch, LLMs, Computer Vision · H-1B track record: ~928 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:hp:/job/Vancouver-Washington-United-States-of-America/AI-Applied-Engineering-Intern_UNI4670-2</id>
-    <title>Hewlett Packard (HP): AI Applied Engineering Intern 🛂</title>
-    <link href="https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Vancouver-Washington-United-States-of-America/AI-Applied-Engineering-Intern_UNI4670-2"/>
-    <updated>2026-10-02T22:49:09Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Vancouver, Washington, United States of America · $29–$35/hr · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:natera:6188497004</id>
@@ -64,20 +48,44 @@
     <summary>Not stated · Software · US Remote · Python, Java, JavaScript, SQL · H-1B track record: ~81 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:nelnet:/job/Lincoln-NE/Intern---IT-Software-Engineer-NET--Summer-2027-_R23198</id>
-    <title>Nelnet: Intern - IT Software Engineer .NET (Summer 2027)</title>
-    <link href="https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern---IT-Software-Engineer-NET--Summer-2027-_R23198"/>
-    <updated>2026-10-02T22:49:09Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Lincoln, NE · Angular</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:greenhouse:xai:5255111007</id>
     <title>xAI: Summer 2027 Software Engineering Internship/Co-op</title>
     <link href="https://job-boards.greenhouse.io/xai/jobs/5255111007"/>
     <updated>2026-10-02T22:49:09Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Palo Alto, CA · Python, Java, C++, C#, JavaScript</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:generalmotors:/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--AV-AI-Platform_JR-202621695</id>
+    <title>General Motors: 2027 Summer Intern – Machine Learning Engineer, AV/AI Platform</title>
+    <link href="https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--AV-AI-Platform_JR-202621695"/>
+    <updated>2026-10-02T22:49:09Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Sunnyvale, California, United States of America · Python, C++, PyTorch, LLMs, Computer Vision · H-1B track record: ~928 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Software-Verification-Engineer--AV-AI-Platform_JR-202621697</id>
+    <title>General Motors: 2027 Summer Intern – Software Verification Engineer, AV/AI Platform</title>
+    <link href="https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Software-Verification-Engineer--AV-AI-Platform_JR-202621697"/>
+    <updated>2026-10-02T22:49:09Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Warren, Michigan, United States of America · Python, C++, Linux · H-1B track record: ~928 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:hp:/job/Vancouver-Washington-United-States-of-America/AI-Applied-Engineering-Intern_UNI4670-2</id>
+    <title>Hewlett Packard (HP): AI Applied Engineering Intern 🛂</title>
+    <link href="https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Vancouver-Washington-United-States-of-America/AI-Applied-Engineering-Intern_UNI4670-2"/>
+    <updated>2026-10-02T22:49:09Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Vancouver, Washington, United States of America · $29–$35/hr · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:nelnet:/job/Lincoln-NE/Intern---IT-Software-Engineer-NET--Summer-2027-_R23198</id>
+    <title>Nelnet: Intern - IT Software Engineer .NET (Summer 2027)</title>
+    <link href="https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern---IT-Software-Engineer-NET--Summer-2027-_R23198"/>
+    <updated>2026-10-02T22:49:09Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Lincoln, NE · Angular</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:amazon:amazon:10567914</id>
@@ -798,13 +806,5 @@
     <updated>2026-09-29T15:17:41Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · Cary, North Carolina · Python, Java, PyTorch, TensorFlow, scikit-learn · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:q2ebanking:/job/Cary-North-Carolina/XMLNAME-2027-Summer-Internship---Software-Engineer_REQ-12798</id>
-    <title>Q2: 2027 Summer Internship - Software Engineer 🛂</title>
-    <link href="https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Cary-North-Carolina/XMLNAME-2027-Summer-Internship---Software-Engineer_REQ-12798"/>
-    <updated>2026-09-29T15:17:41Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Cary, North Carolina · Python, C#, JavaScript, SQL, Tableau · sponsorship: no-sponsorship</summary>
   </entry>
 </feed>
