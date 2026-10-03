@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://superasymmetry.github.io/internship-alerts/feed.xml" rel="self"/>
   <link href="https://github.com/superasymmetry/internship-alerts"/>
-  <updated>2026-10-03T16:58:58Z</updated>
+  <updated>2026-10-03T20:07:40Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/superasymmetry/internship-alerts</uri></author>
   <entry>
     <id>urn:intern-engine:workable:disa-technologies:73E7609B99</id>
@@ -16,20 +16,20 @@
     <summary>Not stated · Data &amp; ML/AI · Casper, Wyoming, United States (Hybrid) · Python, SQL, Pandas</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:aba:/job/US-DC-Main-Office/Intern--Quantitative-Research_R614</id>
-    <title>American Bankers Association: Intern, Quantitative Research</title>
-    <link href="https://aba.wd1.myworkdayjobs.com/aba/job/US-DC-Main-Office/Intern--Quantitative-Research_R614"/>
-    <updated>2026-10-03T16:58:58Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Quant · US DC Main Office · $25/hr · Python</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:aba:/job/US-DC-Main-Office/Intern--Cybersecurity-Policy-Analyst_R611</id>
     <title>American Bankers Association: Intern, Cybersecurity Policy Analyst</title>
     <link href="https://aba.wd1.myworkdayjobs.com/aba/job/US-DC-Main-Office/Intern--Cybersecurity-Policy-Analyst_R611"/>
     <updated>2026-10-03T16:58:58Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Security · US DC Main Office · $30/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:aba:/job/US-DC-Main-Office/Intern--Quantitative-Research_R614</id>
+    <title>American Bankers Association: Intern, Quantitative Research</title>
+    <link href="https://aba.wd1.myworkdayjobs.com/aba/job/US-DC-Main-Office/Intern--Quantitative-Research_R614"/>
+    <updated>2026-10-03T16:58:58Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Quant · US DC Main Office · $25/hr · Python</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:cadence:/job/HOME-CA/AI---Agentic-AI---GenAI-Intern---IT--Fall-2026-_R56657</id>
@@ -682,7 +682,7 @@
   <entry>
     <id>urn:intern-engine:workday:kla:/job/Milpitas-CA/Software-Engineering-Intern_2641572-1</id>
     <title>KLA: Software Engineering Intern</title>
-    <link href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Engineering-Intern_2641572-1"/>
+    <link href="https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineering-Intern_2641572"/>
     <updated>2026-09-30T17:17:44Z</updated>
     <category term="Not stated"/>
     <summary>2 openings · Not stated · Software · Milpitas, CA · $37–$49/hr · Python, Java, C++, C#, JavaScript · H-1B track record: ~369 approvals (FY2022–2023)</summary>
