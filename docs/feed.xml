@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://superasymmetry.github.io/internship-alerts/feed.xml" rel="self"/>
   <link href="https://github.com/superasymmetry/internship-alerts"/>
-  <updated>2026-10-04T18:54:16Z</updated>
+  <updated>2026-10-04T22:08:58Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/superasymmetry/internship-alerts</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:primient:/job/Schaumburg-IL/AI-Analyst-Intern---Summer-2027_JREQ7056</id>
+    <title>Primient: AI Analyst Intern - Summer 2027</title>
+    <link href="https://primient.wd1.myworkdayjobs.com/External_Careers/job/Schaumburg-IL/AI-Analyst-Intern---Summer-2027_JREQ7056"/>
+    <updated>2026-10-04T22:08:58Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Schaumburg, IL · $23/hr · Python, SQL</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Co-Op---AI-DSP-Applied-Research_01873016</id>
     <title>RTX: Co-Op - AI DSP Applied Research 🇺🇸</title>
@@ -798,13 +806,5 @@
     <updated>2026-09-29T20:17:28Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Beaverton, Oregon · Python, PyTorch, TensorFlow, scikit-learn, Pandas · H-1B track record: ~484 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:perchwell:194eec78-26db-4d8e-850f-a99ea2733e9f</id>
-    <title>Perchwell: Software Engineering Intern</title>
-    <link href="https://jobs.ashbyhq.com/perchwell/194eec78-26db-4d8e-850f-a99ea2733e9f"/>
-    <updated>2026-09-29T15:17:41Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · New York Office · $12K • 10 week internship in NYC · TypeScript, SQL, Ruby, React</summary>
   </entry>
 </feed>
