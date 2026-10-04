@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-04T15:03:24Z",
- "data_as_of": "2026-10-04T15:03:24Z",
- "rendered_at": "2026-10-04T15:03:25Z",
+ "generated_at": "2026-10-04T18:54:16Z",
+ "data_as_of": "2026-10-04T18:54:16Z",
+ "rendered_at": "2026-10-04T18:54:17Z",
  "source": "https://github.com/superasymmetry/internship-alerts",
  "h1b_window": "FY2022–2023",
- "count": 963,
+ "count": 962,
  "jobs": [
   {
    "id": "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Co-Op---AI-DSP-Applied-Research_01873016",
@@ -25726,35 +25726,6 @@
     "Kotlin",
     "Ruby",
     "Bash"
-   ],
-   "class_year": null,
-   "underclass_program_key": null,
-   "underclass_program": null,
-   "underclass_audience": null,
-   "source": "workday",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workday:bah:/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246869",
-   "company": "Booz Allen",
-   "title": "AI RAN Telecommunications Engineer Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "McLean, VA",
-   "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246869",
-   "posted_at": "2026-08-11T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-08-11T18:48:51Z",
-   "sponsorship": "citizens-only",
-   "salary": "$108k/yr",
-   "skills": [
-    "Python",
-    "C++",
-    "MATLAB"
    ],
    "class_year": null,
    "underclass_program_key": null,
