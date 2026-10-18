@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-18T09:23:11Z",
- "data_as_of": "2026-10-18T09:23:11Z",
- "rendered_at": "2026-10-18T09:23:11Z",
+ "generated_at": "2026-10-18T13:28:32Z",
+ "data_as_of": "2026-10-18T13:28:32Z",
+ "rendered_at": "2026-10-18T13:28:32Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/superasymmetry/internship-alerts",
  "companies": [
@@ -320,7 +320,7 @@
    "expected": "2026-07-08",
    "days_until": -102,
    "status": "open",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/XMLNAME-2027-Software-Engineering-Intern---Boulder-CO_R10256077",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/XMLNAME-2027-Software-Engineering-Intern---Aurora-CO_R10256243",
    "note": "fall opening, many roles need clearance",
    "provenance": {
     "type": "engine-observed",
@@ -510,7 +510,7 @@
    "expected": "2026-07-29",
    "days_until": -81,
    "status": "open",
-   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Alexandria-VA/Cybersecurity-Analyst-Intern_R-00190671",
+   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Cloud-Engineering-Intern_R-00194668",
    "note": "fall opening, clearance common",
    "provenance": {
     "type": "engine-observed",
@@ -804,25 +804,6 @@
    }
   },
   {
-   "company": "Northwestern Mutual",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-12",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-12",
-   "days_until": -67,
-   "status": "open",
-   "url": "https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Public-Investments-Quantitative-Analyst-Intern--Summer-2027_JR-45807",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-08-12"
-   }
-  },
-  {
    "company": "Teledyne",
    "last_cycle_posted": "",
    "posted_on": "2026-08-13",
@@ -1070,25 +1051,6 @@
    }
   },
   {
-   "company": "Dev Technology Group",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-19",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-19",
-   "days_until": -60,
-   "status": "open",
-   "url": "https://job-boards.greenhouse.io/devtechnology/jobs/8726074002",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-08-19"
-   }
-  },
-  {
    "company": "General Matter",
    "last_cycle_posted": "",
    "posted_on": "2026-08-19",
@@ -1195,44 +1157,6 @@
    "days_until": -55,
    "status": "open",
    "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81251",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-08-24"
-   }
-  },
-  {
-   "company": "BTI360",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-24",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-24",
-   "days_until": -55,
-   "status": "open",
-   "url": "https://job-boards.greenhouse.io/bti36021/jobs/8155152",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-08-24"
-   }
-  },
-  {
-   "company": "Freddie Mac",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-24",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-24",
-   "days_until": -55,
-   "status": "open",
-   "url": "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Multifamily-Software-Development-Intern---Summer-2027_JR17564",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -1517,7 +1441,7 @@
    "expected": "2026-08-28",
    "days_until": -51,
    "status": "open",
-   "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Platform-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-284875",
+   "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/Arlington-Virginia/Security-Infrastructure-Engineering---Architecture-Intern--Summer-2027---Arlington--VA--US_R-284924",
    "note": "late-summer opening",
    "provenance": {
     "type": "engine-observed",
@@ -1594,25 +1518,6 @@
    "days_until": -48,
    "status": "open",
    "url": "https://job-boards.greenhouse.io/awetomaton/jobs/5394046008",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-08-31"
-   }
-  },
-  {
-   "company": "BlueCross BlueShield of Nebraska",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-31",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-31",
-   "days_until": -48,
-   "status": "open",
-   "url": "https://nebraskablue.wd1.myworkdayjobs.com/BCBSNE/job/Omaha-NE/IS-Intern--Summer-2027_JR101411",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -2115,25 +2020,6 @@
    }
   },
   {
-   "company": "Momentive",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-03",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-03",
-   "days_until": -45,
-   "status": "open",
-   "url": "https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Niskayuna/Summer-2027-Intern---Software-Development_R9756",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-09-03"
-   }
-  },
-  {
    "company": "Neighbor",
    "last_cycle_posted": "",
    "posted_on": "2026-09-03",
@@ -2145,25 +2031,6 @@
    "days_until": -45,
    "status": "open",
    "url": "https://jobs.lever.co/neighbor/7d66629f-3f4b-41ee-a324-fe0154e13c46",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-09-03"
-   }
-  },
-  {
-   "company": "Saab",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-03",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-03",
-   "days_until": -45,
-   "status": "open",
-   "url": "https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Collamer/Software-Engineer-Co-Op--Summer-2027-_R-03264-1",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -2201,7 +2068,7 @@
    "expected": "2026-09-03",
    "days_until": -45,
    "status": "open",
-   "url": "https://jobs.ashbyhq.com/skydio/ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9",
+   "url": "https://jobs.ashbyhq.com/skydio/79fdda46-4ff5-42c7-b208-55f2084cdb8c",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -2419,25 +2286,6 @@
    }
   },
   {
-   "company": "Xcel Energy",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-07",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-07",
-   "days_until": -41,
-   "status": "open",
-   "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Amarillo-TX-79101/Data-Analyst-Intern--TX_JR115565-1",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-09-07"
-   }
-  },
-  {
    "company": "Allen Control Systems",
    "last_cycle_posted": "",
    "posted_on": "2026-09-08",
@@ -2467,7 +2315,7 @@
    "expected": "2026-09-08",
    "days_until": -40,
    "status": "open",
-   "url": "https://slihrms.wd3.myworkdayjobs.com/careers/job/USGAAtlanta2018-Powers-Ferry-Rd/Water-Infrastructure-Engineering-Intern---Summer-2027_R-163480-1",
+   "url": "https://slihrms.wd3.myworkdayjobs.com/careers/job/USCODenver/Software-Developer-Intern---Summer-2027_R-161580-1",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -2562,7 +2410,7 @@
    "expected": "2026-09-08",
    "days_until": -40,
    "status": "open",
-   "url": "https://job-boards.greenhouse.io/rfsmart/jobs/5407206008",
+   "url": "https://job-boards.greenhouse.io/rfsmart/jobs/5427723008",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -2644,44 +2492,6 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-09-08"
-   }
-  },
-  {
-   "company": "HMH",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-09",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-09",
-   "days_until": -39,
-   "status": "open",
-   "url": "https://hmhw.wd12.myworkdayjobs.com/hmh_careers/job/Houston-TX/AI---Automation-Development-Intern_JR102458",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-09-09"
-   }
-  },
-  {
-   "company": "Hypertherm",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-09",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-09",
-   "days_until": -39,
-   "status": "open",
-   "url": "https://hypertherm.wd503.myworkdayjobs.com/hypertherm-careers/job/West-Lebanon-NH/Summer-Intern---Software-Engineering_R4005",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-09-09"
    }
   },
   {
@@ -3027,25 +2837,6 @@
    }
   },
   {
-   "company": "Corteva",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-11",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-11",
-   "days_until": -37,
-   "status": "open",
-   "url": "https://corteva.wd5.myworkdayjobs.com/corteva/job/Indianapolis-Indiana-United-States/Agentic-AI-Engineer-Intern_248210W",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-09-11"
-   }
-  },
-  {
    "company": "Klaviyo",
    "last_cycle_posted": "",
    "posted_on": "2026-09-11",
@@ -3248,25 +3039,6 @@
    "status": "open",
    "url": "https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Intern---Network-Infrastructure---Automation-Engineering_2632795",
    "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-09-14"
-   }
-  },
-  {
-   "company": "Robinhood",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-14",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-14",
-   "days_until": -34,
-   "status": "open",
-   "url": "https://boards.greenhouse.io/robinhood/jobs/8123225?t=gh_src=&gh_jid=8123225",
-   "note": "opens fall",
    "provenance": {
     "type": "engine-observed",
     "cycle": "Summer 2027",
@@ -3502,25 +3274,6 @@
    }
   },
   {
-   "company": "Nasdaq",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-16",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-16",
-   "days_until": -32,
-   "status": "open",
-   "url": "https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/GA---Glenridge-Point/Software-Developer--Engineer-Intern---2027-Summer-Internship_R0026972",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-09-16"
-   }
-  },
-  {
    "company": "Relay",
    "last_cycle_posted": "",
    "posted_on": "2026-09-16",
@@ -3531,7 +3284,7 @@
    "expected": "2026-09-16",
    "days_until": -32,
    "status": "open",
-   "url": "https://job-boards.greenhouse.io/relaypro/jobs/8176774",
+   "url": "https://job-boards.greenhouse.io/relaypro/jobs/8180836",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -3588,7 +3341,7 @@
    "expected": "2026-09-17",
    "days_until": -31,
    "status": "open",
-   "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260795",
+   "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260805",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -3711,25 +3464,6 @@
    }
   },
   {
-   "company": "Commerce Bank",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-21",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-21",
-   "days_until": -27,
-   "status": "open",
-   "url": "https://commercebank.wd1.myworkdayjobs.com/CommerceJobs/job/MO---Kansas-City-DowntownPlaza---Kansas-City---KC-Downtown-Trust-Building-922-Walnut-64106/Intern-EABI---Data-Analyst-Summer-2027_38484",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-09-21"
-   }
-  },
-  {
    "company": "Cowboy Space",
    "last_cycle_posted": "",
    "posted_on": "2026-09-21",
@@ -3779,25 +3513,6 @@
    "days_until": -27,
    "status": "open",
    "url": "https://apply.workable.com/rentvision/j/0F1C7992BF/",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-09-21"
-   }
-  },
-  {
-   "company": "Upbound Group",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-21",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-21",
-   "days_until": -27,
-   "status": "open",
-   "url": "https://upbound.wd501.myworkdayjobs.com/Upbound/job/Plano-TX/Cybersecurity-Intern_R-100776",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -3873,7 +3588,7 @@
    "expected": "2026-09-24",
    "days_until": -24,
    "status": "open",
-   "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/IS-Common-Infrastructure-Intern--Summer-2027_JR00047125",
+   "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/AI-Engineering--Business-Systems-Intern--Summer-2027_JR00048714",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -3955,25 +3670,6 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-09-25"
-   }
-  },
-  {
-   "company": "POET",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-28",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-28",
-   "days_until": -20,
-   "status": "open",
-   "url": "https://poet.wd1.myworkdayjobs.com/POET/job/Sioux-Falls-SD/Software-Developer-Intern_R101786-1",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-09-28"
    }
   },
   {
@@ -4158,7 +3854,7 @@
    "expected": "2026-10-01",
    "days_until": -17,
    "status": "open",
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicle--Simulation_JR-202621508",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Mountain-View-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---AI-Machine-Learning_JR-202621620",
    "note": "fall opening",
    "provenance": {
     "type": "engine-observed",
@@ -4179,25 +3875,6 @@
    "status": "open",
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7838577",
    "note": "opens late summer for next year",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-10-01"
-   }
-  },
-  {
-   "company": "Riot Games",
-   "last_cycle_posted": "",
-   "posted_on": "2026-10-01",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-10-01",
-   "days_until": -17,
-   "status": "open",
-   "url": "https://job-boards.greenhouse.io/riotgamesup/jobs/8222015",
-   "note": "fall opening for next summer",
    "provenance": {
     "type": "engine-observed",
     "cycle": "Summer 2027",
@@ -4338,25 +4015,6 @@
    }
   },
   {
-   "company": "Primient",
-   "last_cycle_posted": "",
-   "posted_on": "2026-10-04",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-10-04",
-   "days_until": -14,
-   "status": "open",
-   "url": "https://primient.wd1.myworkdayjobs.com/External_Careers/job/Schaumburg-IL/AI-Analyst-Intern---Summer-2027_JREQ7056",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-10-04"
-   }
-  },
-  {
    "company": "Jain Global",
    "last_cycle_posted": "",
    "posted_on": "2026-10-05",
@@ -4367,7 +4025,7 @@
    "expected": "2026-10-05",
    "days_until": -13,
    "status": "open",
-   "url": "https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Quantitative-Developer-Intern--Summer-2027---New-York-_JR100608",
+   "url": "https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Data-Engineer-Intern_JR100605-1",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -4509,6 +4167,25 @@
    }
   },
   {
+   "company": "Apple Bank",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-07",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-07",
+   "days_until": -11,
+   "status": "open",
+   "url": "https://applebank.wd5.myworkdayjobs.com/applebankcareers/job/New-York-NY/XMLNAME-2027-Summer-Intern--Information-Security_2026-1416",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-10-07"
+   }
+  },
+  {
    "company": "Highmark Health",
    "last_cycle_posted": "",
    "posted_on": "2026-10-07",
@@ -4538,7 +4215,7 @@
    "expected": "2026-10-07",
    "days_until": -11,
    "status": "open",
-   "url": "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Financial-AI-Engineering-Intern---Summer-2027---Franklin--TN_R00214241",
+   "url": "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Digital-Products---AI-Strategy-Intern---Summer-2027---Franklin--TN_R00214215",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -4861,7 +4538,7 @@
    "expected": "2026-10-16",
    "days_until": -2,
    "status": "open",
-   "url": "https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Plano/Summer-2027-Intern--Software-Engineering_R0020843-1",
+   "url": "https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Plano/Summer-2027-Intern--Software-Development_R0020822-1",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -7242,6 +6919,25 @@
    }
   },
   {
+   "company": "Northwestern Mutual",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-12",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-12",
+   "days_until": -67,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-12"
+   }
+  },
+  {
    "company": "Replit",
    "last_cycle_posted": "",
    "posted_on": "2026-08-15",
@@ -7280,6 +6976,25 @@
    }
   },
   {
+   "company": "Dev Technology Group",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-19",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-19",
+   "days_until": -60,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-19"
+   }
+  },
+  {
    "company": "Fannie Mae",
    "last_cycle_posted": "",
    "posted_on": "2026-08-20",
@@ -7300,6 +7015,44 @@
   },
   {
    "company": "Audax Group",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-24",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-24",
+   "days_until": -55,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-24"
+   }
+  },
+  {
+   "company": "BTI360",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-24",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-24",
+   "days_until": -55,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-24"
+   }
+  },
+  {
+   "company": "Freddie Mac",
    "last_cycle_posted": "",
    "posted_on": "2026-08-24",
    "precision": "day",
@@ -7413,6 +7166,25 @@
    }
   },
   {
+   "company": "BlueCross BlueShield of Nebraska",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-31",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-31",
+   "days_until": -48,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-31"
+   }
+  },
+  {
    "company": "Bosch",
    "last_cycle_posted": "",
    "posted_on": "2026-08-31",
@@ -7508,6 +7280,44 @@
    }
   },
   {
+   "company": "Momentive",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-03",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-03",
+   "days_until": -45,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-03"
+   }
+  },
+  {
+   "company": "Saab",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-03",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-03",
+   "days_until": -45,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-03"
+   }
+  },
+  {
    "company": "skillz",
    "last_cycle_posted": "",
    "posted_on": "2026-09-03",
@@ -7539,6 +7349,25 @@
    "status": "dropped",
    "url": "",
    "note": "opens ~Sep",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-07"
+   }
+  },
+  {
+   "company": "Xcel Energy",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-07",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-07",
+   "days_until": -41,
+   "status": "dropped",
+   "url": "",
+   "note": "",
    "provenance": {
     "type": "engine-observed",
     "cycle": "Summer 2027",
@@ -7584,6 +7413,44 @@
    }
   },
   {
+   "company": "HMH",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-09",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-09",
+   "days_until": -39,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-09"
+   }
+  },
+  {
+   "company": "Hypertherm",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-09",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-09",
+   "days_until": -39,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-09"
+   }
+  },
+  {
    "company": "Hudl",
    "last_cycle_posted": "",
    "posted_on": "2026-09-10",
@@ -7623,6 +7490,25 @@
   },
   {
    "company": "Commure",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-11",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-11",
+   "days_until": -37,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-11"
+   }
+  },
+  {
+   "company": "Corteva",
    "last_cycle_posted": "",
    "posted_on": "2026-09-11",
    "precision": "day",
@@ -7717,6 +7603,25 @@
    }
   },
   {
+   "company": "Robinhood",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-14",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-14",
+   "days_until": -34,
+   "status": "dropped",
+   "url": "",
+   "note": "opens fall",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-14"
+   }
+  },
+  {
    "company": "Schroders",
    "last_cycle_posted": "",
    "posted_on": "2026-09-14",
@@ -7793,6 +7698,25 @@
    }
   },
   {
+   "company": "Nasdaq",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-16",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-16",
+   "days_until": -32,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-16"
+   }
+  },
+  {
    "company": "Visa",
    "last_cycle_posted": "",
    "posted_on": "2026-09-17",
@@ -7850,7 +7774,45 @@
    }
   },
   {
+   "company": "Commerce Bank",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-21",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-21",
+   "days_until": -27,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-21"
+   }
+  },
+  {
    "company": "Fidelity Investments",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-21",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-21",
+   "days_until": -27,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-21"
+   }
+  },
+  {
+   "company": "Upbound Group",
    "last_cycle_posted": "",
    "posted_on": "2026-09-21",
    "precision": "day",
@@ -7943,7 +7905,64 @@
     "cycle": "Summer 2027",
     "observed_on": "2026-09-25"
    }
+  },
+  {
+   "company": "POET",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-28",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-28",
+   "days_until": -20,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-28"
+   }
+  },
+  {
+   "company": "Riot Games",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-01",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-01",
+   "days_until": -17,
+   "status": "dropped",
+   "url": "",
+   "note": "fall opening for next summer",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-10-01"
+   }
+  },
+  {
+   "company": "Primient",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-04",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-04",
+   "days_until": -14,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-10-04"
+   }
   }
  ],
- "count": 418
+ "count": 419
 }

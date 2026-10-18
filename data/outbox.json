@@ -1,7 +1,15 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": [],
+    "discord": [
+      "workday:applebank:/job/New-York-NY/XMLNAME-2027-Summer-Intern--Information-Security_2026-1416",
+      "workday:entrust:/job/United-States---Shakopee-MN-GHQ/Software-Engineering-Co-op_R004425",
+      "workday:globalfoundries:/job/USA---Texas---Austin/Strategic-Pricing---AI-Analytics-Intern--Summer-2027-_JR-2605139"
+    ],
+    "telegram": [
+      "workday:applebank:/job/New-York-NY/XMLNAME-2027-Summer-Intern--Information-Security_2026-1416",
+      "workday:entrust:/job/United-States---Shakopee-MN-GHQ/Software-Engineering-Co-op_R004425",
+      "workday:globalfoundries:/job/USA---Texas---Austin/Strategic-Pricing---AI-Analytics-Intern--Summer-2027-_JR-2605139"
+    ],
     "personal_email": [
       "workday:cboe:/job/Kansas-City-MO/Software-Engineer-Intern--C---_R-4726",
       "workday:cmu:/job/Pittsburgh-PA/AI-Security-Research-Intern---Summer-2027_2025199-1",
@@ -124,7 +132,10 @@
       "workday:workday:/job/USA-CA-Pleasanton/Software-Development-Engineer-Intern_JR-0110810",
       "workday:workday:/job/USA-CA-Pleasanton/Machine-Learning-Engineer-Intern_JR-0110812",
       "workday:workday:/job/USA-CA-Pleasanton/Software-Application-Development-Engineer-Intern_JR-0110811",
-      "workday:wustl:/job/Washington-University-North-Campus-University-City-Missouri/Data-Analyst---Emergency-Management-Intern--PRN----Enterprise-Physical-Operations_JR98032-1"
+      "workday:wustl:/job/Washington-University-North-Campus-University-City-Missouri/Data-Analyst---Emergency-Management-Intern--PRN----Enterprise-Physical-Operations_JR98032-1",
+      "workday:applebank:/job/New-York-NY/XMLNAME-2027-Summer-Intern--Information-Security_2026-1416",
+      "workday:entrust:/job/United-States---Shakopee-MN-GHQ/Software-Engineering-Co-op_R004425",
+      "workday:globalfoundries:/job/USA---Texas---Austin/Strategic-Pricing---AI-Analytics-Intern--Summer-2027-_JR-2605139"
     ]
   }
 }
