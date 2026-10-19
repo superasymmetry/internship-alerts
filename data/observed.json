@@ -208,6 +208,18 @@
     }
    }
   },
+  "allen institute for ai": {
+   "name": "The Allen Institute for AI",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-10-19",
+     "role_ids": [
+      "greenhouse:thealleninstitute:8293615"
+     ],
+     "count": 1
+    }
+   }
+  },
   "allied solutions": {
    "name": "Allied Solutions",
    "cycles": {
@@ -396,6 +408,19 @@
       "workday:amgen:/job/United-States---Remote/Undergrad-Intern---Software-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255719"
      ],
      "count": 9
+    }
+   }
+  },
+  "amplify": {
+   "name": "Amplify",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-19",
+     "role_ids": [
+      "ashby:amplify:855d22a3-f15e-49f6-854c-29e505653efa",
+      "ashby:amplify:bb45b7f6-dd7e-40e5-84e6-52e21650a7b8"
+     ],
+     "count": 2
     }
    }
   },
@@ -2104,9 +2129,10 @@
      "first_posted": "2026-08-25",
      "role_ids": [
       "workday:globalfoundries:/job/USA---New-York---Malta/Cybersecurity-Intern--Summer-2027-_JR-2604459",
-      "workday:globalfoundries:/job/USA---Texas---Austin/Strategic-Pricing---AI-Analytics-Intern--Summer-2027-_JR-2605139"
+      "workday:globalfoundries:/job/USA---Texas---Austin/Strategic-Pricing---AI-Analytics-Intern--Summer-2027-_JR-2605139",
+      "workday:globalfoundries:/job/USA---Texas---Richardson/AI-ML-Systems-Engineering-Intern--Summer-2027-_JR-2604051"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -2277,9 +2303,10 @@
     "Summer 2027": {
      "first_posted": "2026-10-07",
      "role_ids": [
-      "workday:highmarkhealth:/job/Pittsburgh-PA-15222-FAP-5th-Avenue-Place/Summer-2027-Artificial-Intelligence--Operations--Undergraduate-Intern_J287476"
+      "workday:highmarkhealth:/job/Pittsburgh-PA-15222-FAP-5th-Avenue-Place/Summer-2027-Artificial-Intelligence--Operations--Undergraduate-Intern_J287476",
+      "workday:highmarkhealth:/job/Pittsburgh-PA-15222-FAP-5th-Avenue-Place/Summer-2027-Data-Analyst-Undergraduate-Intern_J288017"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -3206,6 +3233,18 @@
     }
    }
   },
+  "netflix": {
+   "name": "Netflix",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-13",
+     "role_ids": [
+      "eightfold:netflix:790318904468"
+     ],
+     "count": 1
+    }
+   }
+  },
   "netsmart": {
    "name": "Netsmart",
    "cycles": {
@@ -3252,9 +3291,10 @@
       "workday:alliance:/job/Franklin-Tennessee---United-States-of-America/Applied-AI---Business-Innovation-Intern---Summer-2027---Franklin--TN_R00214225",
       "workday:alliance:/job/Franklin-Tennessee---United-States-of-America/Digital-Products---AI-Strategy-Intern---Summer-2027---Franklin--TN_R00214215",
       "workday:alliance:/job/Franklin-Tennessee---United-States-of-America/Financial-AI-Engineering-Intern---Summer-2027---Franklin--TN_R00214241",
+      "workday:alliance:/job/Santa-Clara-California---United-States-of-America/AI-Autonomous-Driving-Verification---Validation-Intern---Summer-2027---Santa-Clara--CA_R00214263",
       "workday:alliance:/job/Santa-Clara-California---United-States-of-America/AI-Robotics-Research-Intern---Summer-2027---Santa-Clara--CA_R00214267"
      ],
-     "count": 4
+     "count": 5
     }
    }
   },
@@ -3500,6 +3540,18 @@
      "first_posted": "2026-09-09",
      "role_ids": [
       "greenhouse:pacificfusion:4398373009"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "patreon": {
+   "name": "Patreon",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-19",
+     "role_ids": [
+      "ashby:patreon:cefe07ab-ba4f-48cc-86b9-a88b1859a95c"
      ],
      "count": 1
     }
@@ -4140,9 +4192,10 @@
     "Summer 2027": {
      "first_posted": "2026-09-04",
      "role_ids": [
-      "greenhouse:scaleai:4730845005"
+      "greenhouse:scaleai:4730845005",
+      "greenhouse:scaleai:4735665005"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -4673,9 +4726,10 @@
      "first_posted": "2026-09-11",
      "role_ids": [
       "workday:ttc:/job/Bloomington-MN/Embedded-Software-Engineering-Intern---The-Toro-Company_JR17114",
-      "workday:ttc:/job/Bloomington-MN/Embedded-Software-Engineering-Intern---The-Toro-Company_JR17125"
+      "workday:ttc:/job/Bloomington-MN/Embedded-Software-Engineering-Intern---The-Toro-Company_JR17125",
+      "workday:ttc:/job/Frederick-CO/Cloud-Software-Development-Intern---The-Toro-Company_JR17498"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -5227,6 +5281,18 @@
     }
    }
   },
+  "zebra technologies": {
+   "name": "Zebra Technologies",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-19",
+     "role_ids": [
+      "workday:zebra:/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103625"
+     ],
+     "count": 1
+    }
+   }
+  },
   "zekelman industries": {
    "name": "Zekelman Industries",
    "cycles": {
@@ -5265,5 +5331,5 @@
    }
   }
  },
- "updated_at": "2026-10-19T18:02:03Z"
+ "updated_at": "2026-10-19T22:37:30Z"
 }
