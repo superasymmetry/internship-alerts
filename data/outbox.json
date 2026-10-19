@@ -1,7 +1,19 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": [],
+    "discord": [
+      "workday:amat:/job/Santa-ClaraCA/Software-Engineering-Summer-Intern--Masters---Santa-Clara--CA-_R2630705",
+      "workday:aptiv:/job/USA-Walnut-Creek-CA---WR/Embedded-Software---Engineering-Intern_J000704386",
+      "workday:aptiv:/job/USA-Walnut-Creek-CA---WR/Intern---Compiler-Team_J000704385",
+      "workday:aptiv:/job/USA-Home-Office---WR/Linux-Software-Development-Intern_J000704398",
+      "workday:aptiv:/job/USA-Home-Office---WR/Linux-Software-Development-Intern_J000704399"
+    ],
+    "telegram": [
+      "workday:amat:/job/Santa-ClaraCA/Software-Engineering-Summer-Intern--Masters---Santa-Clara--CA-_R2630705",
+      "workday:aptiv:/job/USA-Walnut-Creek-CA---WR/Embedded-Software---Engineering-Intern_J000704386",
+      "workday:aptiv:/job/USA-Walnut-Creek-CA---WR/Intern---Compiler-Team_J000704385",
+      "workday:aptiv:/job/USA-Home-Office---WR/Linux-Software-Development-Intern_J000704398",
+      "workday:aptiv:/job/USA-Home-Office---WR/Linux-Software-Development-Intern_J000704399"
+    ],
     "personal_email": [
       "greenhouse:inversionspace:4744391005",
       "workday:jainglobal:/job/New-York-New-York/Quantitative-Developer-Intern--Summer-2027---New-York-_JR100608",
@@ -75,7 +87,12 @@
       "workday:wustl:/job/Washington-University-North-Campus-University-City-Missouri/Data-Analyst---Emergency-Management-Intern--PRN----Enterprise-Physical-Operations_JR98032-1",
       "workday:applebank:/job/New-York-NY/XMLNAME-2027-Summer-Intern--Information-Security_2026-1416",
       "workday:entrust:/job/United-States---Shakopee-MN-GHQ/Software-Engineering-Co-op_R004425",
-      "workday:globalfoundries:/job/USA---Texas---Austin/Strategic-Pricing---AI-Analytics-Intern--Summer-2027-_JR-2605139"
+      "workday:globalfoundries:/job/USA---Texas---Austin/Strategic-Pricing---AI-Analytics-Intern--Summer-2027-_JR-2605139",
+      "workday:amat:/job/Santa-ClaraCA/Software-Engineering-Summer-Intern--Masters---Santa-Clara--CA-_R2630705",
+      "workday:aptiv:/job/USA-Walnut-Creek-CA---WR/Embedded-Software---Engineering-Intern_J000704386",
+      "workday:aptiv:/job/USA-Walnut-Creek-CA---WR/Intern---Compiler-Team_J000704385",
+      "workday:aptiv:/job/USA-Home-Office---WR/Linux-Software-Development-Intern_J000704398",
+      "workday:aptiv:/job/USA-Home-Office---WR/Linux-Software-Development-Intern_J000704399"
     ]
   }
 }
