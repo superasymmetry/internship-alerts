@@ -3838,6 +3838,18 @@
     }
    }
   },
+  "rave aerospace": {
+   "name": "RAVE Aerospace",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-15",
+     "role_ids": [
+      "workable:raveaerospace:739753C003"
+     ],
+     "count": 1
+    }
+   }
+  },
   "red bull": {
    "name": "Red Bull",
    "cycles": {
@@ -5405,5 +5417,5 @@
    }
   }
  },
- "updated_at": "2026-10-21T07:47:09Z"
+ "updated_at": "2026-10-21T13:30:03Z"
 }
