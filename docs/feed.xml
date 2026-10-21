@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://superasymmetry.github.io/internship-alerts/feed.xml" rel="self"/>
   <link href="https://github.com/superasymmetry/internship-alerts"/>
-  <updated>2026-10-20T23:40:30Z</updated>
+  <updated>2026-10-21T02:14:13Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/superasymmetry/internship-alerts</uri></author>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:LinkedIn3:744000156616169</id>
+    <title>LinkedIn: Software Engineer Intern, Undergraduate - Summer 2027 (Mountain View, CA)</title>
+    <link href="https://jobs.smartrecruiters.com/LinkedIn3/744000156616169"/>
+    <updated>2026-10-21T02:14:13Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Mountain View, CA, United States (Hybrid) · Python, Java, C++, C#, Rust · H-1B track record: ~1.6k approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:ashby:skydio:8a237302-3fe8-4403-b32b-7690f333ba52</id>
     <title>Skydio: Mobile Software Engineer Intern - Summer 2027</title>
@@ -16,20 +24,20 @@
     <summary>Summer 2027 · Software · San Mateo, California, United States · $47/hr · Python, C++, Kotlin, Linux · H-1B track record: ~26 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:oracle:iaziqy.fa.ocs.oraclecloud.com:303922</id>
-    <title>Uber: 2027 Software Engineering Intern, US</title>
-    <link href="https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/303922"/>
-    <updated>2026-10-20T23:40:30Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · San Francisco, CA, United States; Sunnyvale, CA, United States; Seattle, WA, United States · Python, Java, C++, Ruby</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:greenhouse:andurilindustries:5269977007</id>
     <title>Anduril: 2027 Finance Data Analyst Intern</title>
     <link href="https://boards.greenhouse.io/andurilindustries/jobs/5269977007?gh_jid=5269977007"/>
     <updated>2026-10-20T23:40:30Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · Costa Mesa, California, United States · Python, SQL, LLMs, Computer Vision, Databricks</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:iaziqy.fa.ocs.oraclecloud.com:303922</id>
+    <title>Uber: 2027 Software Engineering Intern, US</title>
+    <link href="https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/303922"/>
+    <updated>2026-10-20T23:40:30Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · San Francisco, CA, United States; Sunnyvale, CA, United States; Seattle, WA, United States · Python, Java, C++, Ruby</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:micron:/job/Richardson-TX/Intern---Machine-Learning-Engineering_JR114750</id>
@@ -798,13 +806,5 @@
     <updated>2026-10-18T09:23:10Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · Irvine, CA · Python, C++, ROS</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:genbio:7d0b5764-48ce-4d06-93d2-431742d35604</id>
-    <title>GenBio AI: Research Scientist Intern, AI Molecular Design</title>
-    <link href="https://jobs.lever.co/genbio/7d0b5764-48ce-4d06-93d2-431742d35604"/>
-    <updated>2026-10-18T09:23:10Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Palo Alto, CA · 8,000–10,000 USD/mo · PyTorch, TensorFlow</summary>
   </entry>
 </feed>
