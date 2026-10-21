@@ -375,9 +375,10 @@
      "role_ids": [
       "workday:amfam:/job/WI-Madison/Intern---Application-Billing-Center-Developer_R39407",
       "workday:amfam:/job/WI-Madison/Summer-2027-Data-Analyst-Intern---Agency-Performance--Insights-and-Operations_R39513",
-      "workday:amfam:/job/WI-Madison/Summer-2027-Intern---Data-Analyst_R39404"
+      "workday:amfam:/job/WI-Madison/Summer-2027-Intern---Data-Analyst_R39404",
+      "workday:amfam:/job/WI-Madison/Summer-2027-Intern---Data-Engineer_R39675"
      ],
-     "count": 3
+     "count": 4
     }
    }
   },
@@ -2046,9 +2047,10 @@
       "workday:gdit:/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ226237-1",
       "workday:gdit:/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ228404",
       "workday:gdit:/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ228405",
-      "workday:gdit:/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ228406"
+      "workday:gdit:/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ228406",
+      "workday:gdit:/job/USA-VA-Falls-Church/Technical-Intern---AI-and-Estimation_RQ230646"
      ],
-     "count": 22
+     "count": 23
     }
    }
   },
@@ -2156,11 +2158,12 @@
     "Summer 2027": {
      "first_posted": "2026-08-25",
      "role_ids": [
+      "workday:globalfoundries:/job/USA---California---Santa-Clara/Software-Engineering-Intern--Cloud-Platform--Summer-2027-_JR-2604034",
       "workday:globalfoundries:/job/USA---New-York---Malta/Cybersecurity-Intern--Summer-2027-_JR-2604459",
       "workday:globalfoundries:/job/USA---Texas---Austin/Strategic-Pricing---AI-Analytics-Intern--Summer-2027-_JR-2605139",
       "workday:globalfoundries:/job/USA---Texas---Richardson/AI-ML-Systems-Engineering-Intern--Summer-2027-_JR-2604051"
      ],
-     "count": 3
+     "count": 4
     }
    }
   },
@@ -5460,5 +5463,5 @@
    }
   }
  },
- "updated_at": "2026-10-21T18:30:13Z"
+ "updated_at": "2026-10-21T22:18:35Z"
 }
