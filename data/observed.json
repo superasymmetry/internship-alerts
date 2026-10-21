@@ -3474,9 +3474,10 @@
     "Summer 2027": {
      "first_posted": "2026-09-15",
      "role_ids": [
-      "workday:nvidia:/job/US-CA-Santa-Clara/Research-Intern--Fundamental-Generative-AI---2027_JR2025406"
+      "workday:nvidia:/job/US-CA-Santa-Clara/Research-Intern--Fundamental-Generative-AI---2027_JR2025406",
+      "workday:nvidia:/job/US-CA-Santa-Clara/Systems-Software-Intern--Aerial-PHY--Summer-2027_JR2026530"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -4428,6 +4429,19 @@
       "smartrecruiters:Skyward1:744000147320799"
      ],
      "count": 1
+    }
+   }
+  },
+  "smith nephew": {
+   "name": "Smith+Nephew",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-21",
+     "role_ids": [
+      "workday:smithnephew:/job/Andover-MA/Intern-Agentic-AI-Software-Engineering_R92953",
+      "workday:smithnephew:/job/Andover-MA/Intern-Embedded-Software-Engineering_R92952"
+     ],
+     "count": 2
     }
    }
   },
@@ -5391,5 +5405,5 @@
    }
   }
  },
- "updated_at": "2026-10-21T02:14:13Z"
+ "updated_at": "2026-10-21T07:47:09Z"
 }
