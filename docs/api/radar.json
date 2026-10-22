@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-22T20:48:16Z",
- "data_as_of": "2026-10-22T20:48:16Z",
- "rendered_at": "2026-10-22T20:48:17Z",
+ "generated_at": "2026-10-22T23:53:08Z",
+ "data_as_of": "2026-10-22T23:53:08Z",
+ "rendered_at": "2026-10-22T23:53:08Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/superasymmetry/internship-alerts",
  "companies": [
@@ -4433,6 +4433,25 @@
    }
   },
   {
+   "company": "Pattern",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-16",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-16",
+   "days_until": -6,
+   "status": "open",
+   "url": "https://jobs.lever.co/pattern/48945dce-b5ef-43cd-9d85-f8b26ce5b43e",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-10-16"
+   }
+  },
+  {
    "company": "Ryan",
    "last_cycle_posted": "",
    "posted_on": "2026-10-16",
@@ -4710,6 +4729,25 @@
    "days_until": 0,
    "status": "open",
    "url": "https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4723980006",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-10-22"
+   }
+  },
+  {
+   "company": "WSP",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-22",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-22",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97952",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -8287,5 +8325,5 @@
    }
   }
  ],
- "count": 436
+ "count": 438
 }
