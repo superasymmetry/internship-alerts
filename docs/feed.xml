@@ -5,8 +5,24 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://superasymmetry.github.io/internship-alerts/feed.xml" rel="self"/>
   <link href="https://github.com/superasymmetry/internship-alerts"/>
-  <updated>2026-10-22T06:21:11Z</updated>
+  <updated>2026-10-22T11:59:32Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/superasymmetry/internship-alerts</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:amat:/job/Santa-ClaraCA/XMLNAME-2027-Summer-Intern--Software-Engineer--Bachelors-Degree--Santa-Clara-_R2630672</id>
+    <title>Applied Materials: 2027 Summer Intern, Software Engineer, Bachelors Degree (Santa Clara)</title>
+    <link href="https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2027-Summer-Intern--Software-Engineer--Bachelors-Degree--Santa-Clara-_R2630672"/>
+    <updated>2026-10-22T11:59:32Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Santa Clara,CA · C++, C# · H-1B track record: ~650 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:aptiv:/job/Troy-MI---USA/Software-Development-Intern_J000704861</id>
+    <title>Aptiv: Software Development Intern</title>
+    <link href="https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Troy-MI---USA/Software-Development-Intern_J000704861"/>
+    <updated>2026-10-22T11:59:32Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Troy, MI - USA · Python, Java, C++, C#, JavaScript · H-1B track record: ~251 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:ashby:crusoe:07a8a6a9-975e-471c-ac31-b5aaa97f9af5</id>
     <title>Crusoe: Software Engineering Intern, Summer 2027</title>
@@ -790,21 +806,5 @@
     <updated>2026-10-18T09:23:10Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Security · San Jose, CA · $35/hr · H-1B track record: ~29 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:axontalentcommunity:7993376003</id>
-    <title>Axon: AfroTech 2026 Software Engineering Internship</title>
-    <link href="https://job-boards.greenhouse.io/axontalentcommunity/jobs/7993376003"/>
-    <updated>2026-10-18T09:23:10Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Software · Seattle, Washington, United States · Python, Java, C#, SQL, Scala</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:courierhealth:5258913007</id>
-    <title>Courier Health: Software Engineering Intern (Summer 2027)</title>
-    <link href="https://job-boards.greenhouse.io/courierhealth/jobs/5258913007"/>
-    <updated>2026-10-18T09:23:10Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · New York, New York, United States · $45/hr · TypeScript, React, GraphQL, AWS, Terraform</summary>
   </entry>
 </feed>
