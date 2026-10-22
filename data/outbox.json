@@ -1,16 +1,7 @@
 {
   "pending": {
-    "discord": [
-      "workday:amat:/job/Santa-ClaraCA/XMLNAME-2027-Summer-Intern--Software-Engineer--Bachelors-Degree--Santa-Clara-_R2630672",
-      "workday:aptiv:/job/Troy-MI---USA/Software-Development-Intern_J000704861"
-    ],
-    "telegram": [
-      "workday:amat:/job/Santa-ClaraCA/XMLNAME-2027-Summer-Intern--Software-Engineer--Bachelors-Degree--Santa-Clara-_R2630672",
-      "workday:aptiv:/job/Troy-MI---USA/Software-Development-Intern_J000704861"
-    ],
-    "personal_email": [
-      "workday:amat:/job/Santa-ClaraCA/XMLNAME-2027-Summer-Intern--Software-Engineer--Bachelors-Degree--Santa-Clara-_R2630672",
-      "workday:aptiv:/job/Troy-MI---USA/Software-Development-Intern_J000704861"
-    ]
+    "discord": [],
+    "telegram": [],
+    "personal_email": []
   }
 }
