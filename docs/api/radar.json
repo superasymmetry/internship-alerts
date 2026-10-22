@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-22T11:59:32Z",
- "data_as_of": "2026-10-22T11:59:32Z",
- "rendered_at": "2026-10-22T11:59:33Z",
+ "generated_at": "2026-10-22T17:23:22Z",
+ "data_as_of": "2026-10-22T17:23:22Z",
+ "rendered_at": "2026-10-22T17:23:22Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/superasymmetry/internship-alerts",
  "companies": [
@@ -174,6 +174,25 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-06-01"
+   }
+  },
+  {
+   "company": "Anduril",
+   "last_cycle_posted": "",
+   "posted_on": "2026-06-10",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-06-10",
+   "days_until": -134,
+   "status": "open",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-06-10"
    }
   },
   {
@@ -2011,7 +2030,7 @@
    "expected": "2026-09-03",
    "days_until": -49,
    "status": "open",
-   "url": "https://jobs.ashbyhq.com/skydio/370da6a5-5ae6-48fe-8e08-9b1dcc63bf34",
+   "url": "https://jobs.ashbyhq.com/skydio/79fdda46-4ff5-42c7-b208-55f2084cdb8c",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -2172,25 +2191,6 @@
    }
   },
   {
-   "company": "Schonfeld",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-04",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-04",
-   "days_until": -48,
-   "status": "open",
-   "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8171696",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-09-04"
-   }
-  },
-  {
    "company": "ICF",
    "last_cycle_posted": "",
    "posted_on": "2026-09-07",
@@ -2258,7 +2258,7 @@
    "expected": "2026-09-08",
    "days_until": -44,
    "status": "open",
-   "url": "https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Eden-Prairie-MN-United-States-of-America/Software-Engineering-Internship-2027_R49323",
+   "url": "https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Eden-Prairie-MN-United-States-of-America/Security-Internship-2027_R49322",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -4490,25 +4490,6 @@
    }
   },
   {
-   "company": "Mdtkangaroo",
-   "last_cycle_posted": "",
-   "posted_on": "2026-10-19",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-10-19",
-   "days_until": -3,
-   "status": "open",
-   "url": "https://mdtkangaroo.wd108.myworkdayjobs.com/minimedcareers/job/Northridge-California-United-States-of-America/Software-Engineering-Intern-Summer-2027_R-801814-1",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-10-19"
-   }
-  },
-  {
    "company": "Patreon",
    "last_cycle_posted": "",
    "posted_on": "2026-10-19",
@@ -4715,6 +4696,25 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-10-21"
+   }
+  },
+  {
+   "company": "STR",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-22",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-22",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4723980006",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-10-22"
    }
   },
   {
@@ -6843,25 +6843,6 @@
    }
   },
   {
-   "company": "Anduril",
-   "last_cycle_posted": "",
-   "posted_on": "2026-06-10",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-06-10",
-   "days_until": -134,
-   "status": "dropped",
-   "url": "",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-06-10"
-   }
-  },
-  {
    "company": "Old Mission Capital",
    "last_cycle_posted": "",
    "posted_on": "2026-07-15",
@@ -7524,6 +7505,25 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-09-03"
+   }
+  },
+  {
+   "company": "Schonfeld",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-04",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-04",
+   "days_until": -48,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-04"
    }
   },
   {
@@ -8211,6 +8211,25 @@
    }
   },
   {
+   "company": "Mdtkangaroo",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-19",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-19",
+   "days_until": -3,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-10-19"
+   }
+  },
+  {
    "company": "Berkshire Hathaway Energy",
    "last_cycle_posted": "",
    "posted_on": "2026-10-20",
@@ -8230,5 +8249,5 @@
    }
   }
  ],
- "count": 433
+ "count": 434
 }

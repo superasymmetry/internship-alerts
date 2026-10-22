@@ -5,8 +5,48 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://superasymmetry.github.io/internship-alerts/feed.xml" rel="self"/>
   <link href="https://github.com/superasymmetry/internship-alerts"/>
-  <updated>2026-10-22T11:59:32Z</updated>
+  <updated>2026-10-22T17:23:22Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/superasymmetry/internship-alerts</uri></author>
+  <entry>
+    <id>urn:intern-engine:ashby:openart:8dd52ba6-a5b6-40b1-95fe-50de352fa254</id>
+    <title>OpenArt AI: Early Adopter &amp; Product Builder Intern, Creative AI</title>
+    <link href="https://jobs.ashbyhq.com/openart/8dd52ba6-a5b6-40b1-95fe-50de352fa254"/>
+    <updated>2026-10-22T17:23:22Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · San Carlos, California, USA · $40 – $50 per hour • Offers Commission · Python, TypeScript, JavaScript · sponsorship: offers</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:alliance:/job/Smyrna-Tennessee---United-States-of-America/Cyber-Security-Intern---Summer-2027---Smyrna--TN_R00214879</id>
+    <title>Nissan: Cyber Security Intern - Summer 2027 - Smyrna, TN 🛂</title>
+    <link href="https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Smyrna-Tennessee---United-States-of-America/Cyber-Security-Intern---Summer-2027---Smyrna--TN_R00214879"/>
+    <updated>2026-10-22T17:23:22Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security · Smyrna, Tennessee - United States of America · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ngc:/job/United-States-Texas-San-Antonio/XMLNAME-2027-Cyber-Software-Engineer-Intern---San-Antonio-TX_R10257311</id>
+    <title>Northrop Grumman: 2027 Cyber Software Engineer Intern - San Antonio TX 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Texas-San-Antonio/XMLNAME-2027-Cyber-Software-Engineer-Intern---San-Antonio-TX_R10257311"/>
+    <updated>2026-10-22T17:23:22Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security · United States-Texas-San Antonio · $19.5–$35.5/hr · Python, Java, C++, C#, MATLAB · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:systemstechnologyresearch:4723980006</id>
+    <title>STR: Data Analyst Intern - Summer 2027 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4723980006"/>
+    <updated>2026-10-22T17:23:22Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Arlington, VA · $25.2–$54/hr · SQL · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:trimble:/job/US---CO-Westminster/People-Development-AI---Digital-Learning-Intern_R57819</id>
+    <title>Trimble: People Development AI &amp; Digital Learning Intern</title>
+    <link href="https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/People-Development-AI---Digital-Learning-Intern_R57819"/>
+    <updated>2026-10-22T17:23:22Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · US - CO, Westminster · H-1B track record: ~72 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:amat:/job/Santa-ClaraCA/XMLNAME-2027-Summer-Intern--Software-Engineer--Bachelors-Degree--Santa-Clara-_R2630672</id>
     <title>Applied Materials: 2027 Summer Intern, Software Engineer, Bachelors Degree (Santa Clara)</title>
@@ -275,9 +315,9 @@
     <id>urn:intern-engine:greenhouse:andurilindustries:5269977007</id>
     <title>Anduril: 2027 Finance Data Analyst Intern</title>
     <link href="https://boards.greenhouse.io/andurilindustries/jobs/5269977007?gh_jid=5269977007"/>
-    <updated>2026-10-21T21:57:22Z</updated>
+    <updated>2026-10-20T23:40:30Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Costa Mesa, California, United States · Python, SQL, LLMs, Computer Vision, Databricks · status: closed</summary>
+    <summary>Summer 2027 · Data &amp; ML/AI · Costa Mesa, California, United States · Python, SQL, LLMs, Computer Vision, Databricks</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:iaziqy.fa.ocs.oraclecloud.com:303922</id>
@@ -331,9 +371,9 @@
     <id>urn:intern-engine:ashby:skydio:370da6a5-5ae6-48fe-8e08-9b1dcc63bf34</id>
     <title>Skydio: Embedded Software Engineer Intern - Winer 2027</title>
     <link href="https://jobs.ashbyhq.com/skydio/370da6a5-5ae6-48fe-8e08-9b1dcc63bf34"/>
-    <updated>2026-10-20T20:48:44Z</updated>
+    <updated>2026-10-22T17:04:52Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · San Mateo, California, United States · $47/hr · Python, C++, Linux · H-1B track record: ~26 approvals (FY2022–2023)</summary>
+    <summary>Summer 2027 · Software · San Mateo, California, United States · $47/hr · Python, C++, Linux · status: closed · H-1B track record: ~26 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:fa-essf-saasfaprod1.fa.ocs.oraclecloud.com:10005930</id>
@@ -635,9 +675,9 @@
     <id>urn:intern-engine:workday:mdtkangaroo:/job/Northridge-California-United-States-of-America/Software-Engineering-Intern-Summer-2027_R-801814-1</id>
     <title>Mdtkangaroo: Software Engineering Intern Summer 2027 🛂</title>
     <link href="https://mdtkangaroo.wd108.myworkdayjobs.com/minimedcareers/job/Northridge-California-United-States-of-America/Software-Engineering-Intern-Summer-2027_R-801814-1"/>
-    <updated>2026-10-19T18:02:02Z</updated>
+    <updated>2026-10-22T17:23:22Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Northridge, California, United States of America · $26.5–$45.25/hr · Python, Java, C++, C#, JavaScript · sponsorship: no-sponsorship</summary>
+    <summary>Summer 2027 · Software · Northridge, California, United States of America · $26.5–$45.25/hr · Python, Java, C++, C#, JavaScript · sponsorship: no-sponsorship · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:amat:/job/Santa-ClaraCA/Software-Engineering-Summer-Intern--Masters---Santa-Clara--CA-_R2630705</id>
@@ -766,45 +806,5 @@
     <updated>2026-10-18T09:23:10Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Security · Las Vegas, Nevada · Python, Bash</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:breezy:matrix-design-group:f0fb9ea37c63</id>
-    <title>Matrix Design Group: Software Engineering - Embedded Systems Intern</title>
-    <link href="https://matrix-design-group.breezy.hr/p/f0fb9ea37c63-software-engineering-embedded-systems-intern"/>
-    <updated>2026-10-18T09:23:10Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Newburgh, IN</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:aidashinc:4436057009</id>
-    <title>Aidashinc: Software Engineering Intern, Backend</title>
-    <link href="https://job-boards.greenhouse.io/aidashinc/jobs/4436057009"/>
-    <updated>2026-10-18T09:23:10Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Palo Alto, California, United States · Python, Java, SQL, AWS, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:arcesiumllc:5257176007</id>
-    <title>Arcesium: Software Engineer Intern</title>
-    <link href="https://job-boards.greenhouse.io/arcesiumllc/jobs/5257176007"/>
-    <updated>2026-10-18T09:23:10Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · New York · Java, TypeScript, SQL, Kotlin, AWS · H-1B track record: ~11 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:arcesiumllc:5257199007</id>
-    <title>Arcesium: Infrastructure Engineer Intern</title>
-    <link href="https://job-boards.greenhouse.io/arcesiumllc/jobs/5257199007"/>
-    <updated>2026-10-18T09:23:10Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · New York · Python, Java, LLMs, AWS, Kubernetes · H-1B track record: ~11 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:asteraearlycareer2027:4743021005</id>
-    <title>Astera Labs: CyberSecurity Engineer Intern</title>
-    <link href="https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4743021005"/>
-    <updated>2026-10-18T09:23:10Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security · San Jose, CA · $35/hr · H-1B track record: ~29 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
