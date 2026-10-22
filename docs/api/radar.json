@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-22T17:23:22Z",
- "data_as_of": "2026-10-22T17:23:22Z",
- "rendered_at": "2026-10-22T17:23:22Z",
+ "generated_at": "2026-10-22T20:48:16Z",
+ "data_as_of": "2026-10-22T20:48:16Z",
+ "rendered_at": "2026-10-22T20:48:17Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/superasymmetry/internship-alerts",
  "companies": [
@@ -149,7 +149,7 @@
    "expected": "2026-05-29",
    "days_until": -146,
    "status": "open",
-   "url": "https://jobs.smartrecruiters.com/InfiniteQuant/744000147161390",
+   "url": "https://jobs.smartrecruiters.com/InfiniteQuant/744000147163879",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -320,7 +320,7 @@
    "expected": "2026-07-08",
    "days_until": -106,
    "status": "open",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Tampa/XMLNAME-2027-Cyber-Systems-Engineer-Intern-Tampa-FL_R10249196",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Tampa/XMLNAME-2027-Cyber-Software-Engineer-Intern---Tampa-FL_R10249530",
    "note": "fall opening, many roles need clearance",
    "provenance": {
     "type": "engine-observed",
@@ -4623,25 +4623,6 @@
    }
   },
   {
-   "company": "Crusoe",
-   "last_cycle_posted": "",
-   "posted_on": "2026-10-21",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-10-21",
-   "days_until": -1,
-   "status": "open",
-   "url": "https://jobs.ashbyhq.com/crusoe/07a8a6a9-975e-471c-ac31-b5aaa97f9af5",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-10-21"
-   }
-  },
-  {
    "company": "DP World",
    "last_cycle_posted": "",
    "posted_on": "2026-10-21",
@@ -4696,6 +4677,25 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-10-21"
+   }
+  },
+  {
+   "company": "Allstate Insurance Company",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-22",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-22",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---IL-Remote/Arity---Data-Analytics-Engineer-Intern_R36286",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-10-22"
    }
   },
   {
@@ -8247,7 +8247,45 @@
     "cycle": "Summer 2027",
     "observed_on": "2026-10-20"
    }
+  },
+  {
+   "company": "Crusoe",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-21",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-21",
+   "days_until": -1,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-10-21"
+   }
+  },
+  {
+   "company": "M&T Bank",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-22",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-22",
+   "days_until": 0,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-10-22"
+   }
   }
  ],
- "count": 434
+ "count": 436
 }

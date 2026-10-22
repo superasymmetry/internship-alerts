@@ -236,6 +236,19 @@
     }
    }
   },
+  "allstate insurance": {
+   "name": "Allstate Insurance Company",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-22",
+     "role_ids": [
+      "workday:allstate:/job/USA---IL-Remote/Arity---Data-Analytics-Engineer-Intern_R36286",
+      "workday:allstate:/job/USA---NC-Remote/Arity---Software-Engineer-Intern_R36266"
+     ],
+     "count": 2
+    }
+   }
+  },
   "altera": {
    "name": "Altera Corporation",
    "cycles": {
@@ -279,7 +292,7 @@
     },
     "Summer 2027": {
      "first_posted": "2026-05-13",
-     "count": 12,
+     "count": 13,
      "role_ids": [
       "amazon:amazon:10418355",
       "amazon:amazon:10456239",
@@ -290,6 +303,7 @@
       "amazon:amazon:10557133",
       "amazon:amazon:10559746",
       "amazon:amazon:10559762",
+      "amazon:amazon:10564599",
       "amazon:amazon:10565667",
       "amazon:amazon:10567914",
       "amazon:amazon:10571374"
@@ -2921,6 +2935,18 @@
     }
    }
   },
+  "m t bank": {
+   "name": "M&T Bank",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-22",
+     "role_ids": [
+      "workday:mtb:/job/Buffalo-NY/Technology-Intern---Software-Engineering--Enterprise-API-Services-Development-Team-_R90812"
+     ],
+     "count": 1
+    }
+   }
+  },
   "mach industries": {
    "name": "Mach Industries",
    "cycles": {
@@ -3376,7 +3402,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-07-08",
-     "count": 34,
+     "count": 35,
      "role_ids": [
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Engineering-Intern--Huntsville-AL_R10247486",
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Test-Engineering-Intern--Huntsville-AL_R10247483",
@@ -3411,7 +3437,8 @@
       "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs-CO_R10254007",
       "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10249842",
       "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10257053",
-      "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Software-Engineering-Intern-Dulles-VA_R10253731"
+      "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Software-Engineering-Intern-Dulles-VA_R10253731",
+      "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Systems-Engineering-Internship--AI-Experience----Dulles-VA_R10257423"
      ]
     },
     "Fall 2026": {
@@ -4488,10 +4515,11 @@
       "ashby:skydio:370da6a5-5ae6-48fe-8e08-9b1dcc63bf34",
       "ashby:skydio:79fdda46-4ff5-42c7-b208-55f2084cdb8c",
       "ashby:skydio:8994767e-fd53-4ca2-b0ef-fe0923c1e260",
+      "ashby:skydio:89bb6fee-3cd2-4e0b-a1c2-c73de8c1f9bd",
       "ashby:skydio:8a237302-3fe8-4403-b32b-7690f333ba52",
       "ashby:skydio:ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9"
      ],
-     "count": 5
+     "count": 6
     }
    }
   },
@@ -5493,5 +5521,5 @@
    }
   }
  },
- "updated_at": "2026-10-22T17:23:22Z"
+ "updated_at": "2026-10-22T20:48:16Z"
 }
