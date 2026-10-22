@@ -5,8 +5,32 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://superasymmetry.github.io/internship-alerts/feed.xml" rel="self"/>
   <link href="https://github.com/superasymmetry/internship-alerts"/>
-  <updated>2026-10-21T22:18:35Z</updated>
+  <updated>2026-10-22T00:56:35Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/superasymmetry/internship-alerts</uri></author>
+  <entry>
+    <id>urn:intern-engine:ashby:crusoe:07a8a6a9-975e-471c-ac31-b5aaa97f9af5</id>
+    <title>Crusoe: Software Engineering Intern, Summer 2027</title>
+    <link href="https://jobs.ashbyhq.com/crusoe/07a8a6a9-975e-471c-ac31-b5aaa97f9af5"/>
+    <updated>2026-10-22T00:56:35Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · San Francisco, CA - US · $49/hr · Python, Java, C++, Rust, TypeScript</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:dtna:/job/Portland-OR-US/Vehicle-Electronics-Programming-Station-Intern_DT-20337</id>
+    <title>Daimler Truck: Vehicle Electronics Programming Station Intern</title>
+    <link href="https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Portland-OR-US/Vehicle-Electronics-Programming-Station-Intern_DT-20337"/>
+    <updated>2026-10-22T00:56:35Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Portland, OR US · $21–$29/hr · Python</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:intel:/job/US-California-Folsom/Information-Security-Engineer-Undergraduate-Intern_JR0287588</id>
+    <title>Intel: Information Security Engineer Undergraduate Intern</title>
+    <link href="https://intel.wd1.myworkdayjobs.com/external/job/US-California-Folsom/Information-Security-Engineer-Undergraduate-Intern_JR0287588"/>
+    <updated>2026-10-22T00:56:35Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · US, California, Folsom · Python, JavaScript, SQL, LLMs, Linux · H-1B track record: ~4.8k approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:ashby:metalenz:979c12dd-e71a-41b5-9c5f-a0d7204a22f6</id>
     <title>Metalenz: Camera Software Intern</title>
@@ -782,29 +806,5 @@
     <updated>2026-10-18T09:23:10Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · New York, New York, United States · $45/hr · TypeScript, React, GraphQL, AWS, Terraform</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:cssmerge:8869106002</id>
-    <title>Atoms: Machine Learning Engineer Intern</title>
-    <link href="https://job-boards.greenhouse.io/cssmerge/jobs/8869106002"/>
-    <updated>2026-10-18T09:23:10Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Data &amp; ML/AI · San Francisco, CA · $70/hr · Python, C++, PyTorch, Computer Vision · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:databricks:6865687002</id>
-    <title>Databricks: Software Engineering Intern (2027)</title>
-    <link href="https://databricks.com/company/careers/open-positions/job?gh_jid=6865687002"/>
-    <updated>2026-10-18T09:23:10Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Bellevue, Washington; Mountain View, California; San Francisco, California; Vancouver, Canada · Python, Java, C++, Databricks · H-1B track record: ~308 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:datacor:5242412007</id>
-    <title>Datacor: Summer 2027 AI Engineer Intern</title>
-    <link href="https://job-boards.greenhouse.io/datacor/jobs/5242412007"/>
-    <updated>2026-10-18T09:23:10Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Remote, US · Python, Java, C++, LLMs, AWS</summary>
   </entry>
 </feed>
