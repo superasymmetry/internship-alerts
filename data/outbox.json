@@ -1,31 +1,7 @@
 {
   "pending": {
-    "discord": [
-      "amazon:amazon:10564599",
-      "ashby:skydio:89bb6fee-3cd2-4e0b-a1c2-c73de8c1f9bd",
-      "workday:allstate:/job/USA---IL-Remote/Arity---Data-Analytics-Engineer-Intern_R36286",
-      "workday:allstate:/job/USA---NC-Remote/Arity---Software-Engineer-Intern_R36266",
-      "workday:kiongroup:/job/Grand-Rapids-MI-United-States/Software-Analytics-Co-op_JR-0096723-1",
-      "workday:insperity:/job/Kingwood-TX/Rotational-AI-Intern_JR103460",
-      "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Systems-Engineering-Internship--AI-Experience----Dulles-VA_R10257423"
-    ],
-    "telegram": [
-      "amazon:amazon:10564599",
-      "ashby:skydio:89bb6fee-3cd2-4e0b-a1c2-c73de8c1f9bd",
-      "workday:allstate:/job/USA---IL-Remote/Arity---Data-Analytics-Engineer-Intern_R36286",
-      "workday:allstate:/job/USA---NC-Remote/Arity---Software-Engineer-Intern_R36266",
-      "workday:kiongroup:/job/Grand-Rapids-MI-United-States/Software-Analytics-Co-op_JR-0096723-1",
-      "workday:insperity:/job/Kingwood-TX/Rotational-AI-Intern_JR103460",
-      "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Systems-Engineering-Internship--AI-Experience----Dulles-VA_R10257423"
-    ],
-    "personal_email": [
-      "amazon:amazon:10564599",
-      "ashby:skydio:89bb6fee-3cd2-4e0b-a1c2-c73de8c1f9bd",
-      "workday:allstate:/job/USA---IL-Remote/Arity---Data-Analytics-Engineer-Intern_R36286",
-      "workday:allstate:/job/USA---NC-Remote/Arity---Software-Engineer-Intern_R36266",
-      "workday:kiongroup:/job/Grand-Rapids-MI-United-States/Software-Analytics-Co-op_JR-0096723-1",
-      "workday:insperity:/job/Kingwood-TX/Rotational-AI-Intern_JR103460",
-      "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Systems-Engineering-Internship--AI-Experience----Dulles-VA_R10257423"
-    ]
+    "discord": [],
+    "telegram": [],
+    "personal_email": []
   }
 }
