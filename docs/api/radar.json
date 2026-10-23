@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-23T13:10:45Z",
- "data_as_of": "2026-10-23T13:10:45Z",
- "rendered_at": "2026-10-23T13:10:45Z",
+ "generated_at": "2026-10-23T18:09:07Z",
+ "data_as_of": "2026-10-23T18:09:07Z",
+ "rendered_at": "2026-10-23T18:09:07Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/superasymmetry/internship-alerts",
  "companies": [
@@ -2298,6 +2298,25 @@
    "status": "open",
    "url": "https://careers.datadoghq.com/detail/8052118/?gh_jid=8052118",
    "note": "posts roles across the year",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-08"
+   }
+  },
+  {
+   "company": "Merck",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-08",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-08",
+   "days_until": -45,
+   "status": "open",
+   "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Cambridge-320-Bent-Street/XMLNAME-2027-Future-Talent-Program---AI-ML-Biomedical-Imaging-and-Computational-Pathology---Intern_R423515",
+   "note": "",
    "provenance": {
     "type": "engine-observed",
     "cycle": "Summer 2027",
@@ -4753,6 +4772,25 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-10-22"
+   }
+  },
+  {
+   "company": "KLA",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-23",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-23",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineer-Intern--C----Linux----Summer-2027_2641878",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-10-23"
    }
   },
   {
@@ -7641,25 +7679,6 @@
    }
   },
   {
-   "company": "Merck",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-08",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-08",
-   "days_until": -45,
-   "status": "dropped",
-   "url": "",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-09-08"
-   }
-  },
-  {
    "company": "RF-SMART",
    "last_cycle_posted": "",
    "posted_on": "2026-09-08",
@@ -8325,5 +8344,5 @@
    }
   }
  ],
- "count": 438
+ "count": 439
 }
