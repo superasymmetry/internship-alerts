@@ -1,7 +1,16 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": [],
-    "personal_email": []
+    "discord": [
+      "greenhouse:mongodb:8209134",
+      "workday:sedgwick:/job/Telecommuter-MA/Data-Analyst-Intern_R79691"
+    ],
+    "telegram": [
+      "greenhouse:mongodb:8209134",
+      "workday:sedgwick:/job/Telecommuter-MA/Data-Analyst-Intern_R79691"
+    ],
+    "personal_email": [
+      "greenhouse:mongodb:8209134",
+      "workday:sedgwick:/job/Telecommuter-MA/Data-Analyst-Intern_R79691"
+    ]
   }
 }
