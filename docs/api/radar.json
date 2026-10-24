@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-24T09:22:18Z",
- "data_as_of": "2026-10-24T09:22:18Z",
- "rendered_at": "2026-10-24T09:22:18Z",
+ "generated_at": "2026-10-24T13:34:50Z",
+ "data_as_of": "2026-10-24T13:34:50Z",
+ "rendered_at": "2026-10-24T13:34:50Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/superasymmetry/internship-alerts",
  "companies": [
@@ -4794,6 +4794,25 @@
    }
   },
   {
+   "company": "Scout AI",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-23",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-23",
+   "days_until": -1,
+   "status": "open",
+   "url": "https://jobs.ashbyhq.com/scout-ai/3b639e39-abd7-4a0c-9bea-e1cd0a72db99",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-10-23"
+   }
+  },
+  {
    "company": "APEX Analytix",
    "last_cycle_posted": "",
    "posted_on": "",
@@ -8344,5 +8363,5 @@
    }
   }
  ],
- "count": 439
+ "count": 440
 }
