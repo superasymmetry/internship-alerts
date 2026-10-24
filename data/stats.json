@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-24T04:48:22Z",
-  "fetched_at": "2026-10-24T04:48:22Z",
-  "duration_seconds": 1248.3,
+  "generated_at": "2026-10-24T09:22:18Z",
+  "fetched_at": "2026-10-24T09:22:18Z",
+  "duration_seconds": 1040.0,
   "companies_total": 5122,
   "companies_by_source": {
     "greenhouse": 1132,
@@ -18,26 +18,27 @@
     "microsoft_program": 1,
     "eightfold": 1
   },
-  "quarantined": 353,
-  "fetched_ok": 4657,
-  "fetch_errors": 112,
+  "quarantined": 369,
+  "fetched_ok": 4618,
+  "fetch_errors": 135,
   "errors_by_source": {
-    "workday": 90,
-    "workable": 21,
-    "greenhouse": 1
+    "workday": 126,
+    "workable": 7,
+    "ashby": 1,
+    "lever": 1
   },
-  "fetch_success_rate": 0.977,
-  "fetch_success_rate_registry": 0.909,
-  "snapshots_complete": 4041,
-  "snapshots_partial": 616,
+  "fetch_success_rate": 0.972,
+  "fetch_success_rate_registry": 0.902,
+  "snapshots_complete": 4014,
+  "snapshots_partial": 604,
   "partial_by_reason": {
-    "result-cap": 613,
-    "malformed-response": 3
+    "result-cap": 598,
+    "malformed-response": 6
   },
-  "degraded_fetches": 3,
-  "roles_matched": 722,
-  "dropped_no_year_in_title": 637,
-  "dropped_offcycle_by_text": 187,
+  "degraded_fetches": 6,
+  "roles_matched": 701,
+  "dropped_no_year_in_title": 646,
+  "dropped_offcycle_by_text": 192,
   "roles_cycle_inferred": 275,
   "roles_by_source": {
     "amazon": 9,
@@ -53,17 +54,17 @@
     "workday": 574
   },
   "roles_by_cycle": {
-    "Summer 2027": 694,
+    "Summer 2027": 693,
     "Not stated": 275,
-    "Fall 2026": 33
+    "Fall 2026": 34
   },
   "roles_by_region": {
     "US": 1002
   },
   "sponsorship_counts": {
-    "unknown": 680,
-    "citizens-only": 192,
-    "no-sponsorship": 123,
+    "unknown": 682,
+    "citizens-only": 189,
+    "no-sponsorship": 124,
     "offers": 7
   },
   "posted_date_coverage": 0.993,
@@ -83,5 +84,5 @@
     "median_days": 19,
     "sample_size": 355
   },
-  "rendered_at": "2026-10-24T04:48:22Z"
+  "rendered_at": "2026-10-24T09:22:18Z"
 }
