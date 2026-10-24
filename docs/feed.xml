@@ -5,8 +5,32 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://superasymmetry.github.io/internship-alerts/feed.xml" rel="self"/>
   <link href="https://github.com/superasymmetry/internship-alerts"/>
-  <updated>2026-10-23T21:40:45Z</updated>
+  <updated>2026-10-24T00:15:02Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/superasymmetry/internship-alerts</uri></author>
+  <entry>
+    <id>urn:intern-engine:greenhouse:amperesand:4465899009</id>
+    <title>Amperesand: AI/ML Engineering Intern</title>
+    <link href="https://job-boards.greenhouse.io/amperesand/jobs/4465899009"/>
+    <updated>2026-10-24T00:15:02Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Sunnyvale, California, United States · Python, Rust, TypeScript, PyTorch, TensorFlow</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:asml:/job/San-Jose-CA-USA/Platform-Software-Engineer-In-Test---Internship-_J-00354558</id>
+    <title>ASML: Platform Software Engineer In Test ( Internship)</title>
+    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Platform-Software-Engineer-In-Test---Internship-_J-00354558"/>
+    <updated>2026-10-24T00:15:02Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · San Jose, CA, USA · Python, C++, Bash</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:idmeuniversityrecruiting:8041991003</id>
+    <title>ID.me: Summer Intern 2027 - Analytics Engineer Intern</title>
+    <link href="https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/8041991003"/>
+    <updated>2026-10-23T21:40:45Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Mountain View, CA · LLMs, dbt, Snowflake</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:oracle:fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com:391876</id>
     <title>Mayo Clinic: Undergraduate Intern - Neurology AI</title>
@@ -14,6 +38,14 @@
     <updated>2026-10-23T21:40:45Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Rochester, MN, United States · H-1B track record: ~585 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Defensive-Cyber-Operations-Undergrad-Intern_R017011</id>
+    <title>The Aerospace Corporation: 2027 Defensive Cyber Operations Undergrad Intern 🇺🇸</title>
+    <link href="https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Defensive-Cyber-Operations-Undergrad-Intern_R017011"/>
+    <updated>2026-10-23T21:40:45Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security · El Segundo, CA · Python, Rust, Kubernetes, Docker · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:amfam:/job/WI-Madison/Product-Data-Engineering-Intern--Hybrid-_R39462</id>
@@ -40,14 +72,6 @@
     <summary>Not stated · Security · Spring, Texas, United States of America · Python, Bash, HTML/CSS, AWS, GCP · H-1B track record: ~499 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:idmeuniversityrecruiting:8041991003</id>
-    <title>ID.me: Summer Intern 2027 - Analytics Engineer Intern</title>
-    <link href="https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/8041991003"/>
-    <updated>2026-10-23T21:40:45Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Mountain View, CA · LLMs, dbt, Snowflake</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:koppers:/job/Peachtree-City-GA/Financial-Data-Analyst-Intern_REQ03221</id>
     <title>Koppers: Financial Data Analyst Intern</title>
     <link href="https://koppers.wd5.myworkdayjobs.com/Koppers/job/Peachtree-City-GA/Financial-Data-Analyst-Intern_REQ03221"/>
@@ -62,14 +86,6 @@
     <updated>2026-10-23T21:40:45Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · USA - Massachusetts - Cambridge (320 Bent Street) · Python, PyTorch · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Defensive-Cyber-Operations-Undergrad-Intern_R017011</id>
-    <title>The Aerospace Corporation: 2027 Defensive Cyber Operations Undergrad Intern 🇺🇸</title>
-    <link href="https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Defensive-Cyber-Operations-Undergrad-Intern_R017011"/>
-    <updated>2026-10-23T21:40:45Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security · El Segundo, CA · Python, Rust, Kubernetes, Docker · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:fspco-op012325:8911276002</id>
@@ -173,7 +189,7 @@
     <link href="https://www.mongodb.com/careers/job/?gh_jid=8209134"/>
     <updated>2026-10-23T13:10:45Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Austin; New York City; Palo Alto; San Francisco; Seattle · Python, Java, C++, JavaScript, Node.js · H-1B track record: ~106 approvals (FY2022–2023)</summary>
+    <summary>Summer 2027 · Software · Austin; New York City; San Francisco · Python, Java, C++, JavaScript, Node.js · H-1B track record: ~106 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:sedgwick:/job/Telecommuter-MA/Data-Analyst-Intern_R79691</id>
@@ -790,21 +806,5 @@
     <updated>2026-10-19T22:37:30Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · New York · $55 per hour · Python, TypeScript, Swift, Kotlin · H-1B track record: ~22 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:eightfold:netflix:790318904468</id>
-    <title>Netflix: Software Engineer Intern - Summer 2027</title>
-    <link href="https://explore.jobs.netflix.net/careers/job/790318904468"/>
-    <updated>2026-10-19T22:37:30Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Los Gatos, California, United States of America · H-1B track record: ~313 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:braze:8301086</id>
-    <title>Braze: Intern, Software Engineering</title>
-    <link href="https://job-boards.greenhouse.io/braze/jobs/8301086"/>
-    <updated>2026-10-19T22:37:30Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · New York City · $60/hr · H-1B track record: ~21 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
