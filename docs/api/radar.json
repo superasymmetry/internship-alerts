@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-24T00:15:02Z",
- "data_as_of": "2026-10-24T00:15:02Z",
- "rendered_at": "2026-10-24T00:15:02Z",
+ "generated_at": "2026-10-24T04:48:22Z",
+ "data_as_of": "2026-10-24T04:48:22Z",
+ "rendered_at": "2026-10-24T04:48:22Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/superasymmetry/internship-alerts",
  "companies": [
@@ -2248,6 +2248,25 @@
    }
   },
   {
+   "company": "C.H. Robinson",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-08",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-08",
+   "days_until": -46,
+   "status": "open",
+   "url": "https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Eden-Prairie-MN-United-States-of-America/Security-Internship-2027_R49322",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-08"
+   }
+  },
+  {
    "company": "Coinbase",
    "last_cycle_posted": "",
    "posted_on": "2026-09-08",
@@ -4312,25 +4331,6 @@
    "status": "open",
    "url": "https://explore.jobs.netflix.net/careers/job/790318904468",
    "note": "opens early fall for next summer",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-10-13"
-   }
-  },
-  {
-   "company": "Rhombus",
-   "last_cycle_posted": "",
-   "posted_on": "2026-10-13",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-10-13",
-   "days_until": -11,
-   "status": "open",
-   "url": "https://jobs.lever.co/rhombus-systems/59e7a5f3-b457-491d-af08-b629ad35e380",
-   "note": "",
    "provenance": {
     "type": "engine-observed",
     "cycle": "Summer 2027",
@@ -7622,25 +7622,6 @@
    }
   },
   {
-   "company": "C.H. Robinson",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-08",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-08",
-   "days_until": -46,
-   "status": "dropped",
-   "url": "",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-09-08"
-   }
-  },
-  {
    "company": "Devon Energy",
    "last_cycle_posted": "",
    "posted_on": "2026-09-08",
@@ -8265,6 +8246,25 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-10-06"
+   }
+  },
+  {
+   "company": "Rhombus",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-13",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-13",
+   "days_until": -11,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-10-13"
    }
   },
   {
