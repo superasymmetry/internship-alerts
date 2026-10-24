@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-24T13:34:50Z",
- "data_as_of": "2026-10-24T13:34:50Z",
- "rendered_at": "2026-10-24T13:34:50Z",
+ "generated_at": "2026-10-24T17:16:16Z",
+ "data_as_of": "2026-10-24T17:16:16Z",
+ "rendered_at": "2026-10-24T17:16:17Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/superasymmetry/internship-alerts",
  "companies": [
@@ -4718,6 +4718,25 @@
    }
   },
   {
+   "company": "CVS Health",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-22",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-22",
+   "days_until": -2,
+   "status": "open",
+   "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Innovation---Technology-Internship--Software-Engineering--Data---Intelligence-Summer-2027-Undergrad_R1081114",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-10-22"
+   }
+  },
+  {
    "company": "STR",
    "last_cycle_posted": "",
    "posted_on": "2026-10-22",
@@ -8363,5 +8382,5 @@
    }
   }
  ],
- "count": 440
+ "count": 441
 }

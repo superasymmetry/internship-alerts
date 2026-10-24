@@ -1,7 +1,40 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": [],
-    "personal_email": []
+    "discord": [
+      "workday:avav:/job/Sunrise-FL/Software-Engineering-Intern_8797",
+      "workday:avav:/job/Moorpark-CA/Software-Engineering-Intern_9094",
+      "workday:avav:/job/Minneapolis-MN/Software-Engineering-Intern_8940",
+      "workday:avav:/job/San-Diego-CA/Software-Engineering-Intern_8828",
+      "workday:avav:/job/Centreville-VA/Machine-Learning-Engineering-Intern_8941",
+      "workday:avav:/job/Simi-Valley-CA/XMLNAME--Digital-Business-Technology-Infrastructure--DBT--Intern_8885",
+      "workday:avav:/job/Leesburg-VA/Titan-SV-Software-Engineer-Intern_8901",
+      "workday:avav:/job/Germantown-MD/Hypersonic-RF-Software-Engineering-Intern_8993",
+      "workday:cvshealth:/job/NY---New-York/Innovation---Technology-Internship--Software-Engineering--Data---Intelligence-Summer-2027-Undergrad_R1081114",
+      "workday:cvshealth:/job/NY---New-York/Innovation---Technology-Internship--Software-Engineering--Data---Intelligence-Summer-2027-Graduate_R1081128"
+    ],
+    "telegram": [
+      "workday:avav:/job/Sunrise-FL/Software-Engineering-Intern_8797",
+      "workday:avav:/job/Moorpark-CA/Software-Engineering-Intern_9094",
+      "workday:avav:/job/Minneapolis-MN/Software-Engineering-Intern_8940",
+      "workday:avav:/job/San-Diego-CA/Software-Engineering-Intern_8828",
+      "workday:avav:/job/Centreville-VA/Machine-Learning-Engineering-Intern_8941",
+      "workday:avav:/job/Simi-Valley-CA/XMLNAME--Digital-Business-Technology-Infrastructure--DBT--Intern_8885",
+      "workday:avav:/job/Leesburg-VA/Titan-SV-Software-Engineer-Intern_8901",
+      "workday:avav:/job/Germantown-MD/Hypersonic-RF-Software-Engineering-Intern_8993",
+      "workday:cvshealth:/job/NY---New-York/Innovation---Technology-Internship--Software-Engineering--Data---Intelligence-Summer-2027-Undergrad_R1081114",
+      "workday:cvshealth:/job/NY---New-York/Innovation---Technology-Internship--Software-Engineering--Data---Intelligence-Summer-2027-Graduate_R1081128"
+    ],
+    "personal_email": [
+      "workday:avav:/job/Sunrise-FL/Software-Engineering-Intern_8797",
+      "workday:avav:/job/Moorpark-CA/Software-Engineering-Intern_9094",
+      "workday:avav:/job/Minneapolis-MN/Software-Engineering-Intern_8940",
+      "workday:avav:/job/San-Diego-CA/Software-Engineering-Intern_8828",
+      "workday:avav:/job/Centreville-VA/Machine-Learning-Engineering-Intern_8941",
+      "workday:avav:/job/Simi-Valley-CA/XMLNAME--Digital-Business-Technology-Infrastructure--DBT--Intern_8885",
+      "workday:avav:/job/Leesburg-VA/Titan-SV-Software-Engineer-Intern_8901",
+      "workday:avav:/job/Germantown-MD/Hypersonic-RF-Software-Engineering-Intern_8993",
+      "workday:cvshealth:/job/NY---New-York/Innovation---Technology-Internship--Software-Engineering--Data---Intelligence-Summer-2027-Undergrad_R1081114",
+      "workday:cvshealth:/job/NY---New-York/Innovation---Technology-Internship--Software-Engineering--Data---Intelligence-Summer-2027-Graduate_R1081128"
+    ]
   }
 }
