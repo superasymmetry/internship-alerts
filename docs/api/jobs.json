@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-25T14:39:47Z",
- "data_as_of": "2026-10-25T14:39:47Z",
- "rendered_at": "2026-10-25T14:39:47Z",
+ "generated_at": "2026-10-25T18:10:09Z",
+ "data_as_of": "2026-10-25T18:10:09Z",
+ "rendered_at": "2026-10-25T18:10:09Z",
  "source": "https://github.com/superasymmetry/internship-alerts",
  "h1b_window": "FY2022–2023",
- "count": 998,
+ "count": 997,
  "jobs": [
   {
    "id": "workday:cvshealth:/job/NY---New-York/Innovation---Technology-Internship--Software-Engineering--Data---Intelligence-Summer-2027-Undergrad_R1081114",
@@ -25066,35 +25066,6 @@
    "underclass_audience": null,
    "source": "oracle",
    "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workday:brunswick:/job/Oshkosh-WI/Mercury-Marine--Software-Validation-Intern_JR-051160",
-   "company": "Brunswick",
-   "title": "Mercury Marine: G3 Software Engineering Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Oshkosh, WI",
-   "url": "https://brunswick.wd1.myworkdayjobs.com/search/job/Oshkosh-WI/Mercury-Marine--Software-Validation-Intern_JR-051160",
-   "posted_at": "2026-08-25T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-08-25T19:58:52Z",
-   "sponsorship": "unknown",
-   "salary": "$18–$27.5/hr",
-   "skills": [
-    "Python",
-    "C++",
-    "C#"
-   ],
-   "class_year": null,
-   "underclass_program_key": null,
-   "underclass_program": null,
-   "underclass_audience": null,
-   "source": "workday",
-   "h1b_approvals": 54,
    "program": "Internship",
    "remote": false
   },
