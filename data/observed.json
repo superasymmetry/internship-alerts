@@ -2399,6 +2399,18 @@
     }
    }
   },
+  "hive financial systems": {
+   "name": "Hive Financial Systems",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-26",
+     "role_ids": [
+      "greenhouse:hivefinancialsystems:5274887007"
+     ],
+     "count": 1
+    }
+   }
+  },
   "hmh": {
    "name": "HMH",
    "cycles": {
@@ -3893,6 +3905,18 @@
      "first_posted": "2026-10-04",
      "role_ids": [
       "workday:primient:/job/Schaumburg-IL/AI-Analyst-Intern---Summer-2027_JREQ7056"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "ptc": {
+   "name": "PTC",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-26",
+     "role_ids": [
+      "workday:ptc:/job/Boston-MA-USA/Software-Engineer-Intern--Summer-2027-_JR112943"
      ],
      "count": 1
     }
@@ -5610,5 +5634,5 @@
    }
   }
  },
- "updated_at": "2026-10-26T08:02:59Z"
+ "updated_at": "2026-10-26T15:31:36Z"
 }

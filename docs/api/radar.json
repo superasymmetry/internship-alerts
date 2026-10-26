@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-26T08:02:59Z",
- "data_as_of": "2026-10-26T08:02:59Z",
- "rendered_at": "2026-10-26T08:02:59Z",
+ "generated_at": "2026-10-26T15:31:36Z",
+ "data_as_of": "2026-10-26T15:31:36Z",
+ "rendered_at": "2026-10-26T15:31:36Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/superasymmetry/internship-alerts",
  "companies": [
@@ -2229,25 +2229,6 @@
    }
   },
   {
-   "company": "C.H. Robinson",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-08",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-08",
-   "days_until": -48,
-   "status": "open",
-   "url": "https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Eden-Prairie-MN-United-States-of-America/Security-Internship-2027_R49322",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-09-08"
-   }
-  },
-  {
    "company": "Coinbase",
    "last_cycle_posted": "",
    "posted_on": "2026-09-08",
@@ -2942,7 +2923,7 @@
    "expected": "2026-09-14",
    "days_until": -42,
    "status": "open",
-   "url": "https://job-boards.greenhouse.io/singlestore/jobs/8205514",
+   "url": "https://job-boards.greenhouse.io/singlestore/jobs/8154399",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -3284,7 +3265,7 @@
    "expected": "2026-09-17",
    "days_until": -39,
    "status": "open",
-   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Burlington-VT/SRAM-Software-Engineer-Intern--BS---Summer-2027_2603760-1",
+   "url": "https://marvell.wd1.myworkdayjobs.com/marvellcareers2/job/Burlington-VT/SRAM-Software-Engineer-Intern--BS---Summer-2027_2603760",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -4791,6 +4772,44 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-10-23"
+   }
+  },
+  {
+   "company": "Hive Financial Systems",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-26",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-26",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/hivefinancialsystems/jobs/5274887007",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-10-26"
+   }
+  },
+  {
+   "company": "PTC",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-26",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-26",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://ptc.wd1.myworkdayjobs.com/ptc/job/Boston-MA-USA/Software-Engineer-Intern--Summer-2027-_JR112943",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-10-26"
    }
   },
   {
@@ -7641,6 +7660,25 @@
    }
   },
   {
+   "company": "C.H. Robinson",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-08",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-08",
+   "days_until": -48,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-08"
+   }
+  },
+  {
    "company": "Devon Energy",
    "last_cycle_posted": "",
    "posted_on": "2026-09-08",
@@ -8382,5 +8420,5 @@
    }
   }
  ],
- "count": 441
+ "count": 443
 }
