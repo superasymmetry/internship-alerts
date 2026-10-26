@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://superasymmetry.github.io/internship-alerts/feed.xml" rel="self"/>
   <link href="https://github.com/superasymmetry/internship-alerts"/>
-  <updated>2026-10-25T23:26:58Z</updated>
+  <updated>2026-10-26T01:56:45Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/superasymmetry/internship-alerts</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:hpe:/job/San-Jose-California/AI-ML-Developer-Intern_1217413</id>
+    <title>Hewlett Packard Enterprise: AI/ML Developer Intern</title>
+    <link href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/San-Jose-California/AI-ML-Developer-Intern_1217413"/>
+    <updated>2026-10-26T01:56:44Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · San Jose, California · Python, scikit-learn, LLMs, HTML/CSS, Spark · H-1B track record: ~499 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workable:connectprep:1AF4F8C65F</id>
     <title>ConnectPrep: Data Analyst Internship 🇺🇸</title>
@@ -798,13 +806,5 @@
     <updated>2026-10-20T23:40:30Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Wisconsin - Remote · C#, JavaScript, React, Angular, .NET</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:skydio:370da6a5-5ae6-48fe-8e08-9b1dcc63bf34</id>
-    <title>Skydio: Embedded Software Engineer Intern - Winer 2027</title>
-    <link href="https://jobs.ashbyhq.com/skydio/370da6a5-5ae6-48fe-8e08-9b1dcc63bf34"/>
-    <updated>2026-10-22T17:04:52Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · San Mateo, California, United States · $47/hr · Python, C++, Linux · status: closed · H-1B track record: ~26 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
