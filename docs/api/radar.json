@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-27T05:49:10Z",
- "data_as_of": "2026-10-27T05:49:10Z",
- "rendered_at": "2026-10-27T05:49:10Z",
+ "generated_at": "2026-10-27T11:13:42Z",
+ "data_as_of": "2026-10-27T11:13:42Z",
+ "rendered_at": "2026-10-27T11:13:42Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/superasymmetry/internship-alerts",
  "companies": [
@@ -3293,6 +3293,25 @@
    }
   },
   {
+   "company": "Visa",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-17",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-17",
+   "days_until": -40,
+   "status": "open",
+   "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Business-Strategy-Intern--Data-and-AI-Team---Summer-2027_REF089884W-2",
+   "note": "late-summer opening",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-17"
+   }
+  },
+  {
    "company": "Zekelman Industries",
    "last_cycle_posted": "",
    "posted_on": "2026-09-17",
@@ -3863,25 +3882,6 @@
    }
   },
   {
-   "company": "Harvey",
-   "last_cycle_posted": "",
-   "posted_on": "2026-10-02",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-10-02",
-   "days_until": -25,
-   "status": "open",
-   "url": "https://jobs.ashbyhq.com/harvey/06d64648-b84b-48ae-94a2-d9c06dfdcb5d",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-10-02"
-   }
-  },
-  {
    "company": "HNTB",
    "last_cycle_posted": "",
    "posted_on": "2026-10-02",
@@ -4101,7 +4101,7 @@
    "expected": "2026-10-07",
    "days_until": -20,
    "status": "open",
-   "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Software-Engineer-enGen-Undergraduate-Intern_J289812",
+   "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Camp-Hill-PA-17011-Center-Street-Building-1B/Summer-2027-Cyber-Risk-Management-Analyst-Undergraduate-Intern_J286841",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -8021,25 +8021,6 @@
    }
   },
   {
-   "company": "Visa",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-17",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-17",
-   "days_until": -40,
-   "status": "dropped",
-   "url": "",
-   "note": "late-summer opening",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-09-17"
-   }
-  },
-  {
    "company": "Brown Brothers Harriman",
    "last_cycle_posted": "",
    "posted_on": "2026-09-19",
@@ -8284,6 +8265,25 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-10-01"
+   }
+  },
+  {
+   "company": "Harvey",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-02",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-02",
+   "days_until": -25,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-10-02"
    }
   },
   {
