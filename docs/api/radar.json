@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-27T11:13:42Z",
- "data_as_of": "2026-10-27T11:13:42Z",
- "rendered_at": "2026-10-27T11:13:42Z",
+ "generated_at": "2026-10-27T16:46:03Z",
+ "data_as_of": "2026-10-27T16:46:03Z",
+ "rendered_at": "2026-10-27T16:46:03Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/superasymmetry/internship-alerts",
  "companies": [
@@ -4813,6 +4813,25 @@
    }
   },
   {
+   "company": "JM Family",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-27",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-27",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Data-Engineer-Intern_JR105120",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-10-27"
+   }
+  },
+  {
    "company": "APEX Analytix",
    "last_cycle_posted": "",
    "posted_on": "",
@@ -8477,5 +8496,5 @@
    }
   }
  ],
- "count": 446
+ "count": 447
 }
