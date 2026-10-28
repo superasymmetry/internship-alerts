@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-28T13:49:09Z",
- "data_as_of": "2026-10-28T13:49:09Z",
- "rendered_at": "2026-10-28T13:49:10Z",
+ "generated_at": "2026-10-28T19:23:37Z",
+ "data_as_of": "2026-10-28T19:23:37Z",
+ "rendered_at": "2026-10-28T19:23:37Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/superasymmetry/internship-alerts",
  "companies": [
@@ -383,6 +383,25 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-07-14"
+   }
+  },
+  {
+   "company": "Old Mission",
+   "last_cycle_posted": "",
+   "posted_on": "2026-07-15",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-07-15",
+   "days_until": -105,
+   "status": "open",
+   "url": "https://jobs.ashbyhq.com/old-mission-capital/d003aaa4-a1e9-46b5-b271-eaccc15db9d6",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-07-15"
    }
   },
   {
@@ -2153,6 +2172,25 @@
    }
   },
   {
+   "company": "Schonfeld",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-04",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-04",
+   "days_until": -54,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8171694",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-04"
+   }
+  },
+  {
    "company": "ICF",
    "last_cycle_posted": "",
    "posted_on": "2026-09-07",
@@ -2260,6 +2298,25 @@
    "status": "open",
    "url": "https://careers.datadoghq.com/detail/8052118/?gh_jid=8052118",
    "note": "posts roles across the year",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-08"
+   }
+  },
+  {
+   "company": "FUTO",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-08",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-08",
+   "days_until": -50,
+   "status": "open",
+   "url": "https://jobs.lever.co/futo-org/7dd9877a-9009-408d-aa50-623cd5153f70",
+   "note": "",
    "provenance": {
     "type": "engine-observed",
     "cycle": "Summer 2027",
@@ -3958,25 +4015,6 @@
    }
   },
   {
-   "company": "MEMX",
-   "last_cycle_posted": "",
-   "posted_on": "2026-10-06",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-10-06",
-   "days_until": -22,
-   "status": "open",
-   "url": "https://job-boards.greenhouse.io/memx/jobs/5445236008",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-10-06"
-   }
-  },
-  {
    "company": "Niantic Spatial",
    "last_cycle_posted": "",
    "posted_on": "2026-10-06",
@@ -4870,6 +4908,25 @@
    }
   },
   {
+   "company": "Clean Harbors",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-28",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-28",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/167672",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-10-28"
+   }
+  },
+  {
    "company": "Infleqtion",
    "last_cycle_posted": "",
    "posted_on": "2026-10-28",
@@ -4899,7 +4956,7 @@
    "expected": "2026-10-28",
    "days_until": 0,
    "status": "open",
-   "url": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Software-Engineer_R-10068",
+   "url": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Software-Engineer_R-10046",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -7736,25 +7793,6 @@
    }
   },
   {
-   "company": "Schonfeld",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-04",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-04",
-   "days_until": -54,
-   "status": "dropped",
-   "url": "",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-09-04"
-   }
-  },
-  {
    "company": "Dropbox",
    "last_cycle_posted": "",
    "posted_on": "2026-09-07",
@@ -8458,6 +8496,25 @@
    }
   },
   {
+   "company": "MEMX",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-06",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-06",
+   "days_until": -22,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-10-06"
+   }
+  },
+  {
    "company": "Rhombus",
    "last_cycle_posted": "",
    "posted_on": "2026-10-13",
@@ -8629,5 +8686,5 @@
    }
   }
  ],
- "count": 454
+ "count": 457
 }

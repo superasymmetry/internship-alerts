@@ -18,8 +18,9 @@
    "cycles": {
     "Fall 2026": {
      "first_posted": "2026-06-18",
-     "count": 3,
+     "count": 4,
      "role_ids": [
+      "workday:abb:/job/Milpitas-California-USA/AI-Robotics-Intern--Fall-2026_JR00044846",
       "workday:abb:/job/Milpitas-California-USA/AI-Robotics-UI-UX-Intern--Fall-2026_JR00044847-1",
       "workday:abb:/job/Milpitas-California-USA/Physical-AI-Robotics-Simulation-Intern--Fall-2026_JR00044848-1",
       "workday:abb:/job/USA-NC-Cary/AI---Data-Scientist-AI-Intern---Fall-2026_JR00036225"
@@ -1281,6 +1282,18 @@
     }
    }
   },
+  "clean harbors": {
+   "name": "Clean Harbors",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-28",
+     "role_ids": [
+      "oracle:epyc.fa.us2.oraclecloud.com:167672"
+     ],
+     "count": 1
+    }
+   }
+  },
   "cmu": {
    "name": "Cmu",
    "cycles": {
@@ -2083,6 +2096,18 @@
      "first_posted": "2026-08-14",
      "role_ids": [
       "greenhouse:freeformfuturecorp:7872198003"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "futo": {
+   "name": "FUTO",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-08",
+     "role_ids": [
+      "lever:futo-org:7dd9877a-9009-408d-aa50-623cd5153f70"
      ],
      "count": 1
     }
@@ -3739,6 +3764,18 @@
     }
    }
   },
+  "old mission": {
+   "name": "Old Mission",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-07-15",
+     "role_ids": [
+      "ashby:old-mission-capital:d003aaa4-a1e9-46b5-b271-eaccc15db9d6"
+     ],
+     "count": 1
+    }
+   }
+  },
   "old mission capital": {
    "name": "Old Mission Capital",
    "cycles": {
@@ -4541,11 +4578,12 @@
     "Summer 2027": {
      "first_posted": "2026-09-04",
      "role_ids": [
+      "greenhouse:schonfeld:8171694",
       "greenhouse:schonfeld:8171696",
       "greenhouse:schonfeld:8171699",
       "greenhouse:schonfeld:8180089"
      ],
-     "count": 3
+     "count": 4
     }
    }
   },
@@ -4628,9 +4666,10 @@
     "Summer 2027": {
      "first_posted": "2026-09-08",
      "role_ids": [
+      "ashby:f7d8749a-72d6-407c-bf98-292ea630c73a:661d7ac4-51df-454d-82c8-2a0d94852036",
       "lever:shieldai:8c850c75-081d-4d09-bebf-096379a93010"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -4819,9 +4858,10 @@
     "Summer 2027": {
      "first_posted": "2026-10-27",
      "role_ids": [
+      "workday:sonos:/job/Boston-MA/Software-Engineering-Intern--Boston-_R2882-1",
       "workday:sonos:/job/Seattle-WA/Software-Engineering-Intern--Seattle-_R2871"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -4957,9 +4997,10 @@
     "Summer 2027": {
      "first_posted": "2026-10-15",
      "role_ids": [
-      "workday:tmobile:/job/Bellevue-Washington/Summer-2027-Software-Engineering-Intern_REQ368322"
+      "workday:tmobile:/job/Bellevue-Washington/Summer-2027-Software-Engineering-Intern_REQ368322",
+      "workday:tmobile:/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Internship_REQ380441"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -5807,5 +5848,5 @@
    }
   }
  },
- "updated_at": "2026-10-28T13:49:09Z"
+ "updated_at": "2026-10-28T19:23:37Z"
 }
