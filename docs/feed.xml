@@ -5,15 +5,15 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://superasymmetry.github.io/internship-alerts/feed.xml" rel="self"/>
   <link href="https://github.com/superasymmetry/internship-alerts"/>
-  <updated>2026-10-28T00:46:43Z</updated>
+  <updated>2026-10-28T06:31:27Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/superasymmetry/internship-alerts</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:asml:/job/San-Jose-CA-USA/Internship---Frontend-Developer_J-00354852</id>
-    <title>ASML: Internship - Frontend Developer</title>
-    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Frontend-Developer_J-00354852"/>
-    <updated>2026-10-28T00:46:43Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · San Jose, CA, USA · $18/hr · Python, TypeScript, JavaScript, React, Git</summary>
+    <id>urn:intern-engine:workday:vsp:/job/Remote-US/Internship--Software-Engineer_R-10068</id>
+    <title>VSP Vision: Internship, Software Engineer</title>
+    <link href="https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Software-Engineer_R-10068"/>
+    <updated>2026-10-28T06:31:27Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Remote US · C#, SQL, Azure</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:samsungsemiconductor:8046795003</id>
@@ -22,6 +22,14 @@
     <updated>2026-10-28T00:46:43Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · San Jose, California, United States · Python, C++, Bash, Verilog</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:asml:/job/San-Jose-CA-USA/Internship---Frontend-Developer_J-00354852</id>
+    <title>ASML: Internship - Frontend Developer</title>
+    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Frontend-Developer_J-00354852"/>
+    <updated>2026-10-28T00:46:43Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · San Jose, CA, USA · $18/hr · Python, TypeScript, JavaScript, React, Git</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:amazon:amazon:10590290</id>
@@ -798,13 +806,5 @@
     <updated>2026-10-23T18:09:07Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Milpitas, CA · $37–$58/hr · Python, PyTorch, TensorFlow, scikit-learn, LLMs · H-1B track record: ~369 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:msd:/job/USA---Massachusetts---Cambridge-320-Bent-Street/XMLNAME-2027-Future-Talent-Program---AI-ML-Biomedical-Imaging-and-Computational-Pathology---Intern_R423515</id>
-    <title>Merck: 2027 Future Talent Program - AI/ML Biomedical Imaging and Computational Pathology - Intern 🛂</title>
-    <link href="https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Cambridge-320-Bent-Street/XMLNAME-2027-Future-Talent-Program---AI-ML-Biomedical-Imaging-and-Computational-Pathology---Intern_R423515"/>
-    <updated>2026-10-23T18:09:07Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · USA - Massachusetts - Cambridge (320 Bent Street) · Python, PyTorch, LLMs, Computer Vision · sponsorship: no-sponsorship</summary>
   </entry>
 </feed>
