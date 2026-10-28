@@ -5,15 +5,47 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://superasymmetry.github.io/internship-alerts/feed.xml" rel="self"/>
   <link href="https://github.com/superasymmetry/internship-alerts"/>
-  <updated>2026-10-28T06:31:27Z</updated>
+  <updated>2026-10-28T13:49:09Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/superasymmetry/internship-alerts</uri></author>
+  <entry>
+    <id>urn:intern-engine:workable:coldquanta:EB77DE8198</id>
+    <title>Infleqtion: Summer 2027 Internship - Quantum Software (QSW)</title>
+    <link href="https://apply.workable.com/coldquanta/j/EB77DE8198/"/>
+    <updated>2026-10-28T13:49:09Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Chicago, Illinois, United States · Python, C++, React, HTML/CSS, AWS</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:acehardware:/job/IL---Oak-Brook/IT-Associate-Software-Engineer-2027-Summer-Internship--Full-Time-Paid-12-weeks-_REQ-34797</id>
+    <title>Ace Hardware: IT Associate Software Engineer 2027 Summer Internship (Full Time/Paid/12 weeks)</title>
+    <link href="https://acehardware.wd1.myworkdayjobs.com/External/job/IL---Oak-Brook/IT-Associate-Software-Engineer-2027-Summer-Internship--Full-Time-Paid-12-weeks-_REQ-34797"/>
+    <updated>2026-10-28T13:49:09Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · IL - Oak Brook · $22/hr · Python, C#, JavaScript, SQL, LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:allegion:/job/Golden-CO/Summer-Intern---Software-Systems-Engineering_JR37395-1</id>
+    <title>Allegion: Summer Intern - Software Systems Engineering</title>
+    <link href="https://allegion.wd5.myworkdayjobs.com/careers/job/Golden-CO/Summer-Intern---Software-Systems-Engineering_JR37395-1"/>
+    <updated>2026-10-28T13:49:09Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Golden, CO · $25–$26/hr · AWS, Azure</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:dtna:/job/Portland-OR-US/Software-Release-Management-Intern_DT-20432</id>
+    <title>Daimler Truck: Software Release Management Intern</title>
+    <link href="https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Portland-OR-US/Software-Release-Management-Intern_DT-20432"/>
+    <updated>2026-10-28T13:49:09Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Portland, OR US · $21–$29/hr</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:vsp:/job/Remote-US/Internship--Software-Engineer_R-10068</id>
     <title>VSP Vision: Internship, Software Engineer</title>
     <link href="https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Software-Engineer_R-10068"/>
     <updated>2026-10-28T06:31:27Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Remote US · C#, SQL, Azure</summary>
+    <summary>3 openings · Summer 2027 · Software · Remote US · C#, SQL, Azure</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:samsungsemiconductor:8046795003</id>
@@ -774,37 +806,5 @@
     <updated>2026-10-23T18:09:07Z</updated>
     <category term="Not stated"/>
     <summary>2 openings · Not stated · Software · San Jose, CA, USA · Python, C++, Bash</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-107--400-Collins-Rd-NE--BLDG-107/Software-Engineering-Intern--Summer-2027-_01884054</id>
-    <title>RTX: Software Engineering Intern (Summer 2027)</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-107--400-Collins-Rd-NE--BLDG-107/Software-Engineering-Intern--Summer-2027-_01884054"/>
-    <updated>2026-10-28T00:46:43Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · US-IA-CEDAR RAPIDS-107 ~ 400 Collins Rd NE ~ BLDG 107 · Python, C++, Git · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Software-Engineering-Intern---Summer-2027-_01884375</id>
-    <title>RTX: Software Engineering Intern  (Summer 2027)</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Software-Engineering-Intern---Summer-2027-_01884375"/>
-    <updated>2026-10-28T00:46:43Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · US-IA-CEDAR RAPIDS-193 ~ 1120 Collins Rd NE ~ BLDG193 · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:kla:/job/Milpitas-CA/Software-Engineer-Intern--C----Linux----Summer-2027_2641878</id>
-    <title>KLA: Software Engineer Intern (C++, Linux) – Summer 2027</title>
-    <link href="https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineer-Intern--C----Linux----Summer-2027_2641878"/>
-    <updated>2026-10-23T18:09:07Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Milpitas, CA · $37–$49/hr · C++, Linux, Python, JavaScript · H-1B track record: ~369 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:kla:/job/Milpitas-CA/Software-Engineering-Intern---AI-ML-for-Diagnostics---Calibration_2642129-1</id>
-    <title>KLA: Software Engineering Intern – AI/ML for Diagnostics &amp; Calibration</title>
-    <link href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Engineering-Intern---AI-ML-for-Diagnostics---Calibration_2642129-1"/>
-    <updated>2026-10-23T18:09:07Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Milpitas, CA · $37–$58/hr · Python, PyTorch, TensorFlow, scikit-learn, LLMs · H-1B track record: ~369 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

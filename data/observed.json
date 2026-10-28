@@ -64,6 +64,18 @@
     }
    }
   },
+  "ace hardware": {
+   "name": "Ace Hardware",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-28",
+     "role_ids": [
+      "workday:acehardware:/job/IL---Oak-Brook/IT-Associate-Software-Engineer-2027-Summer-Internship--Full-Time-Paid-12-weeks-_REQ-34797"
+     ],
+     "count": 1
+    }
+   }
+  },
   "achievers": {
    "name": "Achievers",
    "cycles": {
@@ -2744,6 +2756,18 @@
       "smartrecruiters:InfiniteQuant:744000157170821"
      ],
      "count": 13
+    }
+   }
+  },
+  "infleqtion": {
+   "name": "Infleqtion",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-28",
+     "role_ids": [
+      "workable:coldquanta:EB77DE8198"
+     ],
+     "count": 1
     }
    }
   },
@@ -5490,9 +5514,11 @@
     "Summer 2027": {
      "first_posted": "2026-10-28",
      "role_ids": [
-      "workday:vsp:/job/Remote-US/Internship--Software-Engineer_R-10068"
+      "workday:vsp:/job/Remote-US/Internship--Software-Engineer_R-10046",
+      "workday:vsp:/job/Remote-US/Internship--Software-Engineer_R-10068",
+      "workday:vsp:/job/Remote-US/Internship--Software-Engineer_R-10071"
      ],
-     "count": 1
+     "count": 3
     }
    }
   },
@@ -5781,5 +5807,5 @@
    }
   }
  },
- "updated_at": "2026-10-28T06:31:27Z"
+ "updated_at": "2026-10-28T13:49:09Z"
 }
