@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-28T19:23:37Z",
- "data_as_of": "2026-10-28T19:23:37Z",
- "rendered_at": "2026-10-28T19:23:37Z",
+ "generated_at": "2026-10-28T23:28:55Z",
+ "data_as_of": "2026-10-28T23:28:55Z",
+ "rendered_at": "2026-10-28T23:28:56Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/superasymmetry/internship-alerts",
  "companies": [
@@ -339,7 +339,7 @@
    "expected": "2026-07-13",
    "days_until": -107,
    "status": "open",
-   "url": "https://www.akunacapital.com/careers/job/8018847/?gh_jid=8018847",
+   "url": "https://www.akunacapital.com/careers/job/8018856/?gh_jid=8018856",
    "note": "opens ~Aug-Sep",
    "provenance": {
     "type": "engine-observed",
@@ -985,7 +985,7 @@
    "expected": "2026-08-17",
    "days_until": -72,
    "status": "open",
-   "url": "https://job-boards.greenhouse.io/xantium/jobs/4360768009",
+   "url": "https://job-boards.greenhouse.io/xantium/jobs/4371217009",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -2353,7 +2353,7 @@
    "expected": "2026-09-08",
    "days_until": -50,
    "status": "open",
-   "url": "https://jobs.lever.co/shieldai/8c850c75-081d-4d09-bebf-096379a93010",
+   "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/661d7ac4-51df-454d-82c8-2a0d94852036",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -3570,6 +3570,25 @@
    "days_until": -34,
    "status": "open",
    "url": "https://jobs.ashbyhq.com/aurora-operations-inc/a90b7522-4e66-4247-b9ec-7e2bb50b78f4",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-24"
+   }
+  },
+  {
+   "company": "Genesis Molecular AI",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-24",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-24",
+   "days_until": -34,
+   "status": "open",
+   "url": "https://jobs.ashbyhq.com/genesis-molecular-ai/44e3cbdc-949c-426e-a80a-b41c73ad6a99",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -4880,7 +4899,7 @@
    "expected": "2026-10-27",
    "days_until": -1,
    "status": "open",
-   "url": "https://sonos.wd1.myworkdayjobs.com/Sonos/job/Seattle-WA/Software-Engineering-Intern--Seattle-_R2871",
+   "url": "https://sonos.wd1.myworkdayjobs.com/Sonos/job/Boston-MA/Software-Engineering-Intern--Boston-_R2882-1",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -4956,7 +4975,7 @@
    "expected": "2026-10-28",
    "days_until": 0,
    "status": "open",
-   "url": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Software-Engineer_R-10046",
+   "url": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Software-Engineer_R-10068",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -8303,25 +8322,6 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-09-21"
-   }
-  },
-  {
-   "company": "Genesis Molecular AI",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-24",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-24",
-   "days_until": -34,
-   "status": "dropped",
-   "url": "",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-09-24"
    }
   },
   {
