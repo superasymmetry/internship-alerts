@@ -1,7 +1,13 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": [],
-    "personal_email": []
+    "discord": [
+      "workday:kla:/job/Milpitas-CA/Software-Engineer-Intern_2642721-1"
+    ],
+    "telegram": [
+      "workday:kla:/job/Milpitas-CA/Software-Engineer-Intern_2642721-1"
+    ],
+    "personal_email": [
+      "workday:kla:/job/Milpitas-CA/Software-Engineer-Intern_2642721-1"
+    ]
   }
 }
