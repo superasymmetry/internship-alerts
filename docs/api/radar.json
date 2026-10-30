@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-30T02:12:51Z",
- "data_as_of": "2026-10-30T02:12:51Z",
- "rendered_at": "2026-10-30T02:12:52Z",
+ "generated_at": "2026-10-30T08:47:48Z",
+ "data_as_of": "2026-10-30T08:47:48Z",
+ "rendered_at": "2026-10-30T08:47:48Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/superasymmetry/internship-alerts",
  "companies": [
@@ -60,25 +60,6 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2024-08-15"
-   }
-  },
-  {
-   "company": "Glean",
-   "last_cycle_posted": "",
-   "posted_on": "2025-09-03",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2025-09-03",
-   "days_until": -422,
-   "status": "open",
-   "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4747670005",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2025-09-03"
    }
   },
   {
@@ -320,7 +301,7 @@
    "expected": "2026-07-08",
    "days_until": -114,
    "status": "open",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Azusa/XMLNAME-2027-Software-Engineer-Intern---Azusa-CA_R10257903",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Test-Engineering-Intern--Roy-UT_R10258276-1",
    "note": "fall opening, many roles need clearance",
    "provenance": {
     "type": "engine-observed",
@@ -7163,6 +7144,25 @@
     "type": "verified-window",
     "url": "palantir.com/careers",
     "verified_at": "2026-07-21"
+   }
+  },
+  {
+   "company": "Glean",
+   "last_cycle_posted": "",
+   "posted_on": "2025-09-03",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2025-09-03",
+   "days_until": -422,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2025-09-03"
    }
   },
   {
