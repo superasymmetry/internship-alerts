@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-30T08:47:48Z",
- "data_as_of": "2026-10-30T08:47:48Z",
- "rendered_at": "2026-10-30T08:47:48Z",
+ "generated_at": "2026-10-30T15:39:28Z",
+ "data_as_of": "2026-10-30T15:39:28Z",
+ "rendered_at": "2026-10-30T15:39:28Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/superasymmetry/internship-alerts",
  "companies": [
@@ -301,7 +301,7 @@
    "expected": "2026-07-08",
    "days_until": -114,
    "status": "open",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Test-Engineering-Intern--Roy-UT_R10258276-1",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910",
    "note": "fall opening, many roles need clearance",
    "provenance": {
     "type": "engine-observed",
@@ -2315,7 +2315,7 @@
    "expected": "2026-09-08",
    "days_until": -52,
    "status": "open",
-   "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Cambridge-320-Bent-Street/XMLNAME-2027-Future-Talent-Program---AI-ML-Biomedical-Imaging-and-Computational-Pathology---Intern_R423515",
+   "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Cambridge-320-Bent-Street/XMLNAME-2027-Future-Talent-Program---Data--AI--and-Genome-Sciences---Intern_R423333",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -3209,25 +3209,6 @@
    "days_until": -44,
    "status": "open",
    "url": "https://jobs.ashbyhq.com/gecko-robotics/01138338-ff3c-4982-8ba3-5401386bf082",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-09-16"
-   }
-  },
-  {
-   "company": "Nanopath",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-16",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-16",
-   "days_until": -44,
-   "status": "open",
-   "url": "https://nanopath.com/careers?gh_jid=4732881005",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -5019,25 +5000,6 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-10-28"
-   }
-  },
-  {
-   "company": "Path Robotics",
-   "last_cycle_posted": "",
-   "posted_on": "2026-10-29",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-10-29",
-   "days_until": -1,
-   "status": "open",
-   "url": "https://boards.greenhouse.io/pathrobotics/jobs/8924241002?gh_jid=8924241002",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-10-29"
    }
   },
   {
@@ -8268,6 +8230,25 @@
    }
   },
   {
+   "company": "Nanopath",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-16",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-16",
+   "days_until": -44,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-16"
+   }
+  },
+  {
    "company": "Nasdaq",
    "last_cycle_posted": "",
    "posted_on": "2026-09-16",
@@ -8740,6 +8721,25 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-10-22"
+   }
+  },
+  {
+   "company": "Path Robotics",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-29",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-29",
+   "days_until": -1,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-10-29"
    }
   }
  ],
