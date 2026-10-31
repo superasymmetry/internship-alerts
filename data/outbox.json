@@ -1,25 +1,7 @@
 {
   "pending": {
-    "discord": [
-      "oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:41339",
-      "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Vehicle-Aerodynamics-and-Machine-Learning_JR-202622746",
-      "workday:hpe:/job/Sunnyvale-California-United-States-of-America/Software-Engineering-Intern_1214146",
-      "workday:nvidia:/job/US-TX-Austin/AI-Systems-Software-Engineering-Intern---Summer-2027_JR2027170",
-      "workday:vsp:/job/Remote-US/Internship--AI---Agentic---Machine-Learning-Development_R-10072"
-    ],
-    "telegram": [
-      "oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:41339",
-      "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Vehicle-Aerodynamics-and-Machine-Learning_JR-202622746",
-      "workday:hpe:/job/Sunnyvale-California-United-States-of-America/Software-Engineering-Intern_1214146",
-      "workday:nvidia:/job/US-TX-Austin/AI-Systems-Software-Engineering-Intern---Summer-2027_JR2027170",
-      "workday:vsp:/job/Remote-US/Internship--AI---Agentic---Machine-Learning-Development_R-10072"
-    ],
-    "personal_email": [
-      "oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:41339",
-      "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Vehicle-Aerodynamics-and-Machine-Learning_JR-202622746",
-      "workday:hpe:/job/Sunnyvale-California-United-States-of-America/Software-Engineering-Intern_1214146",
-      "workday:nvidia:/job/US-TX-Austin/AI-Systems-Software-Engineering-Intern---Summer-2027_JR2027170",
-      "workday:vsp:/job/Remote-US/Internship--AI---Agentic---Machine-Learning-Development_R-10072"
-    ]
+    "discord": [],
+    "telegram": [],
+    "personal_email": []
   }
 }
