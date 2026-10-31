@@ -5,8 +5,24 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://superasymmetry.github.io/internship-alerts/feed.xml" rel="self"/>
   <link href="https://github.com/superasymmetry/internship-alerts"/>
-  <updated>2026-10-31T11:29:36Z</updated>
+  <updated>2026-10-31T16:34:38Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/superasymmetry/internship-alerts</uri></author>
+  <entry>
+    <id>urn:intern-engine:lever:fireworkhq:36722fbd-2705-4beb-83aa-1884068eaa09</id>
+    <title>Firework: Data Engineer Intern</title>
+    <link href="https://jobs.lever.co/fireworkhq/36722fbd-2705-4beb-83aa-1884068eaa09"/>
+    <updated>2026-10-31T16:34:38Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · San Mateo, California · Python, SQL, Spark, Airflow, Snowflake</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:pretiuminternships2027:8868243002</id>
+    <title>Pretium: 2027 AI, Data &amp; Innovation Summer Internship</title>
+    <link href="https://job-boards.greenhouse.io/pretiuminternships2027/jobs/8868243002"/>
+    <updated>2026-10-31T16:34:38Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · New York, New York</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:lever:tevora:2ad5ba33-3c2a-4e51-a5ab-e5632adb0e0d</id>
     <title>Tevora: Cybersecurity Internship Summer2027 - Federal</title>
@@ -790,21 +806,5 @@
     <updated>2026-10-28T19:23:37Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Boston, MA · Python, Java, C++, JavaScript, Swift · sponsorship: no-sponsorship · H-1B track record: ~54 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:tmobile:/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Internship_REQ380441</id>
-    <title>T-Mobile: Summer 2027 Software Engineering Internship</title>
-    <link href="https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Internship_REQ380441"/>
-    <updated>2026-10-28T19:23:37Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Overland Park, Kansas · $27/hr · H-1B track record: ~697 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:valmont:/job/Omaha-NE/AI---Data-Engineering-Intern_R29310</id>
-    <title>Valmont: AI &amp; Data Engineering Intern</title>
-    <link href="https://valmont.wd1.myworkdayjobs.com/ValmontCareers/job/Omaha-NE/AI---Data-Engineering-Intern_R29310"/>
-    <updated>2026-10-28T19:23:37Z</updated>
-    <category term="Spring 2027"/>
-    <summary>Spring 2027 · Data &amp; ML/AI · Omaha NE · Python, SQL, scikit-learn, Pandas, Azure · status: closed</summary>
   </entry>
 </feed>
