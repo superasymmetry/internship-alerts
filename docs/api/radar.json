@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-01T06:14:08Z",
- "data_as_of": "2026-11-01T06:14:08Z",
- "rendered_at": "2026-11-01T06:14:09Z",
+ "generated_at": "2026-11-01T13:29:24Z",
+ "data_as_of": "2026-11-01T13:29:24Z",
+ "rendered_at": "2026-11-01T13:29:25Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/superasymmetry/internship-alerts",
  "companies": [
@@ -858,25 +858,6 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2026-08-14"
-   }
-  },
-  {
-   "company": "American Express",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-17",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-17",
-   "days_until": -76,
-   "status": "open",
-   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011082",
-   "note": "campus opens mid-summer",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-08-17"
    }
   },
   {
@@ -4566,25 +4547,6 @@
    }
   },
   {
-   "company": "Uber",
-   "last_cycle_posted": "",
-   "posted_on": "2026-10-20",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-10-20",
-   "days_until": -12,
-   "status": "open",
-   "url": "https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/303922",
-   "note": "opens late summer, rolling",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-10-20"
-   }
-  },
-  {
    "company": "DP World",
    "last_cycle_posted": "",
    "posted_on": "2026-10-21",
@@ -7375,6 +7337,25 @@
    }
   },
   {
+   "company": "American Express",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-17",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-17",
+   "days_until": -76,
+   "status": "dropped",
+   "url": "",
+   "note": "campus opens mid-summer",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-08-17"
+   }
+  },
+  {
    "company": "Conagra Brands",
    "last_cycle_posted": "",
    "posted_on": "2026-08-17",
@@ -8717,6 +8698,25 @@
    "status": "dropped",
    "url": "",
    "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-10-20"
+   }
+  },
+  {
+   "company": "Uber",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-20",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-20",
+   "days_until": -12,
+   "status": "dropped",
+   "url": "",
+   "note": "opens late summer, rolling",
    "provenance": {
     "type": "engine-observed",
     "cycle": "Summer 2027",
