@@ -3055,6 +3055,18 @@
     }
    }
   },
+  "knowbe4": {
+   "name": "KnowBe4",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-11-01",
+     "role_ids": [
+      "greenhouse:knowbe4:8919280002"
+     ],
+     "count": 1
+    }
+   }
+  },
   "labcorp": {
    "name": "LabCorp",
    "cycles": {
@@ -5998,5 +6010,5 @@
    }
   }
  },
- "updated_at": "2026-11-01T22:40:55Z"
+ "updated_at": "2026-11-02T02:06:01Z"
 }
