@@ -1,7 +1,13 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": [],
-    "personal_email": []
+    "discord": [
+      "workday:lseg:/job/New-York-City-United-States/Intern---Software-Engineer_R0124266-1"
+    ],
+    "telegram": [
+      "workday:lseg:/job/New-York-City-United-States/Intern---Software-Engineer_R0124266-1"
+    ],
+    "personal_email": [
+      "workday:lseg:/job/New-York-City-United-States/Intern---Software-Engineer_R0124266-1"
+    ]
   }
 }
