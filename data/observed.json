@@ -400,9 +400,11 @@
       "oracle:egug.fa.us2.oraclecloud.com:26012781",
       "oracle:egug.fa.us2.oraclecloud.com:26013190",
       "oracle:egug.fa.us2.oraclecloud.com:26013191",
-      "oracle:egug.fa.us2.oraclecloud.com:26014224"
+      "oracle:egug.fa.us2.oraclecloud.com:26014224",
+      "oracle:egug.fa.us2.oraclecloud.com:26015722",
+      "oracle:egug.fa.us2.oraclecloud.com:26016065"
      ],
-     "count": 33
+     "count": 35
     }
    }
   },
@@ -601,6 +603,18 @@
       "greenhouse:astranis:4705610006"
      ],
      "count": 2
+    }
+   }
+  },
+  "astrazeneca": {
+   "name": "AstraZeneca",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-11-03",
+     "role_ids": [
+      "workday:astrazeneca:/job/US---Gaithersburg---MD/US-Medical-Affairs--AI---Knowledge-Experience-Intern_R-263260"
+     ],
+     "count": 1
     }
    }
   },
@@ -3521,6 +3535,13 @@
       "workday:mosaic:/job/US---Tampa-FL-Lithia-area/Co-op-Student-Admin_64613-1"
      ],
      "count": 1
+    },
+    "Summer 2027": {
+     "first_posted": "2026-11-03",
+     "role_ids": [
+      "workday:mosaic:/job/US---Tampa-FL-Lithia-area/Artificial-Intelligence-Co-Op-Intern---Summer-2027_65420"
+     ],
+     "count": 1
     }
    }
   },
@@ -3715,7 +3736,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-07-08",
-     "count": 41,
+     "count": 42,
      "role_ids": [
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Engineering-Intern--Huntsville-AL_R10247486",
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Test-Engineering-Intern--Huntsville-AL_R10247483",
@@ -3745,6 +3766,7 @@
       "workday:ngc:/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Embedded-Software-Engineer-Intern---Rolling-Meadows-IL_R10252790",
       "workday:ngc:/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Software-Digital-Intern---Rolling-Meadows-IL_R10252812",
       "workday:ngc:/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Software-Engineer-Intern---Rolling-Meadows-IL_R10253772",
+      "workday:ngc:/job/United-States-Maryland-Baltimore/XMLNAME-2027-Electrical-Engineer-Intern---Field-Engineering---Baltimore-MD_R10258965",
       "workday:ngc:/job/United-States-Maryland-Baltimore/XMLNAME-2027-Embedded-Software-Engineer-Intern---Baltimore-MD_R10251464",
       "workday:ngc:/job/United-States-Maryland-Linthicum/XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910",
       "workday:ngc:/job/United-States-North-Carolina-Morrisville/XMLNAME-2027-Software-Engineer-Intern---Morrisville-NC_R10253768",
@@ -6016,9 +6038,10 @@
       "workday:zebra:/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-AI-Engineer--Handheld-Mobile-Computers-_JR103632",
       "workday:zebra:/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103625",
       "workday:zebra:/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103626",
+      "workday:zebra:/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103638",
       "workday:zebra:/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----AI_JR103639"
      ],
-     "count": 4
+     "count": 5
     }
    }
   },
@@ -6060,5 +6083,5 @@
    }
   }
  },
- "updated_at": "2026-11-03T10:17:02Z"
+ "updated_at": "2026-11-03T18:05:54Z"
 }
