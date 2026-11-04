@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-04T11:49:16Z",
- "data_as_of": "2026-11-04T11:49:16Z",
- "rendered_at": "2026-11-04T11:49:16Z",
+ "generated_at": "2026-11-04T19:10:36Z",
+ "data_as_of": "2026-11-04T19:10:36Z",
+ "rendered_at": "2026-11-04T19:10:37Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/superasymmetry/internship-alerts",
  "companies": [
@@ -60,6 +60,25 @@
     "type": "engine-observed",
     "cycle": "Summer 2027",
     "observed_on": "2024-08-15"
+   }
+  },
+  {
+   "company": "Vatic Investments",
+   "last_cycle_posted": "",
+   "posted_on": "2025-09-04",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2025-09-04",
+   "days_until": -426,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/vaticlabs/jobs/7205954",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2025-09-04"
    }
   },
   {
@@ -1887,6 +1906,25 @@
    }
   },
   {
+   "company": "Saab",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-03",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-03",
+   "days_until": -62,
+   "status": "open",
+   "url": "https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Collamer/Co-Op--Information-Security--Spring---Summer-2027-_R-03409-1",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-03"
+   }
+  },
+  {
    "company": "Sierra Nevada Corporation",
    "last_cycle_posted": "",
    "posted_on": "2026-09-03",
@@ -3304,25 +3342,6 @@
    "days_until": -44,
    "status": "open",
    "url": "https://jobs.ashbyhq.com/cowboyspace/56d1d7e4-fa7e-4c25-aa8b-6828447fc64a",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-09-21"
-   }
-  },
-  {
-   "company": "Fidelity Investments",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-21",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-21",
-   "days_until": -44,
-   "status": "open",
-   "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/200-Seaport-Blvd-Boston-MA/Quantitative-Research-Intern--Equity-Quantitative-Research-Team_2135122",
    "note": "",
    "provenance": {
     "type": "engine-observed",
@@ -7851,25 +7870,6 @@
    }
   },
   {
-   "company": "Saab",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-03",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-03",
-   "days_until": -62,
-   "status": "dropped",
-   "url": "",
-   "note": "",
-   "provenance": {
-    "type": "engine-observed",
-    "cycle": "Summer 2027",
-    "observed_on": "2026-09-03"
-   }
-  },
-  {
    "company": "skillz",
    "last_cycle_posted": "",
    "posted_on": "2026-09-03",
@@ -8440,6 +8440,25 @@
    }
   },
   {
+   "company": "Fidelity Investments",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-21",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-21",
+   "days_until": -44,
+   "status": "dropped",
+   "url": "",
+   "note": "",
+   "provenance": {
+    "type": "engine-observed",
+    "cycle": "Summer 2027",
+    "observed_on": "2026-09-21"
+   }
+  },
+  {
    "company": "Rentvision",
    "last_cycle_posted": "",
    "posted_on": "2026-09-21",
@@ -8953,5 +8972,5 @@
    }
   }
  ],
- "count": 471
+ "count": 472
 }
