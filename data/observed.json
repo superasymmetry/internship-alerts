@@ -1106,6 +1106,7 @@
       "workday:caci:/job/Oklahoma-City-OK-US/Software-Development-Intern---Summer-2027_333085",
       "workday:caci:/job/Omaha-NE-US/Software-Engineer-Intern---Summer-2027_332776",
       "workday:caci:/job/Reston-VA-US/Software-Engineering-Intern---Summer-2027_332041",
+      "workday:caci:/job/Rochester-NY-US/Software-Engineering-Co-op-Intern---Spring-2027_334160",
       "workday:caci:/job/Sarasota-FL-US/AWS-Cloud-Engineering-Intern---Summer-2027_331437",
       "workday:caci:/job/Sarasota-FL-US/Software-Engineering-Intern---Summer-2027_331359",
       "workday:caci:/job/Sarasota-FL-US/Software-Engineering-Intern---Summer-2027_332618",
@@ -1115,7 +1116,7 @@
       "workday:caci:/job/Sterling-VA-US/Software-Engineering-Intern---Summer-2027_332386",
       "workday:caci:/job/Ypsilanti-MI-US/Software-Engineer-Intern---Summer-2027_331648"
      ],
-     "count": 27
+     "count": 28
     }
    }
   },
@@ -6178,5 +6179,5 @@
    }
   }
  },
- "updated_at": "2026-11-05T00:39:55Z"
+ "updated_at": "2026-11-05T07:40:28Z"
 }
