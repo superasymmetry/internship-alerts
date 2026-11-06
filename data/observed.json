@@ -4955,14 +4955,13 @@
      "role_ids": [
       "ashby:f7d8749a-72d6-407c-bf98-292ea630c73a:661d7ac4-51df-454d-82c8-2a0d94852036",
       "ashby:f7d8749a-72d6-407c-bf98-292ea630c73a:a28e047a-ee12-452c-883b-ecd995d1b6b2",
-      "ashby:f7d8749a-72d6-407c-bf98-292ea630c73a:db04c516-d21a-449c-8bfd-1cf830eafb5a",
       "ashby:shieldai:661d7ac4-51df-454d-82c8-2a0d94852036",
       "ashby:shieldai:a28e047a-ee12-452c-883b-ecd995d1b6b2",
       "ashby:shieldai:db04c516-d21a-449c-8bfd-1cf830eafb5a",
       "lever:shieldai:8c850c75-081d-4d09-bebf-096379a93010",
       "lever:shieldai:db8fc063-8856-4404-991c-f287712de949"
      ],
-     "count": 8
+     "count": 7
     }
    }
   },
@@ -6226,6 +6225,20 @@
     }
    }
   },
+  "zoox": {
+   "name": "Zoox",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-30",
+     "role_ids": [
+      "lever:zoox:7b20b929-d9a4-4995-a472-16cd4925a877",
+      "lever:zoox:88f6cb68-1534-44af-80db-10e43c203520",
+      "lever:zoox:8b32157b-ab44-4078-85ea-1d8d7b747a20"
+     ],
+     "count": 3
+    }
+   }
+  },
   "zurn elkay water solutions": {
    "name": "Zurn Elkay Water Solutions",
    "cycles": {
@@ -6240,5 +6253,5 @@
    }
   }
  },
- "updated_at": "2026-11-05T22:16:42Z"
+ "updated_at": "2026-11-06T02:41:12Z"
 }
