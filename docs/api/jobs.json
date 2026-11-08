@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-11-07T20:29:30Z",
- "data_as_of": "2026-11-07T20:29:30Z",
- "rendered_at": "2026-11-07T20:29:30Z",
+ "generated_at": "2026-11-08T00:14:27Z",
+ "data_as_of": "2026-11-08T00:14:27Z",
+ "rendered_at": "2026-11-08T00:14:27Z",
  "source": "https://github.com/superasymmetry/internship-alerts",
  "h1b_window": "FY2022–2023",
- "count": 1088,
+ "count": 1086,
  "jobs": [
   {
    "id": "lever:zoox:0168ad29-2fd8-4c91-865c-b9fff8aa30c1",
@@ -18973,38 +18973,6 @@
    "remote": false
   },
   {
-   "id": "greenhouse:ziprecruiter:8180455",
-   "company": "ZipRecruiter",
-   "title": "Software Engineer - Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Santa Monica, CA",
-   "url": "https://job-boards.greenhouse.io/ziprecruiter/jobs/8180455",
-   "posted_at": "2026-09-23T15:03:20-04:00",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-09-24T17:25:38Z",
-   "sponsorship": "unknown",
-   "salary": "$45/hr",
-   "skills": [
-    "Python",
-    "Java",
-    "JavaScript",
-    "React",
-    "HTML/CSS",
-    "Kubernetes"
-   ],
-   "class_year": null,
-   "underclass_program_key": null,
-   "underclass_program": null,
-   "underclass_audience": null,
-   "source": "greenhouse",
-   "h1b_approvals": 22,
-   "program": "Internship",
-   "remote": false
-  },
-  {
    "id": "workday:dxctechnology:/job/ITA---MI---MILAN/Cyber-Security-Intern_51583298",
    "company": "DXC Technology",
    "title": "Cyber Security Intern",
@@ -19304,36 +19272,6 @@
    "source": "workday",
    "h1b_approvals": 46,
    "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "smartrecruiters:Keenfinity:744000151395769",
-   "company": "Keenfinity",
-   "title": "Software Test Automation Co-Op",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Fairport, NY, United States",
-   "url": "https://jobs.smartrecruiters.com/Keenfinity/744000151395769",
-   "posted_at": "2026-09-23T14:10:21.366Z",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-09-23T15:15:04Z",
-   "sponsorship": "unknown",
-   "salary": "$25–$26/hr",
-   "skills": [
-    "Python",
-    "C++",
-    "Azure",
-    "Linux"
-   ],
-   "class_year": null,
-   "underclass_program_key": null,
-   "underclass_program": null,
-   "underclass_audience": null,
-   "source": "smartrecruiters",
-   "h1b_approvals": null,
-   "program": "Co-op",
    "remote": false
   },
   {
